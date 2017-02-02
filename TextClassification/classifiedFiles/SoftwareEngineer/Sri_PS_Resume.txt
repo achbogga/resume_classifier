@@ -1,0 +1,661 @@
+
+	Sri 
+
+
+
+
+svalupadasu@gmail.com
+
+
+
+Contact: 732-501-5388
+	
+
+
+Professional Summary
+
+
+Over 12 years of experience in IT and over 10 yrs in PeopleSoft HRMS, Financials and CRM applications on a client/server environment.
+
+
+Have very good experience in PeopleSoft implementation, development, customization in different environments like HRMS/HCM/Fin/CRM. In the HRMS/HCM worked on different modules like HR, Payroll, Benefits, Time and Labor, Benefits Administration, ELM, TAM, Recruiting and PORTAL modules. In the Financials worked on General Ledger, Account Payables, Account Receivables, Asset Management and Projects.
+
+· Proficient in all phases of the systems development life cycle including requirements definition, data conversion, data mapping, system implementation, system testing and acceptance testing.
+
+· Proficient in Module Development, Up-gradation, Interfacing, Conversion, Data Migration, Project Migration,  Writing specification and Report Writing.
+
+· Expertise in using Integration Broker, App Engine, Component Interface, People code, SQR, Crystal Reports, n Vision, XML Publisher and Data Report Designer.
+· Very good experience in Self service Applications (ESS and MSS).
+
+· Worked in PeopleSoft workflow and involved in Business process automation.
+
+· Extensive knowledge in report writing using SQR and Crystal report 8.0.
+
+· Involved in customization and implementation of PeopleSoft on SQL-Server, DB2 and Oracle. 
+
+· Have excellent data modeling, analytical and problem solving skills and very good team player with excellent communication skills.
+
+Technical Skills:
+
+	ERP
+	:
+	PeopleSoft HRMS/HCM (6.5,7.5,8.x,9.x), HR, Benefits, Compensation, Payroll Interface, North America Payroll, GL/Accounting, e-Pay, e-Compensation, e-Benefits, e-Profile, e-Recruit, Benefits Administration, Time and Labor, ELM, TAM, People Soft Portal8.4, Staffing Front Office 8.4, ELM , Enterprise Portal 8.4 Financials (6.5,7.5,8.4,8.8,9.0) AP, AR, GL, Billing, IN, AM, OM,
+People Tools (8.1x,8.2x, 8.4x, 8.5x) and People Soft Integration Tools, EIP, Integration Broker
+
+	Languages
+
+	:
+	SQR , SQL, People Code, HTML, COBOL, Java,  XML
+
+	RDBMS
+
+	:
+	Oracle 8i, 10g, Sybase, MS Access, SQL Server (6.5, 7.0), DB2 ver7.0, Sybase.
+
+	Tools
+	:
+	PS Query, Data Mover, Import Manager, Process Scheduler,  Application Designer, Application Engine, Integration Broker, XMLP,  Excel to CI, Application Reviewer, MS Excel., XMLP
+
+	Reporting Tools 
+
+	:
+	SQR6.4, Crystal Reports 4.6/6.0/7.0/8.0.
+
+	Testing Tools
+	:
+	Win runner, Load Runner, Test director, SQA Robot
+
+	E-Commerce
+	:
+	Java 2, J2EE, JSP, EJB
+
+	Application Servers
+	:
+	BEA Tuxedo6.5/Jolt1.2, WebLogic6.1.
+
+	Operating System
+	:
+	Windows 98,2000 & NT, HP-UNIX 11.0, Linux, Sun Solaris, Os/390, MVS
+
+	Others
+	:
+	Mainframes, WorkBench2, JCL, QMF, TSO, Changeman, FTP, EIP, Data Warehouse, Informatics,  DTS,  Stat Tool, Win-SQL, Win Flex,  Ultra Edit, Site Minder, Tuxedo 6.5,MS-Office, Lotus Notes, MS Project 98, Test Director, Rational Suits.
+
+
+Professional Experience
+Winn-Dixie, Jacksonville, FL
+
+
+
+
+
+
+Jan, 13 to Present
+Modules: HRMS 9.0 Implementation (HR, Payroll, Benefits, ESS, MSS, TAM)
+Technical Developer
+Implementation Project
+
+Environment: People tools 8.49/8.50, Application Engine, CI, Integration Broker, People code, PS-Query, SQR, Ultra Edit, XML Publisher, DB2, Main Frames, TSO, Changeman, STAT Tool5.6.1, TALEO and Win-SQL.
+Responsibilities:
+
+· Created many Reports using SQR’s.
+
+· Created queries using Win-SQL.
+
+· Modified the existing SQR’s for Org Data and Org Data plus to process All Retail Locations and Non-Retail Locations  job codes.
+· Worked on SQR’s and ran the jobs in TSO and NT environment.
+· Created packages in Changeman.
+
+· Created reports in different modules like HR, Payroll and Benefits using SQR.
+
+· Modified the Application Package people code for TAM/MSS process as per Client requirement. 
+· Worked on STAT Tool to assign the CSR, to modify the workflow process, to finish the tasks.
+· Modify the existing SQR’s for PT sick/leave rate change and cap.
+
+· Worked on some App Engine programs for performance issues.
+
+· Worked on Retail Bonus process SQR’s to change their fiscal year dates and bonus calculations.
+
+· Created some SQR reports and Processes for Retail and Non-Retail locations.
+
+· Worked on unit testing and created the documents for unit testing.
+
+· Updated the technical design documents, uploaded these documents in STAT. 
+
+UPS, Wayne NJ
+
+
+
+
+
+
+
+
+Jun, 11 to Dec, 12
+Modules: HRMS 9.1 Implementation (HR, Payroll, Benefits, Ben-Admin, TL, ESS, MSS), CRM 9.1(Help Desk)
+Technical Developer
+Implementation Project
+
+Environment: People tools 8.50/8.51, Application Engine, CI, Integration Broker, People code, PS-Query, Tree Manager, Security, SQR, Ultra Edit, XML Publisher, DB2, Main Frame, Oracle11g, SQL Editor, and UNIX.
+Responsibilities:
+
+· Setup and Configured the Integration Broker Services. Created different Web-Services to Send/Receive the data from HR to CRM.
+
+· Created many Reports using XMLPublisher and executed thru online pages.
+
+· Created different types of medical forms using XMLP reports.
+
+· Wrote the People Code to send the dynamic reports thru email to the different departments based on  the  data selection.
+
+· Created queries using PS-Query.
+
+· Created reports in HCM and CRM using SQR.
+
+· Created Application packages for HR projects.
+
+· Worked on CI to modify the existing Component interfaces.
+
+· Added few new fields to the Component interfaces as per client requirement.
+
+· Created XML Publisher reports and Crystal reports to produce different medical forms like for Noise Test and vision tests.
+
+· Created and executed the SQL scripts to create the tables in Main Frame DB2 database.
+
+Genesys Ascension Health, Grand Blanc, MI
+
+
+
+
+May, 10 to Jun’11
+
+Modules: HCM 9.1 (HR, Benefits, Payroll, Benefits Administration, ELM, Time and Labor)
+
+Technical Developer
+Conversion and Implementation
+
+Environment: People tools 8.50/8.51, Application Engine, Integration Broker, People code, PS-Query, Tree Manager, Security, SQR, Crystal Reports, Ultra Edit, XML Publisher, Visio, STAT5.5, SQL Editor, SAGENT Tool, PROCLICK , SQL-SERVER, Oracle10g, AS/400 , LAWSON Database, , and UNIX.
+
+Responsibilities:
+
+· Used SAGENT tool to extract the HR and Payroll data from LAWSON database and created flat files to load into PS.
+
+· Created SQR programs to load the extracted data into PS.
+
+· Created App Engine Processes to upload the information into People soft Database from the flat files.
+
+· Setup the data in HR and Payroll side before loading conversion data.
+
+· Involved in loading and testing the conversion data.
+
+· Created SQR to create reports in Ben Admin.
+
+· Created the SQR reports in ELM
+
+· Involved in Technical design for Workflow related pages and Template Based Hires pages.
+
+· Created new Work list Status page to show Pending, Cancelled and processed Hires.
+
+· Created new Templates in TBH and Customized existing Templates in TBH. 
+
+· Customized existing Manage Hires page.
+
+· Created application Package for TBH.
+· Created XML Publisher reports for Employees Letters.
+
+· Worked on Ethnic Group page and customized as per the client requirement.
+
+· Created reports and customized some pages in Campus solutions.
+
+· Created so many interfaces, uploading programs using SQR.
+Mercedes-Benz, Montvale, NJ
+
+
+
+
+
+
+May, 08 – Apr, 10
+Modules: HRMS8.8/HCM9.0 (HR, Payroll, Benefit Administration, e-Benefit, e-Profile, Time and Labor, MSS, ESS, ELM, e-Profile, EIS,   Portal
+
+Techno-Functional Developer
+
+Implementation, Upgrade and Production Support
+
+Environment: People tools 8.48, Application Engine, Integration Broker , SOAP,  People code, PS-Query, Tree Manager, Security, SQR, Crystal Reports, Data Stage, CA, ETL, XML Publisher, WSDL, SOAP, BPEL, DB2 Client, Net Star, Lotus Notes,  Oracle 10g, XML, Ultra Edit, Change Control,  and Unix.
+
+Responsibilities:
+· Worked on different modules.
+
+· Involved in gathering requirements, analysis and technical design.
+
+· Created a SQR processes which sends Email notifications to Time-Keepers and Time Reporters to remind them to approve the time. 
+· Created a SQR processes which sends Reports to Time Reporters every week ‘who ever has less than 8 hrs worked in the last week’ and ‘ Late Punch Reporters in the last week’.
+
+· Created outbound interface using SQR to send employees election details to Vendor in Ben Admin.
+
+· Created SQR Reports in Time and Labor  module like Elapsed vs. payable time report, Punch& Elapse Time on Same day report.
+· Created technical documentation for all the assignments.
+
+· Created flat files for sending information to the 3rd party system
+
+· Involved in the 9.0 upgrade. Retrofit all the assignments which have custom objects.
+· Establish the link between LOTUSNOTES with People soft system to read the information related to external Job Postings.
+
+· Worked on importing data from Excel to Component Interface.
+
+· Created SQL Queries in Oracle database using PS-Query tool to facilitate the user to pull the information on-line. Also created some queries for XML publisher data source.
+· Worked on Interfaces using Component Interface and other techniques.
+· Individually designed and implemented the Leased Cars Automation system. Designed and created the tables and pages. Created notifications, on-line pages, online reports and Workflows for this LCA.
+
+· Used Integration Broker to get the data like Car info and Dealers info from the 3rt party system Net-Star. For this setup the Gateway and configured the IB. Created Services , Service Operations, Routings and Messages and also wrote the people code to send these messages and wrote the code to transform XML response and store the data in table.
+
+· Created the AE and used Component Interface (CI) to load old leases from 3rd party system.
+Portal:
+· Gathered the requirements, analyzed, designed, developed and implemented many Portal pagelet assignments.
+
+· Created new Pagelet on Managers Desktop in PORTAL, It displays list of Employees and eligible drivers for service awards.  Any top-level manager can see the all-eligible employees under all levels of managers.
+
+· Set the security for the new pages so that only managers can access these pages.
+ACS, Little Falls NJ
+
+
+
+
+
+
+
+Dec ’06 – Apr ‘08
+
+Modules: HRMS 8.8/HCM 9.0 (HR, Payroll, Benefit Administration, Time and Labor, ELM8.8, e-Benefit, e-Compensation, e-Recruit, Portal)
+
+Technical Developer
+Implementation and Upgrade Project 
+
+Environment: People tools 8.4x, Application Engine, People code, PS-Query, Tree Manager, Security, SQR, TOAD, Java, Struts, XML Publisher, WSDL,ETL, Data stage, ETL, Ultra Edit, SQL Plus, PL/SQL, Shell Script, Test Director, Oracle8i, Sybase, DB2 and UNIX.
+
+Responsibilities:
+
+· Working on different modules in HRMS like HR , Payroll , Time and Labor , ESS, MSS, Benefits and recruiting solutions.
+
+· I involved in creating functional specifications for the implementation of Self Service and other implementations.
+
+· Wrote Test cases for Unit testing.
+
+· Used HR Tree and Management Tree for levels.
+· Created TRC, Workgroups and Rules in Time and Labor.
+
+· Created many upload programs using SQR in Payroll.
+· Created SQR to load the data into the Portal Staging tables used by Pages for security.
+
+· Created App Engine Processes to upload the information into People soft Database from the flat files and Portal Pages. Used Component Interface in the Application Engine process to update and load the data in PS from the following Self Service transactions application in the Portal Web. 
+· Created the Pages and wrote the people code for validation in portal page design.
+· Involve in People soft upgrade from 8.8 to 9.0. Part of the upgrade involved in updating custom SQRs and On-line screens. Updated many queries.
+
+Portal: 
+· Created Pagelets on home page like “Company’s Links”, “User Logon Statistics” and “Consultants News”. 
+· Created Pagelets based on external URL, HTML, People soft database content and custom I Script.
+Saint Gobain, PA 
+
+
+
+
+
+
+
+Apr 06’ – Nov’06
+
+Modules: HRMS 8.9 (HR, Payroll, Compensation, e-Benefits, Time and Labor, e-Recruit)
+
+Technical
+
+Implementation/Production Support 
+
+Environment: People tools 8.46, Application Engine, People code, PS-Query, Tree Manager, Component Interface, 
+
+File Layout, Security, SQR, TOAD, Ultra Edit, SQL Plus, PL/SQL, Shell Script, Test Director, Oracle9i and UNIX
+
+· Worked on different issues in HR, Compensation, and Benefit and Payroll modules.
+
+· Created App Engines and SQR to create flat files to send the information to the benefit vendors.
+
+· Created online pages to show the Employees accumulator details.
+
+· Create the SQR report which shows the accumulator balances for a given pay period.
+
+· Created run control pages for newly created process and reports and added input parameters to the page and attached the people code to validate input data.
+
+· Created more than 100 queries to pull the information like Paycheck, Compensation, Job details, Benefits, e-Benefits, Time and Attendance and other HR information to display on the Self-Service Portal Pages.
+· Automated some existing SQR processes, for that added new recurrences as per client request and attached to the process definition.
+
+Unilever , NY 
+
+
+
+
+
+
+
+
+Oct 05’ – Apr06
+
+Modules: HRMS 8.3, HRMS 8.8 (HR, Payroll, Benefit Administration, Time and Labor, e-Recruit, e-Benefits, GL/Accounting, ESS, MSS)
+
+Technical
+
+Implementation/Upgrade Project
+
+Environment: People tools 8.46, Application Engine, People code, PS-Query, Tree Manager, Component Interface, 
+
+File Layout, Java, Security, SQR, TOAD, Ultra Edit, SQL Plus, PL/SQL, Shell Script, Test Director, Oracle9i and UNIX
+
+· Worked on HR, Benefits, Payroll and Time and Labor related processes and reports
+
+· Gather the information from the users and analyzed the requirement. Involved in creation of Functional and Technical documents. Created flow charts and Technical design of the requirement.
+
+· Worked on Payroll, GL/Accounting, Benefits, Compensation and Time & Labor related SQR.  
+
+· Worked on SQR like Local W-2 tax, State W-2 tax and SUI related SQR.
+
+· Wrote many Interfaces, Conversion programs for Data Migration.
+
+· Involve in People soft upgrade from 8.3 to 8.8. Part of the upgrade involved in updating custom SQRs and On-line screens. Updated many queries.
+· Created different types of SQR process and reports in Time and Labor. Which includes
+· Develop a report that can be run by Managers, Payroll and HR, which details vacation and personal time
+
+· An automated process created to be put in place for Non exempt employees only that will round up the fractional vacation end balances to a whole number once all of the grants have been given
+· Vacation rounding process and unused vacation report
+
+· In Time and Labor created a rule to monitor incorrect payment of overtime when a full time employee has reported STD hours during the same week.
+
+· Created reports in Benefits based on the benefit vendor details. Created report for event rules for benefit plan types. Ran the Benefit Admin process for event change to test the reports.
+· Converted existing Application Engine program to SQR, because of performance issue.
+
+· Row Level Security is implemented using SQL Views to control the rows of data and Field Level Security has implemented using People Code.
+
+· Created more than 150 queries to pull the information like Paycheck, Compensation, Job details, Benefits, Time and Attendance and other HR information to display on the Self-Service Portal Pages.
+
+· Created Permission List, Roles and attached them to User Profile. Set workflow related settings in User Profile and Role components.
+Wal-Mart Bentonville, AR
+
+
+
+
+
+
+Jan’ 05 – Oct’05
+
+Modules:  HRMS 8.3, HRMS 8.9 (HR, Payroll, Benefits, Benefits Administration, and eRecruit, eCompensation, Time and Labor), Enterprise PORTAL 8.4.
+
+Financials 8.8 (AR, AP, IN, Order Capture, Billing, Purchasing, Expense and GL)
+
+Environment : People Tools 8.4 /8.46, SQR, Crystal Reports, Java, Cobol, HTML, XML, People code, Application Designer, Application Engine, Component Interface, Java, Integration Broker, Mobile Agent, Business Interlink, SQR, SQL,TSO, JCL,MVS,  Main Frames,DB2, OS/390, UNIX and Windows 2000.
+
+Production support and Conversion Developer
+
+
+
+
+
+
+
+Techno – Functional
+
+Responsibilities:
+· Involved in gathering information, analyzed user requirements, wrote detail Design Documentation, development & testing of the projects.(the major projects are  Drivers Turnover, Hire & Rehire, the uniform system, , MCI etc). 
+
+· Maintaining & developing of new applications in the HRMS, Payroll & Benefits areas. I was involved in the conversion    of Integral to PeopleSoft 8.x. currently in the upgrade to people Soft 8.4, along with attending to user & system related      problems by taking on call responsibilities.
+
+· The conversion project involved the migration of the present financial system to People soft Fin 8.4 software suite of applications. 
+
+· I am solely responsible for maintaining the Wal-Mart internal messaging system on the host known as net-mail & its interface with lotus notes.
+
+· Involved in the development and customization of panels, record definitions and menus using People Tools like Application Designer.
+
+· Produced similar conversion reports using SQR to load data from ADP in to PeopleSoft Payroll Tables.
+
+· Extensively used People Tools for creation or modification of Process Definitions, Records, Panels, and Menus to run Custom SQR through PeopleSoft environment.
+
+· Wrote Application Engine Programs to update the job table with terminated employee’s information provided by other system. Used Component Interface for updating information thru Job-data page.
+
+· Tested Application Engine program using different ways like thru Process Scheduler,  People code and Command line. 
+
+· Solved many production issues in AR and AP.
+
+· Setup the security like Permission Lists, with the Maintain Security for testing newly developed pages.
+
+· Defined Accounting Entry templates for Accounts Payables, Receivables and Billing.
+· Used process Scheduler to run the processes and used process monitor to view the status of the process.
+
+· Also used different Debugging techniques like People Code trace, SQL trace and Application Engine Trace for testing the Pages and Application Engine programs . 
+
+· Used Integration Broker for creating new messages to synchronize the data in custom tables related to Expense module from HRMS.
+
+· Extensively used PS/Query to develop ad-hoc queries, generate crystal reports and to produce analyzing reports using excel.
+
+· Used Application Reviewer and PS Trace/Debug options to capture the errors on various   People Code and SQL code.
+· Developed new SQR reports from scratch like, Number of employees in each Benefit Program, and list of employees in each major Benefit Plan, like Medical, dental, and Life Insurance etc.
+
+· Worked on Informatics to load the data from outside systems in to Warehouse.
+
+· Tuned SQL and SQR to improve performance using advance SQR features like Load lookup and Arrays.
+
+Portal:
+
+· Designed Pagelets for Goods Tracking, Vendor information and for Training classes
+
+· Setup the security and registered the Pagelet using Portal Registration Wizard. Set the Tab security to show only authorized pagelets.
+
+· Customized some existing pagelet to change the look and feel.
+
+Cingular Wireless, Inc, Dallas
+
+
+
+
+
+
+Jan ’04 - Dec’ 04
+
+Modules: HRMS 8.3 (HR, Payroll, Benefits, Time and Labor e-Recruit, e-Profile, e-Comp, ESS and MSS),
+
+Environment:  People Tools 8.24, SQR, Application Engine, Component Interface, Integration Broker. Crystal Reports 8.5, SQL, PS Query, PL/SQL, Oracle 8, Windows NT/2000 and UNIX, Tuxedo6.5/Jolt1.2, WebLogic6.1
+
+PeopleSoft Technical Consultant
+
+Responsibilities:
+
+· Responsibilities include business analysis, the development of a custom invoice printing program, Reports, Testing and documentation.
+
+· Involved in technical support and online support in various stages of development to Production environments.
+
+· Performed Gap Analysis and was responsible for finding the gaps between the legacy systems and People soft Applications.
+
+· Developed and customized the Records, Pages, Component and Menus as per the client functionality.
+
+· Created SQR processes in Time and Labor and Payroll .Created Payroll and Time labor reports as per the client req. And also created the SQR process which sends the Payroll data to GL. 
+
+· Written, debugged, and modified Peoplecode as per the business rules laid down by the client and implemented Peoplecode functions
+
+· Involved in developing and customizing Application Engine programs for various processes, interfaces to perform background SQL processing against the database and to replace some of the existing SQR programs.
+
+· Developed DFD Project tree, Business Unit tree and Account Tree using Tree Manager.
+
+· Creating Security Options and Security Views, as well as applied Security Setups Performing   Customization of Row-Level Security.
+
+· Performed data conversion from legacy to PS tables utilizing File Layout, App-Engine, SQRs and Data Mover scripts.
+
+· Involved in designing of new SQR reports and customizing the PeopleSoft delivered report designs according to user requirement.
+
+· Hands on experience in implementing App messaging and   Business interlink. Used for synchronizing tables in Expense and other financial modules.
+
+· Extensively used workflow for self service applications in ESS and MSS. Customized pages like Personal information, Leave apply, emergency, contact information pages. Changed routing system as per the client requirement.
+
+· Worked extensively in analyzing, designing and developing of some phases in e-Recruit module.
+
+Detroit Edison, Detroit, MI
+
+
+
+
+
+        
+May’03 – Dec’03
+
+Modules: People soft HRMS 8.3. (HR, Payroll, Benefits Administration, Time& Labor eRecruit, eProfile), PeopleSoft Financials 8.4 (GL, AP, AR, PO, AM, OM, BI, Expense, e-Procurement
+
+Environment : People Tools 8.19/8.20, Peoplecode, Crystal Reports 8.0, SQR, SQL, Unix, Windows-NT,  Tuxedo6.5/Jolt1.2, WebLogic5.1 QMF3.0, DB2, EDI,  MVS, OS/390, Mainframes, TOAD, JCL, EXTRA Personal Client 6.7, LDAP, TSO, COBOL, UNIX and Windows2000
+
+PeopleSoft Techno/Functional Consultant
+
+Responsibilities:
+
+· Performed  system study and analysis of PeopleSoft 8.0 Financials (AM, AR, AP e-Procurement and GL) modules to accurately interpret customer needs using Application Engine, SQR, PeopleTools, and Peoplecode
+· Interacting with the users for analysis and customization/modification of Lockbox Process in AR to import files, converting files received from the bank, and uploading the deposits into PeopleSoft
+
+· Analyzing and customizing algorithm groups/algorithms using Application Engine to execute SQL statements and to execute algorithm groups to process payments.
+
+· Working with users to analyze Payment Predictor Methods to set up the steps for Customer Identification and References supplied in Accounts Receivable, as well as to set up conditions and actions for overpayment exceeds, underpayment exceeds, and under payment.
+
+· Performing customization in e-Procurement to transparently include inventory items in search category only to prevent from purchasing goods that are already in stock..
+· Developed Application Engine programs and PS/Query on web browser using PIA.
+
+· Creating process definitions and attaching the custom/modified SQR to the Process Scheduler to transfer the data from the external systems for AM.
+· Worked on COBOL programs and did few modifications because of change in functionality in PS8.x.
+
+· Created Application Engine programs in place of SQR for improving performance.
+
+· Extensively use Component Interface for updating data in Job table.
+
+· Wrote the Test Script to verify that the user requirements are met.
+· Creating the SQL Queries using PS/Query and put the out in the Crystal Reports or Microsoft Excel, using this tool extracts the data from the PS tables, and generate any SQL statement and view in the Designer View
+
+· Using PeopleSoft tool to visually generate SQL queries
+
+· Created many interface between existing system and ADP.
+
+· Worked on e-Recruit self-service applications (like Employee and Applicants). 
+
+· Worked on self service applications like Employee self service and Manager self-service,
+
+· Involved in the upgrade process from 7.5 to 8.12, which includes upgrading PeopleTools release and applications release. 
+
+· Involved in meetings with functional experts in analyzing Fit Gap Analysis.
+
+.
+
+Home Depot, Atlanta, GA
+
+ 
+
+
+
+
+ Sep' 02 - Apr’ 03
+
+PeopleSoft Technical consultant 
+
+Modules: PeopleSoft HRMS 8.3(HR, Payroll, Base Benefits, Time & Labor, Pension Administration and Benefits Administration.)
+
+Environment: People Tools 8.12,8.14,8.19, People Code,  SQR, SQL, PL/SQL, SQR, SQL, PL/SQL, Shell Script, Application Engine, Component Interface, Application Messaging, Oracle 8.1.7, Windows 2000 and, UNIX.
+
+Responsibilities:
+
+· Extensively involved in PeopleSoft HRMS upgrade from v7.56 to 8, Implementation of HRMS 8.x, and customization.
+
+· Part of the upgrade, customized many SQR to meet new version standards.
+
+· Modified/Created SQR reports/interfaces, Crystal reports and Modified Custom PS objects.
+
+· Developed new reports using SQR, Crystal and PS-Query
+
+· Customized many pages related to Time and Labor, Time and Expense modules.
+
+· Customized SQR belong to HR and financial modules.
+
+· Extensively used people code for changing criteria in Scroll bars as per the client requirement.
+
+· Extensively Involved in Maintain Security and Object Security for newly created pages.
+
+· Extensively involved in writing Application Engine programs. Used component interface in Application programs for updating pages in different components.
+
+· Extensively used SQL and PL/SQL for creating stored procedure and Database Triggers.
+
+· Created views on major tables as per the client requirement.
+
+Info vision Inc.  IL  
+
+
+   
+
+
+
+
+Jun ‘01– Aug‘02
+
+PeopleSoft Technical Consultant
+
+Responsibilities:
+
+· Performing customization of multiple PeopleSoft 7.5 Financials (AP, AR, AM, GL, OM, BI, PO, PC) modules
+
+· Creating panels, records, menus, interface/conversion programs, and reports using PeopleTools, Peoplecode, and SQR
+
+· Interacting with users in meetings for fixing the bugs in different Financial Modules and case logs using Peoplecode and SQR while supporting the product
+
+· Modifying and customizing delivered SQR for interface reports in the Asset Management, Account Receivables, Order Management, and Billing modules
+
+· Creating process definitions and attaching the custom/modified SQR to the Process Scheduler to transfer the data
+
+· Using PS/Query tool to build the SQL Queries and display in Microsoft Excel or Crystal Report
+
+· Creating Queries, Search Queries and giving the row-level security Using the PS/Queries and generated SQL can also use it to query the database and get the required results
+
+· The output from PS/Query can be got either in a list box form or it can to routed to Crystal Reports from where more comprehensive reports and charts can be generated
+
+Modules: PeopleSoft Financials 8.x (AM, GL, AR, AP, OM, BI, PO), HRMS8.x (Payroll, Ben Admin, e-Applications) Procurement Modules,
+
+ Environment: People Tools, People Code, SQR, Application Engine, Data Mover, PS Query, Tree Manager, Oracle8i, PeopleTools7.5, Peoplecode, n-Vision, Crystal Reports, SQR, SQL, UNIX, Windows NT
+
+Integrated Hospital Management System 
+
+
+
+
+
+Nov ‘00 to May '01
+
+
+YashodaSuper Specialty Hospital, Hyderabad
+
+Responsibilities:
+
+· Involved in analysis, database design and application development.
+
+· Involved in the design and coding of major masters and transaction screens.
+
+·  Incorporated the concepts of ActiveX controls, DLLs, Windows API, Class Modules, customized dB Grids, tree views, list views, popup menus, OLE automation, RDO and ODBC.
+
+· Prepared typical stored procedures like creating virtual tables.
+
+· Created various reports like Ageing Analysis, Cross- Tab, Master-Detail-Detail and Graph reports using crystal reports.
+
+· Involved in preparation of documentation and user manual. 
+
+Environment: Visual Basic5.0, RDO, ODBC, Crystal Reports 6.0 SQL Server 6.0 and Windows 95/NT.
+
+Education:
+
+B.Tech (Computer Science), Andhra University, India
+
+Certifications:
+
+
+Brain Bench Certification in People tools 8.42
+
+
+Sun Certified Professional in JAVA.
+PAGE  
+Page 1 of 8
+Sri – PeopleSoft Resume
+
+

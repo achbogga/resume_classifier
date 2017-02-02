@@ -1,0 +1,108 @@
+
+    VAISHALI BHUSKUTE            
+3800 SW 34TH Street, Apt P129                                                                                                      Email: bhuskutev@gmail.com                         
+
+Gainesville, FL-32608                                                             Phone: (352) 871 3332 
+
+ 
+
+ 
+
+OBJECTIVE 
+
+Seeking a Software Development Internship position for Summer 2014. 
+
+ 
+
+EDUCATION 
+
+Master of Science in Computer Engineering      Expected Dec 2014   
+
+University of Florida           
+
+Current GPA 4.0         
+
+Bachelor of Engineering in Computer Science                            June 2010 
+
+University of Pune, India                                                                                                       
+
+ 
+
+RELEVANT COURSE WORK 
+
+Advanced Data Structures, Distributed Operating System Principles, Database Management Systems 
+
+ 
+
+TECHNICAL SKILLS 
+
+Languages: Java, Scala, C++, Oracle SQL 
+
+Operating System: Windows, Linux 
+
+Frameworks: Spring 
+
+ 
+
+WORK EXPERIENCE 
+
+J.P. Morgan Services India Pvt. Ltd, Mumbai, India - Applications Developer  July 2010 – Aug 2013 
+Project: Order Market Intelligence (OMI) 
+Technologies: Java, Oracle, Spring framework 
+
+ Designed and developed new order booking flow to assist sales users in booking orders in downstream. 
+
+ Developed and automated ‘Import feeds’ functionality to enable users to upload bulk orders in OMI. 
+
+ Designed and implemented a feature in OMI to get logs on user’s machine via email. 
+ 
+
+ACADEMIC EXPERIENCE 
+
+Distributed Debugger (Fall 2013 University of Florida) 
+
+Technologies: Scala, MSCGen, GraphViz 
+
+Implemented a debugging tool by adding logging to Scala actors to aid in visualization of message passing and 
+
+debugging distributed programs involving multiple Actors. 
+
+ 
+
+Pastry Protocol for Peer-to-Peer Systems (Fall 2013 University of Florida) 
+
+Technologies: Scala, using Actor Model 
+
+Implemented the Pastry protocol and a peer-to-peer object access service using it, over a simulated overlay 
+
+network. 
+
+ 
+
+AdWords Problem (Fall 2013 University of Florida) 
+
+Technologies: Java, Oracle PL/SQL 
+
+Implemented on-line ads auction system using various bidding algorithms. 
+
+ 
+
+AWARDS & CERTIFICATION 
+
+ New Graduate Student Achievement Award – University of Florida   
+
+ Oracle Certified Professional and Java SE 6 Programmer (OCPJP) (Dec, 2011)                      
+                       
+
+ 
+
+
+	Distributed Debugger (Fall 2013 University of Florida)
+	Implemented a debugging tool by adding logging to Scala actors to aid in visualization of message passing and debugging distributed programs involving multiple Actors.
+	Pastry Protocol for Peer-to-Peer Systems (Fall 2013 University of Florida)
+	Technologies: Scala, using Actor Model
+	Implemented the Pastry protocol and a peer-to-peer object access service using it, over a simulated overlay network.
+	AdWords Problem (Fall 2013 University of Florida)
+	Technologies: Java, Oracle PL/SQL
+	Implemented on-line ads auction system using various bidding algorithms.
+

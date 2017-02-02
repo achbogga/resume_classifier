@@ -1,0 +1,102 @@
+	Ajayramesh.cse@gmail.com
+
+	Ph: 919-536-9955
+Columbia, SC
+
+	
+AJAY RAMESH
+
+
+EMPLOYMENT
+
+Software Developer, R&D 
+
+
+   Unitrends, Inc
+
+
+
+              Aug 2012 - Present
+· Created a data hash correcting feature to correct bad data hashes in deduplicated backups of client machine on server side backups  which helped clean up bad hashes on 100% customer appliances in C/C++ on Linux 
+· Built and Created an SNMP framework in python which would proactively Monitor Unitrends Software and Appliance on customer server appliances and send alerts. Sending various alerts and monitoring information from customer server to trap receiver server. 
+· Built Integrated monitoring and configuration analysis tool in python for  network and data controllers  for proactive error detection and fixing in python on Linux Kernel thus decreasing device needing to be warranted  and increasing profits. This would collect data storage and data transfer information from high capacity backup servers.
+· Optimizing and prototyping Disks and RAID Controllers for servers by conducting performance analysis by performance analysis tools developed in python on Linux Kernel and recommending changes which improved performance of appliance by 30%
+Software Engineer Intern, R&D, 
+
+Intel Corporation
+ 
+
+
+            July 2008 – July 2009
+
+· Implemented Automation tool in C++ for getting Intel Server management system information using data structures defined 
+· Implemented tool in C++ for automating more than 500 Intel Server Management SDK APIs for white box testing of Server Storage features, client-server information, remote server information. 
+· Created Test cases and combinations by testing Intel Deployment Software with features for RAID, Operating Systems and Server Management on new server platforms by bringing them up and updating required binaries
+Data Analyst Intern
+
+
+
+TIAA-CREF
+
+
+
+            June 2011 – Aug 2011
+
+· Proactively tested more than 75 TIAA-CREF production applications features on internal financial transactions & baseline monitoring
+· Tested Inter-Voice Recognition system applications on phone transactions and reported about the latency 
+· Correlated with developers and testers to solve issues helping me to improve communication skills and mapped all technical documents in detail related to production applications errors.
+SCHOLARSHIP:  All India GATE scholarship during Master of Technology course, 2007 – 2009
+
+CERTIFICATION: VMWare VTSPl 5 Certificate
+EDUCATION:
+
+Charlotte, NC
+
+   
+
+University of North Carolina Charlotte     
+
+Fall 2010 – May 2012
+
+· M.S in Computer Science, May 2012, GPA: 3.6/4.00                                                                    
+
+Bangalore, India
+
+
+Visvesvaraya Technological University
+
+Aug 2007 - July, 2009
+
+· M.Tech in Computer Science & Engineering, July, 2009, GPA: 67.1/100
+
+Mysore, India
+
+
+
+Visvesvaraya Technological University
+
+Sep 2003 – July, 2007
+
+· B. E in Computer Science & Engineering, July, 2007
+
+· Main Courses: Distributed Systems, Grid Computing, Parallel Computing, Data Integration, Information Security, Software and System Design, Advanced Database
+LANGUAGES AND TECHNOLOGIES
+C++, C, python, Java, Perl, PHP, SQL, TCP/IP, Routing Protocols, Hadoop
+UNIX, Linux, Windows, MySql, NS 2.33, Eclipse, Visual C++
+RELEVANT PROJECTS
+
+· Parallel Grid Application Framework (2012): Created frameworks for patterns usable in parallel computing environment similar to Intel Open MPI, for developing grid application framework, a distributed parallel programming methods that encourages programmers to port computation intensive tasks to Grid. Created Divide and Conquer, modeled MapReduce patterns, conducting performance evaluation of the frameworks by implementing algorithms to explore how information moves through the workpool environment. [JAVA | MESSAGE PASSING | JXTA]
+· A SAAC Job Portal (2011): Used HTTP requests to contact data sources that exposed apis as web-service (indeed.com, dice.com) to retrieve JSON/XML responses. Responses maintained as an in-memory object model maintained at client. Involved query processing, query optimization and Dealt with removing duplicate job entries from different data sources. [Language: Java, XML, JSON, HTML | Platform: Linux]
+· Clustering Analysis: Provided Clustering analysis by testing the performance difference of K-Means, Affinity Propogation and Spectral Clustering algorithms along with SVM Classifier on Million music dataset, Iris Dataset and Wisconsin Breast Cancer Dataset based on DB Indexing, Silhoutte, Homogeneity and separation evaluation factors
+
+· Data Privacy for software Testing (2011): Implemented popular data anonymization algorithm K-Anonymity in a selective way which identifies how test coverage of privacy in Database Centric Applications can be balanced with software Testing Goals.  The approach verifies that sensitive data in databases are protected while maintaining testing efficacy. Used open source Apache Hadoop to implement the study.
+
+· Knowing Your Background (2010): A brief research study for more than 65536 nodes on Improvement over the Statistical disclosure attack with mathematical analysis and its implementation of sending 10 – 1,000,000 dynamic and non-dynamic background cover traffic in TCP/IP via threshold mix as a counter-measure for attacks. Increasing the attacker round by 300%.  Used MIT open source Statistical Disclosure attacker simulator [Programming Language: C++ | Linux Platform]
+· Time Synchronization & Message Alert (2010): Program implemented to demonstrate middleware layer in Distributed Systems by time synchronization between client and Server. A message alert system, which would provide message alerts on weather to the personnel email id for client –server interaction on Distributed systems
+
+· Distributed Cache Update Algorithms for Dynamic Source Routing protocol (2009):  Defined a new cache structure Cache Table and implemented optimal distributed cache algorithm for route table updates for dynamic source routing protocol. Used network simulator 2.33 for embedding new algorithm and debugging it. Showed algorithm outperforms DSR with path caches by 34% in TCP/IP for a topology of 256 to 64,000 nodes. Developed using open Source NS 2.33 Network Simulator [C++ programming | Linux Platform]
+· Finding Routes (2008):  Developed an application to find shortest route between two cities on a map using A*, BFS and DFS algorithms. Used java programming language for its implementation
+
+· Discrete Verification of Hand written signature (2007): Implemented a discreet hand written signature verification application based on features extracted from 4 signatures through mathematical model of dynamic time warping algorithm along with linear regression. Achieved true positives of 91% when testing on more than 360 signatures. Used core java and Java Swings for the implementation 
+[Java, Java Swings | Windows Platform]
+CO-CURRICULAR ACTIVITIES: Participated actively IEEE Gold Bangalore program, State Level Volley Ball player in India
