@@ -1,0 +1,2122 @@
+
+HEMADEEP_DEC_11_2013-P.doc
+                                                               HEMADEEP KAMBHA
+
+saeedmograbi@gmail.com
+                                                                                                     214-302-8991©
+
+
+PROFESSIONAL SUMMARY:
+
+
+Almost Seven plus years of extensive experience in complete life cycle of Software Development including System Study, Analysis, Design, Programming, Implementation, Integration and Administration. Over Five years of experience in performance tuning, configuration, Installation, Deployment and Administration of IBM WebSphere MQ 6.x/7.x, WMB 7.x/8.x on Linux, UNIX, AIX, HP-UX, Sun Solaris, Z/OS and Windows.
+
+· Four plus years of proficiency in IBM WebSphere Message Broker V7.0/8.0, IBM Websphere MQ and Message Broker installation, configuration and administration.
+
+· Strong Knowledge of Service-Oriented Architecture (SOA).
+
+· Designed new logging mechanism using Log4J.
+
+· Expertise in working with IBM MQ Series and Websphere Message Broker on various platforms like Sun Solaris 8/9, AIX, and Windows NT/2000/2003/XP/7.
+
+· Experience in configuring the adapters in connection with the source and destination applications with Websphere Message Broker.
+
+
+· Experience in MQSeries Clustering, MQClient /MQ setup, MQSeries System Administration, user training and documentation.
+
+
+· Experience in J2EE Technologies such as JDBC, Servlets, JSPs, EJBs, JNDI, JMS and Web Services (SOAP and WSDL).
+
+
+· Experience in XML, JavaScript and distributed technologies like EJB.
+
+· Responsible for the Technical Design and Mapping Documents of EAI projects from requirements.
+
+
+· Responsible for creating Message Sets using XSDs, COBOL copybooks.
+
+
+· Experience with File Nodes, HTTP Nodes (including SOAP format messages).
+
+
+· Responsible for Test Strategy preparation & Deployment strategy preparation.
+
+· Involved in Conducting relevant Proof of Concepts and Proof of Technologies.
+
+· Providing inputs for Reporting, Tracking and Monitoring to Project Manager.
+
+
+· Experience in developing integration mappings to connect systems like Oracle, Flat files, Mainframe (VSAM files).
+
+· Proficient in debugging the messages using the message flow debugger.
+
+· Comprehensive knowledge in working with RDBMS like DB2, ORACLE, Ms SQL Server and MySQL.
+
+
+· Experience in handling the messages with MRM, IDOC, XML and JMS parsers.
+
+
+· Adept at analytical and problem solving skills.
+
+
+· Given support 24x7 to Offshore Team for defect fixing.
+
+· Excellent communication, team, leadership and management skills.
+
+
+TECHNICAL SKILLS:
+
+
+Middleware
+
+: Websphere MQSeries V6.0/7.0, DataPower XI50v4.0.0, Websphere Message Broker 
+                                              Vs7.0/8.0, WTX.
+Languages
+
+: Java, J2EE, SQL, PL/SQL, C, C++, and ESQL
+Databases 
+
+: Oracle (10g, 9i), DB2, MS SQL Server and My SQL
+Scripting Languages 
+: HTML, DHTML, XML, Shell Scripting
+Protocols 
+
+: TCP/IP, FTP, SMTP, HTTP
+Operating Systems 
+: AIX, Sun Solaris, Linux, Windows NT/2000/2003/XP/2007
+Tools 
+
+
+: Visual Age for Java, Jbuilder, , Aquadata studio, DbVisualizer, 
+                                             XMLSPY, App Watch, CURL, Rational Clear Case, SOAP UI
+
+Monitoring Tool
+
+: SVN, Tivoli Omegamon XE and Candle.
+
+
+PROFESSIONAL EXPERIENCE: 
+
+Client: PNC Bank, OH
+
+                                                                                      Oct 13- Present
+
+
+Role: WMB Consultant 
+
+
+Description: The objective of this project is to review current existing audit log, error logs, error handling and current automation. Suggest new methods for error handling based on the requirements and design of Log4J where it captures the errors and handles the exceptions accordingly with email alerts. 
+
+
+Responsibilities: 
+
+
+· Reviewed current error logging.
+
+
+· Designed new logging mechanism using Log4J. Used support pack IAM3 for logging messages in different levels like INFO, DEBUG & ERROR. 
+
+· Reviewed the current automation scripts.
+
+
+· MQ and Message Broker software installation on AIX
+
+
+· queue managers and brokers setup
+
+
+· MQ cluster queue managers setup
+
+
+· SSL security management for channels; Object Authority Manager (OAM) to manage authorization for MQ resources
+
+
+· Backup and recovery
+
+
+· Troubleshooting
+
+
+·  Support for Message Broker developer teams
+
+
+·  2nd level production support
+
+· Designed new automation scripts required for the WMB production support team/development team.
+
+
+· Deployment of message flow components through scripts.
+
+· Reviewed current Audit logging.
+
+
+· Designed new Audit logging mechanism replacing the existing method.
+
+
+Environment: WMQ 7.5, WMB 7.0, ESQL, Oracle, DB2, XML, SVN, RFHUtil, Eclipse Tool Kit, Windows.
+
+Client: Health Plan Services, FL                                                        
+
+
+      March 13 – Sep 13
+
+
+Role: WMB Consultant
+
+
+Description:  HPS is the largest independent provider of sales, benefits administration, retention, and reform technology solutions to the insurance and managed care industries. The main objective of this project was to receive off exchange and provide enrollment information, billing procedures from and to the carriers.
+
+Responsibilities: 
+
+· Used WTX node to call WTX maps, which converts data from 834 and 820 Data Formats to canonical xml and COBOL Copybook to canonical xml.
+
+· Worked on enrollment and billing projects for multiple carriers (Cigna and Florida Blue).
+
+· Created Web services as both provider and consumer using SOAP and HTTP Nodes.
+
+· Used Mapping Nodes to set values to target elements using ESQL Functions.
+
+· Used support pack IAM3 for logging messages in different levels like INFO, WARN, DEBUG & ERROR.
+
+· Used support pack IAM2 in test environment to find code coverage percentage, and developed subflows to handle HTTP and MQ Output Failures.
+
+· Developed XML Schema, XSLT and WSDL using XMLSPY.
+
+· Experience in creating MessageSets from the scratch and XSD.
+
+· Created MessageSets for CWF, TDS, and EDI, Name-Value pair MRM formats and also with Cobol Copybooks.
+
+· Developed Error Handling Flows to log the error and message to the Queues and Database.
+
+· Worked using SOAP UI to test the Web services.
+
+· Lead and coordinated with off-shore developing and testing team
+
+· Used ESQL to execute database, stored procedures, to get information from database tables, views.
+
+· Written database stored procedures to build XML out of a database and write to a directory. Then a MQ adapter was developed to take the XML file and write to MQ Queue using MQ java API.
+
+· DB2 was used as broker database and Oracle was used for inbound and outbound message auditing.
+
+· Exposed and invoked different Web Services using HTTP and SOAP Nodes to support SOA.
+
+· HTTP Built in nodes in combination with SSL certificates were used to send and receive http service requests from bank vendors.
+
+· Custom plug in ‘sendMail’ and ‘XML Validator’ node developed to send the mail when error occurs.
+
+· Involved in administration tasks using MQSC commands like creating Queue Managers, Queue, Channels, Process Definition, Name Lists, backup and recovery.
+
+· Involved in a team that administered MQ, Message Broker in Development and test environments
+
+· Implemented the clustering of queue managers to achieve workload balancing and to reduce system administration. 
+
+· Given support 24x7 to Offshore Team for defect fixing.
+
+· Involved in the design of High Availability Environment.
+
+· Worked closely with DB2, AIX, Windows support teams during WebSphere MQ and WBI Message Broker builds.
+
+Environment: MQSeries 7.5, WMB 8.0, ESQL, MQJMS, WAS, Oracle, DB2 UDB, XML, SVN, Java/J2EE, RFHUtil, Eclipse Tool Kit, AIX, Z/OS, WSRR, AS/400 and Windows.
+
+Client: NJM-West Trenton, NJ                                                        
+
+
+      March 12 – Feb 13
+
+Role: WMB Consultant
+
+Description: New Jersey Manufacturers insurance is one of the state’s top best auto insurance service providers. NJM software systems have to communicate with myriad third party products and legacy systems for different types of business transactions. All these products and legacy systems are built on different platforms. Integrating these systems individually is a cumbersome effort and runs into tight coupling issues. As a solution to this problem NJM has identified the need for a middleware system, which can lose couple all these systems and decrease the effort of integrating the systems. 
+
+Responsibilities: 
+
+· Analysis of the existing Vendor applications and created a road map for their integration to EIP (Enterprise Integration platform)
+
+
+· Created Functional and technical design documents and for the EIP platform Phase I.
+
+· Designed and developed reusable sub flows for error checking, Business exception handling and logging.
+
+· Designed and developed Skeleton message flows and message sets for the project.
+
+· Designed and developed message flow for integrating java based Query Management System (QMS) and Mainframe based Corporate System (CORP). This interface transforms XML messages from QMS to EDI format messages for CORP.
+
+· Involved in the Design of the Integration Solutions between multiple Applications.
+
+· Developed and designed message flows and message sets using ESQL to implement in routing and transformation for mapping the messages between XML, COBOL Copybook and C Structures.
+
+· Developed message flows using HTTP Request, HTTP Input Node and HTTP Reply Node for hosting and calling a Web Service.
+
+· Involved in design and development of Publish/Subscribe message flow Architectures.
+
+· Developed message flow using Compute Node, XML Transformation Node, Filter Node, Route to Label, Label, and Reset Content Descriptor, Flow order, File node and Database Nodes. 
+
+· Involved in tuning the IHS server nodes, JMS nodes and MQ nodes for the optimal performance of the messaging applications.
+
+· Developed Sub flows for Exception Handling, Auditing and Logging.
+
+· Involved in integrating the applications using the message oriented middleware methods to maintain the data flow.
+
+· Working experience on JDBC adapters for connecting with java based applications.
+
+· Installed, configured the WMQ and WMB products on Windows, AIX, Unix and Solaris.
+
+· Configured the Oracle and DB2 as the database for WMB Broker runtime environment.
+
+· Circumvented and resolved many complex and critical WMQ & WMB issues in production environment.
+
+· Developed Shell Scripts on various UNIX platforms for monitoring WMQ.
+
+· Developed ANT Scripts on windows to deploy Message Flows and Message Sets without using Control center of WMB.
+
+· Provided Naming Conventions, Backup & Recovery and Problem Determination Strategies for the project.
+
+· Hands on experience in Migrating Message Flows and Message Sets from WMB 6.1 to WMB 7.0.
+
+· Implemented and Configured SSL channels between queue manager to queue manager and applications to queue mangers.
+
+· Used Monitor logs and Queue depths to proactively find potential problems.
+
+· Integrated enterprise-wide J2EE applications and deployed using WebSphere Application Server and Application Assembly Tool.
+
+· Actively involved in Architectural and design review meetings.
+
+· Played vital role in tuning FIM, WebSeal and TAM to resolve performance issues.
+
+· Involved in creating and developing test cases, test messages for Unit, Integration and QA testing. 
+
+
+Environment: MQSeries 7.0, WMB 7.0, DataPower XI50 v4.0.0, ESQL, MQJMS, WAS, Oracle, DB2 UDB, XML, Tivoli, Java/J2EE, RFHUtil, Eclipse Tool Kit, Harvest, AIX, Z/OS, WSRR, AS/400 and Windows.
+
+Client: Mercedes-Benz -Detroit, MI                                                                 
+
+      May 11 – Feb 12
+
+Role: WMB Developer
+
+Description: Mercedes Benz has various local landscape systems where they need to get information regarding all Mercedes Benz dealers and customers. All these dealers and customers information is carried by an central ALFA system which can communicable only through web services for security reasons. As WebSphere Message Broker is powerful tool to consume the web service, we use it to consume the service and exchange information between the ALFA system and Local Landscape systems in their required message format.
+
+Responsibilities:
+
+· Designed message flows/sub flows and mapped the code as per inbound and outbound layouts.
+
+
+· Designed & developed Message Sets, Message, Micro, Mediation flows and deployed in broker using WBI environment, Customized XML, MRM and TDS based messages using ESQL for various card applications.
+
+
+· Involved in Debugging ESQL and Java code.
+
+
+· Coded ESQL procedures and functions for message processing and configured to the respective node in the message flows.
+
+
+· Developed message flow interfaces using WMQ to transform messages between different clients to meet their business needs with the help of IBM Primitive nodes i.e. Compute Node, Filter Node, RouteToLabel, Label, ResetContentDescriptor, Trace, and Database Nodes. Message flows and the Sub flows will process all requests.
+
+
+· Prepared mapping documents for each individual interface.
+
+
+· Coordinated and Communicated with the Business Partners to ensure complete understanding of re-usable messaging fields/flows and deliverables.
+
+
+· Assigned the Message flows to appropriate Execution Groups in Broker Runtime Environment
+
+
+· Created Fixed Length Messages for transforming transactions from mainframe to AIX.
+
+
+· Developed the Audit Subflow, Routing Subflow & Error handling Subflow to re-use into the main flows. 
+
+
+· Achieved transformation of messages from XML to Function code, and vice versa.
+
+
+· Transformed Request messages from SOAP XML to CWF & TDS based on the requirement and send those to Mainframe.
+
+
+· Deployed message sets and flows on DEV and QA brokers.
+
+
+· Dealt with various message types such MRM, COBOL, XML for various orders and updates.
+
+
+· Deployed J2EE applications to WebSphere Application Server (WAS), MQ Services, and IBM CrossWorlds Interchange Server (ICS) Advanced Single. Server Edition, WebSphere MQ Workflow.
+
+
+· Responsible for identifying and designing the MQ objects required, and involved in capacity planning for the MQ objects.
+
+
+· Configured MQ objects to monitor message interfaces. (Server, QMGR, QUEUE, Condition, Hear beat Interval and Alter lever)
+
+
+· Prepared and tested COBOL copybooks based on transaction according to the business needs.
+
+
+· Involved in creating and developing test cases, test messages for Unit, Integration and QA testing. 
+
+
+· Coordinated with test team in resolving defects/ enhancements throughout testing cycle.
+
+
+Environment: MQ Series 7.0, WMB 7.0, WBI Adapters, WAS, Oracle, DB2 UDB, Data Power Xi 50, Candle, Visio 2000, Java/J2ee, Linux, Shell scripts and OS/390, AS400 iSeries, Harvest, SVN, RFHUtil.
+
+Client: New Wave Telecom & Technologies INC –Elkridge, MD.                   
+                          July 10 – April 11
+Role: MB Consultant
+
+
+Description: NewWave has many applications and services for use by company personnel and independent agents.  WebSphere MQ Series and WebSphere Message Broker (WMB) is part of new wave’s integration strategy and will allow them to further integrate these applications and services as well as expand the use of a Service Oriented Architecture (SOA).  
+
+
+Responsibilities:
+
+· Designed and developed Message Sets and Message Flows for the Data transformation and Routing based on functional Design specifications.
+
+
+· Mentored Internal Customer Employees on WebSphere Message Broker. 
+
+· Extensively used Mapping and Compute Nodes for converting message formats from XML to COBOL Copybooks and COBOL Copybooks to XML.
+
+
+· Developed custom ESQL code for proprietary NewPage specific data transformations.
+
+
+· Used CachePut, CacheGet, CacheReplay nodes to cache dynamic data.
+
+
+· Used Http Nodes to export cache broker data to a web client/service.
+
+
+· Used a custom transaction monitor with emitter nodes developed by IBM for all these interfaces.
+
+
+· Used Candle Monitor nodes to monitor the message flows and queues.
+
+
+· Developed ANT scripts to build and deploy Message flows in the test environment on AIX. Also developed Ant scripts to check in and out and to create baseline in Rational Clearcase SCM.
+
+
+· Integration testing and Performance testing on AIX using Tivoli Omegamon.
+
+
+· Technical documentation of all the developed flows.
+
+Environment: WebSpehere Message Broker 7.0, ESQL, XML, DB2 8.1, Windows XP, AIX 5.3.
+
+Client: American Express Company-Phoenix, AZ.                                   
+
+          Aug 09 – June 10         
+
+Role: WMQ Developer
+
+
+Description: American express is one of the leading financial services organization involved in businesses like corporate cards, traveler checks, investments, 401K etc. Amex had taken the steps to integrate all the business applications and implemented those using MQ Series and WebSphere Message Broker. GBIS has many business applications using different software on distributed environment. By implementing middleware software MQ, AMEX was able to reduce the costs, increased the performance and delivered the services at a higher pace compared to other competitors. My experience involved in integration of process centric, messages centric and database centric applications. Primary role was to transform and route messages between different departments in the organization and was involved in configuration and support of MQ Series Objects.
+
+
+Responsibilities:
+
+· Involved in detailed project plan, analysis, documentation and design of architecture specification for MQ Series environment.
+
+
+· Defined and maintaining Queue Managers and MQ Objects on Windows, AIX, x/OS, and Linux.
+
+
+· Developed MQ Infrastructure in enterprise level with distributed and clustered environments.
+
+
+· Created and administered MQ Series objects such as Remote queues, Queue managers, Alias Queues, Process definitions and channels.
+
+· Used ISPF panels for administration of MQ Objects, Master Chin logs for troubleshooting MQ issues on z/OS.
+
+
+· Performed in switching existing applications from a point-to-point message pattern to publish and subscribe pattern without any code changes.
+
+
+· Configured and troubleshot queues, channels and processes for Triggering.
+
+
+· Configured channel attributes such as HBINT, BATCHINT for optimum network performance.
+
+
+· Created multiple hoping using remote queue and alias queue definitions.
+
+
+· Problem determination and trouble-shooting using system, Qmgr error logs and FFDC reports.
+
+· Involved in creating, customizing and viewing properties of JMS resources with the help of MQ explorer provided by MQ V6.0.
+
+· Installed and configured the WebSphere MQ V6.0 on AIX and Linux platforms.
+
+
+· Performed Graphical configurations of publish and subscribe and JMS through the Eclipse-based MQ explorer for improved usability to design and deploy JMS solutions.
+
+
+· Helped in Administering the MQ Series Objects like Queue Manager, Queues, Channels and Process Definitions.
+
+
+· Setup backup, recovery and trouble shooting for MQ Series.
+
+
+· Played a main role in Administering and Managing WebSphere Clustered environments including Application Deployment and Configuration. 
+
+· Solved issues in administering the installed packages and maintained the servers. 
+
+
+· Used shell scripts to automate administration tasks.
+
+
+· Experienced in Web services including SOAP, WSDL and XML concepts.
+
+
+· Implemented Backup (saveqmgr) and recovery procedures for production systems.
+
+
+· Used BMC-PATROL to create, maintain and monitor MQ Series objects.
+
+
+· Developed different modules using J2EE (Servlets, JSP, JDBC, JNDI)
+
+Environment: MQ Series 6.0, Windows, z/Os Oracle9i/10g, DB2 8.2, J2EE, XML.
+
+Client: ExxonMobil Corporation-Houston, TX.                                
+
+
+         Jan 09 – July 09
+
+Role: Java / MQ Consultant
+
+Description: Member of the Support team for MQ Series involved with the team of design, identify process flow, infrastructure and procedures documentation, layout plans for better performance, and implementation of WMQ Workflow Best practices.
+
+
+Responsibilities:
+
+· Installed and configured MQ Series in 3-tier architecture on AIX, and Windows NT environment.
+
+
+· Installed, configured and implemented Web-Client.
+
+
+· Interacted with business analysts to obtain, analyzing requirements and prepare specifications.
+
+
+· Identifying staff assignments, resources, organizations and roles involved in process flow.
+
+
+· Planned and Administered MQ environments for all stages of development as well as production.
+
+· Created Queue Managers, define Objects, channels, SSL, Clustering, shared channels, shared objects.
+
+· Developed the scripts for creating and maintaining Queue Managers, Queues, Channels, Processes and other WMQ objects.
+
+
+· Detailed knowledge of MQ Clustering.
+
+
+· Extensively involved in Design and Development of various modules using JSP, Servlets and JDBC.
+
+· Designed UI using JSP, HTML and validated with JavaScript for providing the User Interface.
+
+
+· Involved in Server and Client Side Scripting.
+
+
+· Identifying the roles in the system and assigning roles to staff implementing access control using dynamic resolution. 
+
+
+· Documented input and output data structures of each of the activity, implemented them in development.
+
+
+· Installed WebSphere MQ, configured Message and MQI Channels in distributed environment, create, delete, and modify MQ infrastructure objects.
+
+
+· Used Candle MW Secure to secure MQ Channels.
+
+
+Environment:  MQ Series 6.0, DB2, MQ Secure, Windows, AIX, Solaris, and Java.
+
+Client: Caterpillar - India                                                         
+
+
+      June 06 – Nov 08
+
+Role: Java Developer
+
+Description: Part Store Integrated Procurement is an e-commerce B2B procurement application allows various customers to integrate with different Caterpillar dealers either directly from their purchase system or through marketplaces. As part of direct ordering process Customers legacy systems generate purchase orders manually or through a batch process and place these orders in Caterpillar dealer’s business system. B2B e-hub interacts with Cat dealer’s DBS with various API’s and generates XML response and then passes the response back to the customer’s legacy system.
+
+Responsibilities:
+
+· As part of Six Sigma, cost savings analyzed, designed, and converted the Partstore integrated procurement (B2B e-hub) application from crosswords’ into homegrown java application based on the java rules engine.
+
+
+· Developing XSLTs for new Screens using XML Spy and also used AJAX, Java Scripts for client side validations.
+
+
+· Developed Business Objects to store the temporary data and then creating XML content for XSLTs.
+
+
+· Implemented data access logic using JDBC.
+
+
+· Based on functional requirements, developed Class Diagrams and Sequence Diagrams using Rational Rose. 
+
+
+· Developed PL/SQL’s functions and stored procedures for supporting the data transfer to and fro from web application, oracle database.
+
+
+· Prepared unit test cases for Unit testing the new functionality and supporting ST and UAT till the roll out to production.
+
+
+Environment: Java 1.4, JSPs, Java Servlets, JavaScript’s, EJB, JDBC, HTML, CSS, XML, SQL, Oracle 9i, BEA Web logic Server, UNIX.
+
+EDUCATION:
+
+· Bachelor of Technology in Electronics and Computers from Nagarjuna University.
+
+REFERENCES:
+
+Will provide upon request.
+
+1
+
+
+
+
+
+Jaminiranjan_Patel_-_WMB_Developer.doc
+
+
+WebSphere Message Broker Developer
+
+
+Jaminiranjan Patel
+
+Email ID: jipupatel@gmail.com  
+
+Contact No:  (201) 875-2733
+
+                                                                                                                                                                                                                                   Professional Summary
+
+· Having over 7 years of extensive experience in Administration, Design, Development and Testing with an earned reputation for meeting strict deadlines and delivering mission critical solutions on time and within budget.
+
+
+· Extensive experience in software development lifecycle, object-oriented, analysis, high competency in Middleware/Web application design and development.
+
+
+· Experienced in integrating WebSphere Message Broker with back end hosts configured in WSRR. 
+
+
+· Extensively worked with WebSphere Message Broker concepts like Exception Handlings, MQ, Files and HTTP concepts.
+
+
+· Extensively worked with ESQL and Java programming languages in Message Broker.
+
+
+· Extensively worked with XML standards like XSD, XSLT, SOAP and WSDL.
+
+
+· Experienced working with Message sets for different structures using MRM-XML, MRM-TDS and MRM-CWF formats.
+
+· Extensive experience in installations, setup and customization of MQSeries on ZOS v1.3, ZOS v1.11, AIX and Windows servers.
+
+
+· Experience setting up SSL security for Queue Managers.
+
+
+· Extensive experience in writing scripts to create Queue managers, queues, channels, processes and other MQ objects.
+
+
+· Experienced with configuring JCo Adapters. Implemented naming standards for various WMB, WTX, WDP and WMQ.
+
+
+· Experienced in integrating Message Broker with SAP using SAP nodes and WBI SAP adapters.
+
+
+· Experienced in working with WBI adapters like JText, JDBC and SAP.
+
+
+· Experienced in creation and configuration of Datapower services like Web Service Proxy, Multiprotocol Gateway and XML Firewall.
+
+
+· Experienced in configuring SSL objects in Datapower for use by HTTPS handler. 
+
+
+· Extensive work experience in administration of WebSphere MQ and WebSphere Message Broker on various platforms
+
+
+· Experience migrating MQ 5.3 and 6 to MQ 7.
+
+
+· Experience in creating and establishing cluster environment for MQ Queue managers for robust architecture practices by achieving better load balancing and failover.
+
+
+· Experience in configuring Distributed Queuing Mechanism (DQM) and Triggering in WebSphere MQ.
+
+· Extensively used PL/SQL queries to interact with Oracle database.
+
+· Experienced working with version control systems repositories like CVS, PVCS, Rational Clear Case 
+
+
+· Strong working experience in Windows, IBM AIX and Z/OS environments.
+
+
+· Proficient in creating technical documents such as tutorials, manuals, and guidelines. 
+
+
+· At ease in high stress environments requiring superior ability to effectively handle multi-task levels of responsibility.
+
+
+Skill Set
+
+
+Tools 
+:  IBM WebSphere Message Broker V 5.0/6.0/7.0 and 8.0, IBM
+
+
+  WebSphere MQ V 5.3/6.0/7.0, IBM WebSphere Application Server 
+
+
+  V 5.0/6.0/7.0, MQSI 2.1, DataPower XI 50 (v 3.8)
+
+Languages
+ 
+
+:  C, C++, SQL, PL/SQL, TSL, JAVA, PERL, XML, HTML
+
+
+Operating Systems 
+: IBM AIX, MVS/ESA, OS390, UNIX/Linux, Windows NT, Windows                                                                                                 2000/XP/98/95
+
+
+Database 
+: IBM DB2 8.2/9.1, IMS/DB/DC, Oracle 11i/9i/8i/8, MS Access, SQL Server   2000.
+
+
+Subversion tools                             : IBM Rational Clear Case, Tortoise SVN, CVS.
+
+
+Project Experience
+
+
+NewYork State Power Authority, White Plains, NY
+
+
+
+        
+ August’ 13 – Current
+
+
+Message Broker Developer
+
+
+NYPA is the leading Manufacturer and Distributor of Electricity. Part of the Middleware team involved in Message Broker development and day to day operations in maintaining the applications.
+
+
+  Responsibilities:
+
+
+· Developed message flow as clients to invoke services which are present in back end of platform using compute and SOAP Request nodes.
+
+
+· Installed Message Broker Toolkit, Broker Runtime, SQL Server, Oracle and Web Sphere MQ on windows environment.
+
+
+· Configured custom components for broker runtime like Broker and Broker Domain on windows environment.
+
+
+· Published message flows as Web Services for the SOAP request messages coming from ARGO using SOAP nodes.
+
+
+· Developed message flows for transforming data from one format of XML to other format of XML using XSLT node.
+
+
+· Developed message flows involving data flow using Environment variables, UDPs for dynamic DB parameters.
+
+
+· Developed java code using MQI API for Java applications to interact with WebSphere MQ Server. 
+
+
+· Developed ESQL for mapping and filters applied in compute node and configured message sets for mainframes applications.
+
+· Conversions made like ASCII, EBCDIC, DBRead, SAP IDOC,  to XML and vice versa. 
+
+
+· Conversions from Converts ASCII files to EBCDIC.
+
+· Troubleshooting and debugging messages flows using trace nodes and configured logs for message flows and used flow debugger for observing behavior of message flows.
+
+
+· Developed scripts for creating queues on windows environment and performed administrative tasks using mqsc commands.
+
+
+· Created local queues, alias queues and remote queue definitions on local and remote servers.
+
+
+· Configured distributed queuing mechanism for queue managers to establish communication between broker and configuration manager.
+
+
+· Experienced with tools like MQMON and RFHUtil to work with WebSphere MQ objects like queue managers, queues, listeners, channels etc.
+
+
+· Used Queue Manager Aliasing for Datapower to interact with Message Broker.
+
+
+· Integrated WMB with SAP R/3 using SAP adapter nodes. 
+
+
+· Used DataPower extension functions in XSLT and service variables for dynamic routing in Webservice Proxies.
+
+
+· Providing Technical and business solutions for MQ series, Datapower and Message broker interfaces
+
+
+· Redesigned existing message flows by replacing MQ nodes with EmailOutput and File nodes.
+
+
+· Administered the Queue manager, Queues and Channels.
+
+
+· Implemented SSL in WebSphere MQ for secure communication between queue managers.
+
+
+Environment: 
+
+
+IBM WebSphere Message Broker 7.0, WebSphere MQ 7.5, System Manager, WBI SAP v5.5, DB2 9.5, WTX 8.2, WTX Map Designer, XSLT, RFHUTIL, Web Services and DataPower XI 50, Mainframe, Windows 2003.
+
+IncentOne, Lyndhurst, NJ
+                   
+
+
+
+
+        
+        Nov’11 – May’13
+
+Message Broker Developer
+
+
+IncentOne is the leading provider of incentive solutions to the healthcare industry. IncentOne is the first incentive company dedicated exclusively to the healthcare industry. Part of the Middleware team involved in Message Broker development and day to day operations in maintaining the applications.
+
+
+  Responsibilities:
+
+
+· Developed message flow as clients to invoke services which are present in back end of platform using compute and SOAP Request nodes.
+
+
+· Installed Message Broker Toolkit, Broker Runtime, DB2 and WebSphere MQ on windows environment.
+
+
+· Configured custom components for broker runtime like Broker and Broker Domain on windows environment.
+
+
+· Published message flows as Web Services for the SOAP request messages coming from ARGO using SOAP nodes.
+
+
+· Developed message flows for transforming data from one format of XML to other format of XML using XSLT node.
+
+
+· Developed message flows involving data flow using Environment variables, UDPs for dynamic DB parameters.
+
+· Developed java code using MQI API for Java applications to interact with WebSphere MQ Server. 
+
+
+· Developed esql for mapping and filters applied in compute node and configured message sets for mainframes applications.
+
+
+· Troubleshooting and debugging messages flows using trace nodes and configured logs for message flows and used flow debugger for observing behavior of message flows.
+
+
+· Developed scripts for creating queues on windows environment and performed administrative tasks using mqsc commands.
+
+
+· Created local queues, alias queues and remote queue definitions on local and remote servers.
+
+
+· Configured distributed queuing mechanism for queue managers to establish communication between broker and configuration manager.
+
+
+· Experienced with tools like MQMON and RFHUtil to work with WebSphere MQ objects like queue managers, queues, listeners, channels etc.
+
+
+· Used Queue Manager Aliasing for Datapower to interact with Message Broker.
+
+
+· Integrated WMB with SAP R/3 using SAP adapter nodes. 
+
+
+· Used DataPower extension functions in XSLT and service variables for dynamic routing in Webservice Proxies.
+
+
+· Providing Technical and business solutions for MQ series, Datapower and Message broker interfaces
+
+
+· Developed Maps in WTX for transforming SWIFT MT messages.
+
+
+· Redesigned existing message flows by replacing MQ nodes with EmailOutput and File nodes.
+
+
+· Administered the Queue manager, Queues and Channels.
+
+
+· Implemented SSL in WebSphere MQ for secure communication between queue managers.
+
+
+Environment: 
+
+IBM WebSphere Message Broker 8.0, WebSphere MQ 7.5, System Manager, WBI SAP v5.5, DB2 9.5, WTX 8.2, WTX Map Designer, XSLT, RFHUTIL, Web Services and DataPower XI 50, AIX 6.1, Windows 2003.
+
+Barclays Capital, New York - NY
+                                      
+
+
+
+          May 10 – Oct 11 
+
+
+WebSphere Message Broker Developer                                                                                        
+
+
+Barclays Capital is a leading global investment bank with one of the largest client bases in the world.  It provides strategic advice, lend money, raise capital, help manage risk, and extend liquidity, and hold global leadership positions in all of the major business lines. The firm is a leader in investment banking, financial services for consumers, small business and commercial banking, financial transaction processing, asset management, and private equity.                                                                                 
+
+
+Responsibilities:
+
+
+· Preparing functional and technical specification documents for integrations.
+
+
+· Designed & Developed Message Sets, Message flows, Mediation flows and Deployed in broker runtime.
+
+
+· Developed Message Flow interfaces to transform messages between different clients to meet their business needs with the help of IBM Primitive nodes i.e. Compute Node, Filter Node, Route To Label, Label, ResetContentDescriptor and Trace Nodes.
+
+
+· Created Crypto profiles and SSL proxy profiles as part of SSL implementation.
+
+
+· Created Message flows without Message set which used custom XSD/XSLT transformations to XML and Fixed Length Message (TDS).
+
+
+· Developed MQ objects such as Local Queues, Remote queues, Alias Queues, Sender and Receiver Channels etc. using mqsc script commands.
+
+
+· Used ESQL for routing and enrichment of incoming messages in compute and filter nodes.
+
+
+· Published message flows as web services using SOAP and HTTP nodes.
+
+
+· Implemented common error handling mechanism for all message flows.
+
+
+· Designed and developed message flows to interact with file system using file nodes.
+
+
+· Participate in design, walkthrough, code review and defect review meetings.
+
+
+· Developed message flows involving data flow using Environment variables, UDPs for dynamic DB parameters.
+
+
+· Conducted System, Integration, Functional and Regression Tests in test and quality assurance environments.
+
+
+· Monitoring broker logs and error queues.
+
+
+· Installed WebSphere MQ on AIX 5.3 Platform.
+
+
+· Created WMQ Cluster to provide the high availability and for workload balancing.
+
+
+· Involved in On-call weekly rotation to provide 24 X 7 production support and infrastructure Monitoring / troubleshooting.
+
+
+· Installed WebSphere MQ on AIX 5.3.
+
+
+Environment: 
+
+
+WMQ 6.0/7.0, Message Broker 6.1/7.0, DB2 8.2, Oracle 9i/10g, z/OS, AIX 5.3 and Windows2003.
+
+
+Kohl’s corporation, Menomonee falls, WI
+
+
+
+
+
+         Aug 08 – Apr 10
+
+
+Message Broker Developer
+
+
+Kohl’s Corporation operates family-oriented department stores in the United States. The company’s stores offer apparel, accessories, and footwear for women, men, and children; soft home products, such as towels, sheets, and pillows, and house wares. As of December 31, 2007, it operated 929 stores in 47 states. The company was founded in 1962 and is headquartered in Menomonee Falls, Wisconsin
+
+
+Responsibilities:
+
+
+· Created and tested COBOL copy books based on transaction according to the business needs.
+
+
+· Administered message broker components like configuration manager, broker run time and Message Broker tool kit.
+
+
+· Designed and developed message flows and message sets for integration with Legacy systems
+
+
+· Developed common procedures for exception handling
+
+
+· Prepared High-Level Design Documents for WMB Interfaces. 
+
+
+· Installed and Configured the WMB on windows for developing the proof of concepts (POC).
+
+
+· Achieved transformation of messages from XML to Function code, and vice versa.
+
+
+· Transformed Request messages from SOAP XML to COBOL Copybooks based on the requirement and send those to legacy system
+
+
+· Installed on configured the WMQ on different environments like Development, Testing, Staging and Production.
+
+
+· Took care of performance & Tuning issues while doing the Detailed Design for all WMB Interfaces.
+
+
+· Developed Message Flows using Broker Toolkit. 
+
+
+· Implemented Dead Letter Queue Handler for handling the Dead letter Queue messages.
+
+
+· Deployed message flows into execution groups on different environments.
+
+
+· Provided MQSeries support to project by performing administrative duties such as installing MQSeries server and client, creating and configuring Queue Managers, Channels, Queues, Process definitions, clustering in all environments and ensures functionality on Windows and UNIX systems.
+
+
+· Prepared test cases and test data for testing the various flows in QC.
+
+
+· Involved in 24/7 Support team for Message flows
+
+
+Environment: 
+
+IBM MQ Series 5.3/5.1, Web sphere Message Broker 5.0, Java/J2ee, OS/390, Windows , Oracle/DB2, Java, XML/XSLT,PL/SQL
+
+Hutchison 3G, INDIA
+
+
+
+
+
+
+
+
+        June 06 - Aug 08
+
+Java Developer
+
+This is an application which allows Customer Support Representatives to initiate the porting process for mobile number from a different service provider to Hutchison or from Hutchison to another service provider. 
+
+
+Responsibilities:
+
+
+· Developed this application using Java, Struts in Eclipse IDE.
+
+
+· Created Enterprise java beans for interacting with web services.  
+
+
+· Created the software design document for the application and implemented port-in and port-out process using the above technologies.
+
+
+· Wrote Ant scripts to create deployment packages.
+
+
+· Worked on WebLogic performance tuning and deployed the application on WebLogic Server.
+
+
+· Created cluster server in WebLogic server for load balancing of the application.
+
+
+· Supported onsite team during production.
+
+
+· Led a development team of two members which delivered a Proof of Concept and the full featured application. Involved in creating tasks and tracking tasks for the team members and effort estimations.
+
+
+· Created test plan for unit testing, integration testing and regression testing.
+
+
+· Authored the User Manual, Release Document and Test Case Document.
+
+
+Environment:   
+
+Java, Struts, Enterprise Java Beans, Web Services, Eclipse, WebLogic Server, JBoss, Oracle, UNIX, Ant, CVS
+
+
+Education   
+
+
+Bachelor of Computer Science, Ahmedabad University, India.
+
+
+
+
+Keerthi_-_WMB_Developer.doc
+KEERTHI
+
+sabarinath@anblicks.com 
+
+
+
+
+
+
+          972-996-6364
+
+PROFESSIONAL Summary:
+
+
+Over 7 years of professional experience in Enterprise Application Integration using IBM WebSphere MQ and WebSphere Message Broker. Have broad experience in development, review, testing and support of WebSphere MQ and WMB applications. Possess outstanding communication, teamwork, and independent task execution skills. Can quickly adapt and learn new technologies.
+
+· Highly experienced in designing, developing, administering and deploying message infrastructure/architectures using WebSphere MQ and WebSphere Message Broker. 
+
+
+· Proficient in creating Message Sets using XSDs, COBOL copybooks.
+
+
+· Experience in using different Message Broker Message Flow Nodes like, Compute, Mapping, Database, and Java Compute Node, MQ Input node, MQ Output Node etc.
+
+
+· Expertise in configuring the message broker nodes: Database, MQ, File, SOAP, Routing, transformation and construction nodes.
+
+· Troubleshooting and Managing IBM Websphere MQ queues, channels, listeners, intercommunications (TCP/IP) and triggering.
+
+· Hands on experience in design and implementation of WMQ and WMB in huge and complex environments using High Availability Clustering. Experienced in designing and developing Workflow management solutions using MQ Workflow. 
+
+
+· Proficient in using Eclipse 3.3, Net Beans 6.1.
+
+· Experience in basic MQ Series and Message Broker administration on windows and UNIX systems.
+
+· Experience in resolving MQ/MB issues.
+
+
+· Experienced in collecting and documenting system, functional, design requirements and specifications. 
+
+
+· Working knowledge in ESQL, SQL, Java, C and experience working with J2EE developers.    
+
+· Proven track record in providing integrated solutions in desperate platforms and heterogeneous environments. 
+
+
+· Highly motivated, self-directed, strong troubleshooting and excellent communication skills.
+
+EDUCATION:
+
+· Bachelor of Technology, VIT University, Vellore, TN, India. 
+
+
+TECHNICAL SKILLS:
+
+WebSphere Family
+
+: IBM MQ Series V6.0/7.1, IBM Message Broker6.1/7.0                                                                      
+
+Languages
+
+: C, C++, C Sharp, Java, J2EE, SQL, PL/SQL, XML, DSML, XSL,    XPATH, WSDL, ESQL, Visual Basic, and JavaScript
+
+IDE tools
+
+
+: MQ Explorer, WMB Tool Kit
+
+Monitoring tools
+
+: Q Pasa, Tivoli, Nastel AutoPilot suite
+
+Version Control Tools
+: CVS, Rational ClearCase, SVN
+
+RDBMS
+
+
+: SQL Server, Oracle 10g, DB2
+
+Scripting
+
+
+: Ant, Shell
+
+Operating Systems
+
+: Windows- NT/2K3, Solaris, 7(64-bit), UNIX , Linux
+
+Protocols
+
+     
+: TCP/IP, HTTP, HTTPS, SMTP, SOAP and FTP.
+
+
+Tools
+
+
+  
+: Visual Age for Java, Jbuilder, Aquadata studio, DB 
+
+ 
+
+
+    Visualizer, CURL, Rational Clear Case, SOAP UI        
+
+Modeling
+
+
+: UML, Visio, Rational Rose.
+
+PROFESSIONAL EXPERIENCE:
+
+
+UIL Holdings Corporation, Orange CT                                       
+
+Jun 2012 – Till Date
+
+Sr. IBM Websphere MB Developer
+
+The messaging infrastructure at UIL holdings connects all internal and external agencies providing services. The framework is based on a true SOA architecture in which Websphere Message Broker acts as an advanced ESB, providing message routing, translation, error handling and auditing services. The integration (SOA) framework is divided into three layers, Source Application layer (Source System), Broker ESB layer and the Target System Layer. Messages generated by the Source Application layer use ESB for auditing / routing / translation / error handling and use Websphere MQ / Webservices as medium to reach the Target System Layer and vice versa.
+
+Responsibilities:
+
+· Involved in the Design and development of the Integration Solutions between multiple Applications.
+
+
+· Developed message flows for content based routing of messages
+
+
+· Implemented Web services message flow using SOAP nodes in WebSphere Message Broker 7.0.
+
+· Developed Message Flow interfaces using WMB to transform messages to meet their business needs with the help of IBM Primitive nodes i.e. Compute Node, Filter Node, RouteToLabel, ResetContentDescriptor, Trace and XML Transformation Nodes. Developed Message flows and the Sub flows to process all kinds of Transactions between various applications.
+
+
+· Implemented ESQL logic for database lookups, metadata-driven processing, message validation/translation/transformation, exception handling and stored procedures for batched code set lookups.
+
+
+· Debugged ESQL and java code in the nodes.
+
+
+· Modified ESQL within Message flow Compute and Filter nodes to simplify processes.
+
+
+· Created the Message Sets, Message definitions to encapsulate the business logic using MRM import techniques and message flows using ESQL to interface with various systems.  Business Logic includes Data Transformation from XML Schema and WSDL. 
+
+· Designed different components of the transition including Validation, Exception and error handling. Correlation of request reply messages, logging requirements are some of the other pieces put into design.
+
+
+· Worked with CWF, TDS and XMLNS, XMLNSC message formats.
+
+
+· Processed XML messages with exceptions and performs message transformation, translation, validation for incoming messages, XML file lookups, database inserts, https posts and java calls to backend systems.
+
+· Worked extensively on the aggregation and http nodes in calling external web services. 
+
+
+· Created deployable broker archive (BAR) files. Configured and deployed the BAR files to a test as well as DEV environments.
+
+· Deployed message sets and flows on QA and Production brokers.
+
+· Performed problem determination and problem source identification based on 1st level troubleshooting and provided production support.
+
+
+· Problem determination using local error logs and by running user traces and service traces.
+
+Environment: WebSphere MQ 7.1, WebSphere MB 7.0, ESQL, RFHUtil, DB2/UDB, AIX, Oracle, Windows, Linux, Solaris, SOAPUI, XML, XSLT, WSDL.
+
+
+Capital One, Plano,TX    
+
+
+                                 
+ July 2011 – May 2012         
+
+
+WMQ/WMB Developer
+
+
+
+                               
+
+Description: Capital One is one of the leading financial services organizations involved in businesses like Loans & Credit Cards, Retirement Plan Services, Mutual Funds, Life Insurance, etc. It had taken the steps to integrate all the business applications and implemented those using MQSeries and WBIMB. It has many business applications using different software on distributed environment, by implementing middleware software, MQ, WBIMB.
+
+
+Responsibilities:
+
+· Involved in the Design of the Integration Solutions between multiple Applications.
+
+
+· Developed message flows for transforming data from CWF data formats into XML message formats on MRM Domain and XML message formats to CWF to work with mainframes legacy data.
+
+
+· Performed operations on IBM HTTP server nodes, JMS nodes, MQ server and client nodes for the efficient flow of the data between applications.
+
+
+· Developed the scripts for creating and maintaining Queue Managers, Queues, Channels, Processes and other WMQ objects.
+
+
+· Designed the integrations based on SOA as they are loosely coupled with operating systems, programming language and other applications.
+
+
+· Used File handling nodes to do batch updates using File and FTP Systems.
+
+
+· Involved in design and development of Publish/Subscribe message flow Architectures.
+
+
+· Designed and implemented AUDIT TRAIL flows to introduce the MQSI transaction process status LOGGING mechanism.
+
+
+· Integrated enterprise-wide J2EE applications and deployed using Websphere Application Server and Application Assembly Tool. 
+
+
+· Configured the Oracle and DB2 as the database connections for WBI Message Broker runtime environment.
+
+
+· Provided performance tuning to the queue managers and queues for optimal performance and applied tuning to all connected queue managers.
+
+
+· Improving the Message processing performance by restructuring Broker domain, number of EGs and appropriate additional instance invocation and restructuring message-conversion and ESQL code change.
+
+
+· Technical documentation of all the developed flows.
+
+
+Environment: WebSphere MQ 7.0, WebSphere Message Broker 7.0, UNIX, Oracle9i/10g, DB2, J2EE, XML, and ESQL.
+
+Client – MasterCard - St. Louis, MO 
+
+
+
+         Oct 2010 – Jun 2011
+
+Role: IBM Websphere MB developer
+
+
+Description: The MasterCard Foundation's vision is to make the global economy work for everyone. This Project ASB (Authorization Service Bus) Bus is implemented as a modular system, where each module has a clearly defined role. – the first layer is responsible for interfacing with the client and the second layer handles the service specific processing with the external service providers. These two layers are identified as ‘Consumer Adapters’ and ‘Service Adapters’ or ‘Service Processors’. 
+
+
+Responsibilities:
+
+
+· Meeting with system analysts to finalize mapping documents for interfaces and design requirements.
+
+
+· WebSphere message broker was used to route, transform and data enrichment.
+
+
+· Designed and developed WMB Message flows and Message sets using toolkit.
+
+
+· Developed message sets in CWF, TDS, and MRM formats.
+
+
+· Developed SOA, EAI, Web Services and Workflow based solutions for quick response time, integration with disparate systems and efficiency improvements.
+
+
+· Involved in a team that administered MQ, Message Broker in Development and test environments.
+
+
+· DB2 was used as broker database and Oracle was used for inbound and outbound message auditing.
+
+
+· ESQL was used extensively for message transformation.
+
+
+· Developed ESQL code for various message flow nodes like Compute, database and try/catch.
+
+
+· Used Java compute nodes for some of the complicated flows that involved sales for processing the JAR files that were created using servlets and JDBC Connections.
+
+
+· Deploying the message flows in WMB by creating the broker archive file/bar file.
+
+
+· Problem identification and resolution on development, test and acceptance.
+
+
+· Used ESQL to execute database-stored procedures, to get information from database tables, views.
+
+
+Environment: Applications on IBM AIX, HP-UX, OS390, Windows 2003 server, WebSphere MQ 6.0, Message Broker 6.1, Databases - DB2 & Oracle, J2EE, XML/SOA/Web Services.
+
+
+UBS Warburg - Stamford, CT                                                 
+      Nov 2009 – Sep 2010
+
+MQ/MB Developer
+
+Description: Online Sales Report: Developed a system for fixed income called online sales report which shows all the Traders, Clients they are dealing with and MTD, YTD business volume (buying and selling for each client) they have done in Different fixed income products (Corporate, Treasuries, and High Yield etc.). It also shows all the Traders working for a particular Client and MTD, YTD sale they have done across Different product areas for that particular Client. System also shows splits between the Traders. System was deployed at UBS PaineWebber in New York. Developed Web Pages for Credit derivatives and Structured derivatives that depict the expert comments on these product areas.
+
+
+Responsibilities:
+
+
+· Design and develop messaging interfaces.
+
+
+· Configured WMQ and WMB V6.0 on Windows/AIX.
+
+
+· Responsible for identifying and creating the MQ objects required for the interfaces.
+
+
+· Created Configuration manager, Brokers, Queue Managers, define Objects, channels, SSL.                           
+
+
+· Clustering, shared channels, shared objects.
+
+
+· Prepared mapping documents for each individual interface.
+
+
+· Developed Message Flows, ESQL Statements, Message Sets, Pub/Sub applications.
+
+
+· Developed message flows which done XML/XSLT transformations, CWF-TDS transformations and conversions from one format to another, SOAP/HTTP XML to IMS (MRM) mappings and transformations.
+
+
+· Implemented ESQL logic for database lookups, Metadata-Driven Processing, Message
+
+
+· Validation/ Translation/Transformation, Exception Handling and Stored Procedures for batched code set lookups.
+
+
+· Involved in Debugging ESQL and Java code.
+
+
+· Processed XML messages with exceptions and performed Message transformations, translation, validation for incoming messages, XML File lookups, database inserts, https posts and java calls to backend systems.
+
+
+· Created bar file and deployed on execution group.
+
+
+· Troubleshooting and debugging routing and data conversion issues.
+
+
+· Actively Involved Business in decision-making process ensuring quality Deliverables.
+
+
+· Maintained interface documents, broker components and MQ scripts in harvest.
+
+
+· Developed test cases for Common flows and tested those test cases in UT (Unit Testing), ST (System Testing) and IT (Integration Testing).
+
+· Coordinated with test team in resolving defect reports (DR#) throughout SDLC process.
+
+Environment: MQ Series V6.1, WMB V6.0, ESQL, MQJMS, WAS, Oracle, DB2 UDB, XML, Java/J2EE, RFHUtil, XML Spy, Harvest, TIVOLI, AIX, Z/OS, AS/400 and Windows.
+
+
+Avery Dennison - Pasadena, CA
+
+
+
+
+     Jan 2009 – Oct 2009
+        
+
+MQ Developer                                                                      
+
+                            
+
+Description: Avery Dennison is a global leader in pressure-sensitive technology, self-adhesive base materials and self-adhesive consumer and office products.
+
+
+Avery Dennison currently implemented integration via a point-to-point infrastructure supporting a wide variation of applications using file transfer protocol (FTP) for messaging to exchange data among applications. By using IBM Web Sphere business integration packages (such as WBI Message Broker, Web Sphere MQ and adapters), Avery upgraded its integration infrastructure.
+
+
+Responsibilities:
+
+
+· Study the Business Process of the Client.
+
+
+·  High Level Design.
+
+
+· Designing the optimal solution for the process.
+
+
+· IBM WMB and MQ Series related application trouble shooting and bug fixing.
+
+
+· Executing the unit test cases and preparation of test reports.
+
+
+· Code fixes and amendment of existing source code.
+
+
+· MB ESQL message flow development.
+
+
+· Extensive usage of various MB nodes and ESQL in the development of the flows. 
+
+
+· Technical documentation on the flow logic and error conditions that are handled.
+
+
+· Performing unit and performance testing on existing message flows in local environment.
+
+
+· Involved in Testing Support, Production Support
+
+
+· Preparation of Low Design documents, Sequence diagrams and State diagrams.
+
+
+​​
+
+
+Environment: WebSphere MQ 6.0, Message Broker V5.5, Oracle 9i, IBM DB2, MQ Explorer, Shell, Ant Scripting, Rfhutil, SVN
+
+
+L&T Information Technology Ltd., India
+
+     
+
+Aug 2006 - Nov 2008          
+
+
+Java/ J2EE Developer                                                                                                       
+
+
+Description: The objective of this project is to design and develop a replacement to the existing Unix C based Client Server System that had huge maintainability issues. The new system has to automate the insurance business processes. The system generates various day-to-day, weekly, monthly and annual reports to the business managers related to the policies. Policy match advisor advises the suitable policy based on different parameters like insurance rate, total coverage and premium installments.
+
+
+Responsibilities:
+
+
+· Involved in client requirements gathering, analysis & application design.
+
+
+· Used Visio UML tool to draw use case diagrams, class and sequence diagrams.
+
+
+· Implemented client side data validations using JavaScript.
+
+· Implemented server side data validations using Java Beans.
+
+· Implemented views using JSP & JSTL1.0.
+
+
+· Implemented code MVC2 framework using JSP's JavaBeans & servlets. 
+
+
+· Developed business logic using EJB Session Beans.
+
+
+· Implemented Entity Beans for Object Relational mapping.
+
+
+· Implemented Service Locater Pattern using local chaching.
+
+
+· Worked with collections.
+
+
+· Implemented Session Facade Pattern using Session and Entity Beans 
+
+
+· Developed MDB to listen to JMS queues.
+
+
+· Performed application level logging using Log4j for debugging purpose.
+
+
+· Involved in fine-tuning of application, fixing bugs and capturing performance maintenance.
+
+
+· Involved in testing phase and implemented test cases using JUnit. 
+
+
+Environment: Java SDK 1.2, EJB, JSP1.1, Servlets, CVS, JavaScript, and Oracle 8, SQL, PL/SQL, JBOSS, Eclipse, Solaris (UNIX)
+
+
+2
+
+
+
+
+
+ShilpaG.DOCX
+Shilpa Guduru							Phone: 9893927455
+
+Sr. Message Broker Developer						Email:  shilpaguduru97@gmail.com
+
+
+
+PROFILE:
+
+· Six Years as Middleware SOA Developer using IBM Message Broker (Integration Bus) and MQ Products
+
+· Good Experience in Design, Development and Administration of SOA based applications using IBM Family of Middleware Products on Windows and Unix Environments
+
+· Experience in WebSphere Transformation Extender for Integration servers.
+
+· Exposure to IBM Data Power and Data Stage
+
+· Extensive working experience with Web services Design and Development
+
+· Extensive experience with Industry and Canonical Data Formats 
+
+· Experience in Java/J2EE and C/C++ Development
+
+· Experience with IBM DB2, Oracle and Sybase Databases
+
+
+
+Skill Summary:
+
+
+
+Integration Products:  	IBM Integration Bus 9.0, Message Broker 8.0.X, 7.0.x, 6.1, 6.0, 5.0, MQ Series 				7.5, 7.x, 6.x, WTX, Data power, Data Stage, Process Server (BPM), ESB
+
+Operating Systems:	Windows, Linux, UNIX (AIX, Solaris, HP), ZLinux, I Series and Mainframes
+
+Database: 		DB2, Oracle, Sybase and SQL Server
+
+Languages:		ESQL, Java, C, C++
+
+Version Controls:	Clear Case, CVS, SVN, TFS
+
+
+
+Certifications:
+
+· IBM WebSphere Broker Solutions Developer v7.0
+
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Client: HPS, Tampa FL						March 2011 to Till Date
+
+Role: Sr. Integration Developer
+
+Project:  Direct Enrollment and Exchange Link
+
+Project is aimed at providing Exchange services and Enrollment services for Affordable Health Care Act. integration of the POS System using Message Broker and WTX for Integration Servers It also involves migration of Legacy apps in the Middle ware and build the SOA Frame work.
+
+Responsibilities:
+
+· Designed and developed Restful Web services to support Exchange Link Project
+
+· Developed Log4j Logging Frame work for Exchange Link and Direct Enrollment
+
+· Implemented the batch processing of files using Splitter and Collector patterns
+
+· Wrote stored procedure and retrieved Data from DB2 from Message Broker for better performance
+
+· Enhanced existing Error handling and Auditing mechanism
+
+· Involved in On-call support and Day to day administration activities
+
+· Involved in discussions with BSAs (Business System Analysts) in gathering requirements and in preparation of BRDS and Functional and Technical Specification documents
+
+· Involved in WSRR roll out for Service versioning and Governance
+
+· Involved in MQ FTE and File handling.
+
+· Modified existing WTX Maps and Type tress to handle EDI Messages
+
+Environment: Integration Bus 9.0, Message Broker 7.0, 8.0.1, 6.1., WTX 8.3. FTE, Data power, DB2, AIX, Linux, Java, XML
+
+Client: Group Health, Seattle WA					Jan 2009 to Mar 2011
+
+Role: Sr. Message Broker Developer/Administrator
+
+Project:  Project is aimed at Managing the lifecycle of activities on Clinical Interface (CLI) projects and updating the existing underwriting and Clam management system.
+
+Responsibilities:
+
+· Designed and developed message flows for CLI projects for handling large Data volumes.
+
+· Developed message flows to process claims management systems
+
+· Developed Web services in message broker which acted as wrappers for F12 functionality of Facets Database
+
+· Developed Message flows to interact with Process server for Long running transactions
+
+· Developed Message flows to interact with Back end Legacy systems
+
+· Installed and configured Message broker in Windows and Unix server environment
+
+· Worked with File and Aggregate nodes
+
+· On-call weekly rotation to provide 24x7 production support and infrastructure monitoring/troubleshooting on the potential issues identified
+
+Environment: Message Broker (WMB) 7.0, 6.1, MQ Series 7.x, Sybase (FACETS), DB2, Mainframes
+
+Client: Bank of Tokyo, Jersey City NJ						July 2007 - Dec 2008	
+
+Role: MQ and Message Broker Developer
+
+Responsibilities:
+
+· Developed Message flows to interact with Oracle GL interfaces
+
+· Developed Generic Scheduler component to be used across the interfaces
+
+· Used the Cryptography nodes to achieve encryption and decryption in message flows
+
+· Developed Web services using Message Broker
+
+· Developed message flows for Data conversion from XML to Copy book
+
+· Created documents for Message broker development standards and Best practices
+
+· Developed services to interact with Third party applications
+
+· Developed Error handling sub components
+
+· Interact with .net Team and migrated some existing .net applications in to Message Broker
+
+Environment: Message Broker 6.1, 5.x, MQ Series, SAP, Oracle, XML, Main frames, Java, Solaris
+
+Client: Delta Airlines Atlanta GA			Nov 2006- June 2007
+
+Role:  MQ and Message Broker Developer
+
+Responsibilities:
+
+· Analysis of existing applications and part of team that created road map for migration guide lines to Message broker
+
+· Developed CWF, TDS message sets and message flows
+
+· Developed custom Plug-in nodes in message broker
+
+· Developed Web services using http nodes
+
+· Developed canonical Data formats for internal usage in Delta domain
+
+· Involved in War-Room support and administration and monitoring of Message Broker
+
+Environment: Message Broker 6.0, 5.x, MQ Series,DB2 , Oracle, XML, Main frames, Java, AIX
+
+Education:
+
+· Masters in English From Kakatiya University 2004-2006
+
+
+
+SireeshaResume.doc
+Sireesha Yadavalli
+
+Ph No: (213) 300-0372
+
+E-mail: sharvanisireesha@gmail.com
+
+
+                                                     
+
+
+Summary:
+
+· Over 5 years of  experience in IT and 5+ years professional experience in design and development of Enterprise Application Integration using WebSphere MQ and WebSphere Message Broker.
+
+
+· Over 5 years of experience in designing and developing message flows and message sets to implement client needs.
+
+
+· Extensive experience in preparing and executing unit, integration and system test plans.
+
+
+· Exposure and good understanding on Enterprise SOA application and architecture.
+
+· Expertise in working with XML, XSLT, XPATH, XSD.
+
+· Good understanding and experience with web services.
+
+
+· Experienced in working with various version control systems like CVS and Rational Clear Case.
+
+· Extensive experience in Software Development Life Cycle (SDLC) from Requirement Analysis to User Acceptance
+
+· Strong Willingness and ability to quickly adapt to new environments.
+
+·  Ability to work on tighter schedules and different applications concurrently..
+
+· Strong communication, analytical and problem solving skills.
+
+
+· Ability to quickly master new concepts and applications
+
+
+· Attention to detail and ability to work in tighter Schedules
+
+· IBM certified in WebSphere Message Broker and WebSphere MQ.
+
+
+Technical Skills:
+
+		Operating Systems
+
+		HP-UX, Linux, Solaris, Windows NT/2000, XP, 07, UNIX
+
+
+
+		Middleware Technologies
+
+		MQ Series 5.x IBM-WebSphere Message Broker v7.0/6.1,
+
+WebSphere Message Broker Tool kit, IBM WebSphere
+
+
+Message Queue (WMQ 7.0/6.0), Web Sphere Transformation Extender (WTX).
+
+
+
+		Application Servers
+
+		WebSphere Application Server
+
+
+
+		Programming Languages
+
+		ESQL, C, C++, Java, J2EE, SQL\PLSQL.
+
+
+
+		Database
+
+		Oracle, DB2
+
+
+
+		XML Tools
+
+		 Altova XML SPY, SoapUI, Eclipse 3.3, RFHUTIL   
+
+
+
+		Version Control tools
+
+		CVS, Rational Clear Case
+
+
+
+		Technologies
+
+		HTML, XML, XSLT, Java Script, WSDL.
+
+
+
+		Web Servers/ Application Servers
+
+		WebSphere Application Server v7.0, Apache Tomcat 6.0, WebSphere process server v7.0
+
+
+
+		Test Reporting Tools
+
+		 Mercury Test Director / Quality Center
+
+
+
+
+
+Certifications:
+
+
+		Sun Certified Java Programmer 5
+
+
+
+		IBM Certified Solution Developer – WebSphere Message Broker v 6.1
+
+
+
+		IBM WebSphere MQ V6.0 System Administration
+
+
+
+
+
+Education:
+
+· Bachelor of Science in Electronics and Communication Engineering (2006), JNT University, Hyderabad, India.
+
+
+Professional Experience:
+
+		WMB Developer
+
+		Farmers Insurance, Los Angeles, CA
+
+		July 2012 –  Dec 2013
+
+
+
+
+
+Worked as a member of environment support team responsible for design, development and providing support for message processing and data transfers between various Policy Processing Applications under Farmers.
+
+· Used WebSphere message broker to route, transform and data enrichment.
+
+· Designed and developed WMB Message flows and Message sets using toolkit.
+
+· Performed Administration tasks using MQSC commands.
+
+
+· Provided design and implementation documentation of finalized client integration solution.
+
+
+· Developed message sets in CWF, TDS, EDI, Name-Value pair MRM formats.
+
+
+· Involved in administration of MQ, Message Broker in Development and test environments.
+
+
+· Used XSLT to generate message structures, which is used for message validation.
+
+· Coded ESQL in Compute Node, Database Node to query the databases and call the stored procedures. Worked on writing java classes with methods and calling those java methods from ESQL.
+
+
+· Wrote java classes to save and retrieve data from database using SQL.
+
+
+· Installed the WTX and WTX plug-in node for Message Broker and implemented the message flows with WTX map node.
+
+
+· Configured the process to schedule jobs, to run MQ scripts and trigger specific message flows.
+
+
+· Monitored the Queues in various environments using QueZee.
+
+
+· Worked with business team to analyze and elaborate business rules. 
+
+
+· Coordinated with testing teams to review functional and integration test cases.
+
+
+· Worked with production support team to analyze and fix any application issues identified.
+
+
+Environment :-WMB7.0, WMQ7.0,DB2
+
+		WMB Developer
+
+		Abbott Vascular Inc., Temecula, CA
+
+		Oct 2010 – April 2012
+
+
+
+
+
+Working in the Design/Development team responsible for design, development and providing support for message processing and data transfers between various Health care   units under Abbott Vascular
+
+
+· Used WebSphere message broker to route, transform and data enrichment.
+
+· Designed and developed WMB Message flows and Message sets using toolkit.
+
+· Used XML transformation Node to convert SAP business object XML to native XML and vice versa.
+
+· Provided Upgrade support for various Releases.
+
+· Performed Administration tasks using MQSC commands.
+
+
+· Provided design and implementation documentation of finalized client integration solution.
+
+
+· Developed message sets in CWF, TDS, EDI, Name-Value pair MRM formats.
+
+
+· Involved in administration of MQ, Message Broker in Development and test environments.
+
+
+· Coded ESQL in Compute Node, to  call the stored procedures. Worked on writing java classes with methods and calling those java methods from ESQL.
+
+
+· Wrote java classes to save and retrieve data from database using SQL.
+
+· Monitored the Queues in various environments using RFHUTIL.
+
+
+· Worked with business team to analyze and elaborate business rules. 
+
+
+· Coordinated with testing teams to review functional and integration test cases.
+
+
+· Worked with production support team to analyze and fix any application issues identified
+
+:
+
+
+Environment :-WMB6.0.2, WMQ6.0, Oracle AQ
+
+		Systems Engineer
+
+		TATA CONSULTANCY SERVICES, India
+
+		Jan 2008 – March 2010
+
+
+
+
+
+Worked as a software programmer for a leading software development company (TCS), designing and developing message applications that act like an ESB (Enterprise service Bus), using IBM WebSphere tools.
+
+· Worked on design and development of message flows and message sets in accordance with the interface control (Business) documents using Java and ESQL in WebSphere Message Broker.
+
+
+· Worked on a variety of data formats such as SOAP, XML, EDIFACT, CSV and COBOL copy book.
+
+· Developed Message sets in CWF, TDS, EDI, CSV, MRM formats.
+
+
+· Used DB2 as a broker database and created stored procedures for interacting with it.
+
+· Administered different components of WBI like Work-Bench, Broker and Configuration Manager.
+
+
+· Exported the Message flows and Message sets from Control center to CVS and imported them to WBI message Broker.
+
+· Assign the message flows to appropriate Execution Groups in Broker Runtime environment.
+
+· Deployed Message flows and Message sets on to Broker. 
+
+
+· Involved in setting up environments required for testing teams. 
+
+· Tested all the Message flows by put and get messages from the logs and certified the code.
+
+
+· Developed the Generic Error Handling (GEH) and Generic Audit Logging (GAL) sub-flows to re-use into the main message flows based on the requirement.
+
+· Worked on monitoring queue manager, message queues, and error logs of interfaces. 
+
+· Worked on debugging message flows using Trace Nodes, Try-Catch and Error Handler Nodes.
+
+· Used SOAP nodes, Http Request, Reply nodes to produce and consume web services.
+
+· Worked with business and solution design teams regularly to understand the requirements.
+
+
+· Ensured compliance with application integration team by providing ready deployments on time.
+
+
+· Provided 24x7 production support to resolve issues for the client when needed.
+
+
+· Involved in development of technical design documents based on business requirements.
+
+
+· Worked on preparing unit and integration test plans and execute the same to ensure better delivery of code.
+
+
+· Involved in performing formal code handoffs and peer code review with in the development team.
+
+
+· Participated in weekly meetings with the management team for requirement walkthroughs/monitoring.
+
+
+· Actively participated and organized technical / learning sessions.
+
+
+Experience Summary Details:
+
+
+		Project 
+
+		Saudi Airlines - Overall System Integration 
+
+
+
+		Duration
+
+		Jan 2008 – March 2010
+
+
+
+		Client
+
+		Saudi Airlines
+
+
+
+		Line of business of client
+
+		Airline Industry
+
+
+
+		About the Project
+
+		· An overall system integration (OSI) solution, which is intended for a position to overview and coordinate the process and IT implementation efforts and specifically deal with interface integration ensuring end-to-end operations of the entire solution.
+
+· Manage, facilitate and coordinate Solution Development for 3 major passenger airline system platforms and 2 SBU-specific platforms, which will select a commercial-of-the-shelf (COTS) product for these platforms, customizing it to Saudi Arabian Airlines needs and integrating it into Saudi Arabian Airlines’ IT landscape.
+
+
+· Facilitate and coordinate to build a modern End-User IT Infrastructure and IT Production to enable new applications and processes.
+
+
+
+		Role
+
+		Developer
+
+
+
+		Responsibilities
+
+		· Designing and development of the message flows and message sets according to the interface control documents.
+
+· Developing, testing & delivering the solutions based on the design using industry standard software development practices.
+
+
+· Preparing unit and integration test cases and execute the same.
+
+
+· Participate in weekly meetings with the business team to discuss any issue\ambiguity related to requirements in interface control documents.
+
+
+· Involved in tracking and resolving production issues
+
+
+· Project team induction and training.
+
+
+· Planning and Organizing learning sessions.
+
+
+
+
+
+Environment :-WMB6.1, WMQ7.0,DB2
+
+Page 4 of 5
+
+
+
+

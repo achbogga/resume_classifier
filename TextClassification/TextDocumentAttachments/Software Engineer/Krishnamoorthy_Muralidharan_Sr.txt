@@ -1,0 +1,391 @@
+
+
+	Muralidharan Krishnamoorthy
+ITIL Certified
+mdmuralidharan@gmail.com 
+Contact 9620201337
+               
+                                         
+
+	
+
+
+
+Overview
+
+With above 14+ years of IT experience which includes 4 years of experience in project management in different areas of IT, Telecom, Retail Banking , Insurance and Retail industry ranging from IT Governance, process automation and Customer relationship, my expertise lies in preparing proposals, estimating projects, Pre-Sales in IT Governance Products to US & UK Clients, Project planning and execution, Requirement Gathering & Management, Risk Management Software Configuration Management and OSS Telecom. I have the ability to work independently as well as in a team effectively with a vision to quickly identify and understand the business benefits of new technologies. Possess strong analytical problem solving skills which are complemented by sound communication and user interaction capabilities in a global environment. Capable of providing best possible solution to clients to effectively manage their IT portfolio, programs and projects through process solutions using Best practices from frameworks like ITIL, CMM and blend them together with Compuware’s Changepoint and CA Clarity, IT Governance (ITG) tool.
+
+
+· Worked on various modules of Compuware’s Changepoint such as Project & Portfolio Management, Resource Management, Knowledge, Time, Expense and Demand management
+
+· Worked on Various technologies like Database, Telecom OSS ,SAP BI and PPM.
+
+
+·     Experience in the project management activities (project planning, presentations to business, monitoring project deployment schedules, project activities, creating weekly reports, project governance and other related PMO activities)
+
+· Designed and digitized PMO Solution for Software Application Development Life Cycle using V-Process Model in the form of Process Packs 
+
+· Involved in the Technical deployment of Changepoint product, this also involves setting up the entire environment for the training and for other in-house development purposes
+
+· Trained & Certified in Compuware’s Changepoint and CA Clarity, IT Governance Tools
+
+· Presales and Consulting for PPM Products HPPPM, Compuware Change Point, CA Clarity PPM,MSP
+
+
+·  Responding in RFI, RPF and RFQ responses for PPM and Microsoft Project
+
+
+· Exposure to all the phases of SDLC process, ITIL framework, PMO
+
+
+· Worked as a Project Leader for an Infrastructure Management System Project (IMS), which involved in looking after Operational activities, Customer Relationships, SLA Management and successful delivery of the OSS Telecom project
+
+
+
+
+
+
+
+
+· Had an opportunity to be a part of the team of professionals working across Nations and thus understands & respect the cultural differences. Also, have strong analytical skills and is quick at grasping new concepts. Possess excellent interpersonal skills
+
+
+
+Professional and Consulting Experience
+
+Cap Gemini Bangalore
+
+Duration Jan 2010-Till date
+
+Key Responsibilities:
+
+· Maintains PPM  practice and revenue of 5 Million US $ .
+· Account and Practice Management
+· Negotiations with Vendor and Client
+· Interactions with all levels of management of potential customers
+· Scope of  the project
+· Actively involved in Presales ,Responding with Business Proposals
+· Managing Projects from offshore
+· Client Presentation
+· Project Planning & Estimation
+· Resource Management & Deployement
+· Process Management and Redesign the Process for better results.
+· SOW & SLA
+· Stake Holder Management
+· Identifying and mentoring the resources for the role in the project
+· Preparing guidelines and  road map 
+· Issues & Risk handling
+· Conducting Audits and reviews
+· Tracking Metrics and MIS Preparation
+· Financial & Scheduling
+· Functional Documentation
+· Activities to improve business
+· Onsite –offshore project method
+· Managing relationship with client for more buiseness
+· Preparing weekly Dashboard and monthly Reports for higher management.
+· Maintain Project management using MSP in Clarity for Capgemini.
+
+
+
+Client: LR 
+Role: Project Manager. 
+Responsibilities:   Project delivery , Client co-ordination, project estimation, planning, execution and management till project release and also during the maintenance phase till post production support then we have got the production Support for next five years.
+
+Description
+                      Lloyds register was having their foot prints in different business unit. In this we are implementing Change point for their UK, Denmark, China and Honk Kong Business Unit. 
+
+
+
+
+
+
+
+
+
+
+Client: Smith & Nephew 
+Role: Project Manager. 
+Responsibilities: Client co-ordination, project estimation, planning, execution and management till project release and also during the maintenance phase till post production support.
+
+Description
+                 Smith & Nephew is a Healthcare Organization which spread across globally in 60 Locations. The project scope in Implementing the Project, Resource, Time and Service Management Modules with CA Clarity PPM. Integration   with reporting server and developing various reports according to the business needs. Since this is spread across global locations we have partioned the application according to business needs
+
+
+Client: Warner Bros
+Role: Project Manager
+Responsibilities: Client co-ordination, project estimation, planning, execution and management of Support  Project
+
+Description
+             Warner Bros is an media and entertainment Giant in USA which they use CA Clarity Project Management Application for Financial Budget Tracking , Time Management , Project Management, Demand Management , Portfolio Management and Billing. The project scope is to support Clarity V12 which has several interfaces mapped with clarity and integration of third party tools.
+
+
+Wipro Technologies BANGALORe
+
+
+ Designation: Consultant IT Governance PPM Products
+Duration       : SEP 2006 – July 2009  
+
+Freeman Consulting, Delaware 
+Develop and pursue a CA Clarity® Solution Architecture Consulting Practice.Conduct Project Portfolio Management 
+proof of concept (PPM/POC) Enhancement Opportunity Reviews for Rabo Support Services, Mutual of Omaha, Baker
+ Hughes, Asurion, Emerging Health IT.
+
+Xerox Global Services, Exton, PA 
+Develop and implement a strategy for ensuring that “Business Requirements” identified during a major upgrade to 
+Clarity 7.5.1 are effectively documented and approved by “owners & stakeholders” during the User Acceptance Testing 
+process
+
+Viacom, New York, NY 
+Provide customization and training support the Program Support Office operating in a partitioned Clarity environment 
+hosted at CA, Inc.
+
+PHH Mortgage, Mt. Laurel, NJ 
+Define, mentor and implement an Enterprise Resource Management policy and procedure as the client migrates from
+ Niku 7.5.3 to Clarity V12.
+
+Philadelphia Housing Authority, Philadelphia, PA 
+Address functional and performance issues associated with the deployment of custom task status reporting enhancements 
+to Clarity 7.5.1 and recommended for the upgrade to CA Clarity V12 for the business growth
+
+Vivendi Universal Games, Los Angeles, CA 
+Assess the challenges in upgrading from Clarity 7.5.3 to Clarity V12 given the unique customizations implemented to meet 
+the client’s business process requirements. In particular, the evolution from Niku Author to the enhanced process management 
+and scheduling capabilities available within Clarity 8.0 were examined. Recommendations for use of the new facilities and 
+an upgrade path were provided.
+
+
+
+
+
+Liberty Mutual Insurance, Portsmouth, NH 
+Assisted in the development of custom tailored Project Management policies and procedures designed to leverage the 
+advanced features of the Compuware Changepoint product in the client’s management environment Advised on 
+configuration, implementation, training and usage of Changepoint as related to the enhanced Project Management 
+policies and procedures
+
+Rabo Support Services, Jersey City, New Jersey 
+Reassess custom timesheet process and reporting implementation to address evolving requirements and provide additional 
+visibility and transparency in Compuware Changepoint 
+
+
+Infor Global Solutions 
+Perform an Independent Project Risk Assessment of a refreshed initiative to deploy CA Clarity PPM beyond basic timesheets 
+to full Resource Forecasting and Management
+
+
+ Project: IT PMO Setup – Gap Analysis, Roadmap development, PMO Tool Assessment and Recommendation
+ Client: One of the leading Oil and Gas Company in Saudi Arabia (Onsite)
+ Role: Consultant
+
+
+Project involves IT PMO Setup. It involves IT PMO Gap Analysis, Roadmap development, MS Project Server 2010 Pilot tool assessment, PMO Tool Implementation roadmap.
+
+
+Key Responsibilities:
+
+· Interaction with various Stakeholders & Business owners to understand the overall objective & identify business system needs
+· Involved in understanding the AS-IS processes and recommendations on the TO-BE Processes
+· Instrumental in the Assessment of various PMO Tools. This includes creation of Functional Requirement Specification document, Scoring the various leading PMO/PPM tools and providing recommendation
+· Instrumental in creation of MS Project Server 2010 PMO Tool pilot demo. This involves designing the solution for processes, designing and configuring the solution prototype
+· Instrumental in creation of PMO Tool implementation roadmap and plan 
+· Instrumental in creation of PMO Tool functionality mapping and flow process
+· Involved in creation of IT PMO Manual
+· Instrumental in creation of IT PMO Roadmap and PMO Process framework
+· Involved in creation of IT PMO Knowledge sharing community of practice
+
+     Project     : Implementation & Development Using SDLC & PMO
+     Client       : GMAC Insurance One of the leading insurance sector in US
+     Role          : Project Lead – IT Governance (onsite)
+    
+
+PPM is one of the robust, brokerage, wealth management, and related financial and investment solutions. PPM is 
+implemented as a Pilot work and now the same is being extended to other departments of our client. The ITG tool used is HP PPM with Oracle as the backend database & Web Sphere as the Application Server. The Project comprises of modules: Project Management, Resource Management & Capacity Planning. We are involved in several development initiatives which include incorporating new business requirements into HP PPM within the frame work of PPM through the help of HP PPM Studio and other interfaces.
+
+
+
+
+
+
+
+
+
+Key Responsibilities:
+ 
+· Interactions with all levels of management of potential customers
+· Requirement analysis, impact assessment, design, development, testing and implementation of   configuration, PPM Processes.
+· Cost and Effort Estimation using function points
+· Effort estimation using PMO in PPM
+· Identifying Modules to be implemented
+· Interactions with business owners to identify business system needs
+· Helping clients in understanding the project technicalities
+· Audits and Risk Management was implemented using PPM.
+· Analysis and Designing the solution (Solution design sessions)
+· Guiding team in developing the solution – configuration of objects, creation of portlets, enabling drill down
+· Explanation of technical issues to non-technical audiences (using Presentations & Trainings)
+· Implementation and thus leveraging the IT Governance concept
+·     Providing PPM based Solution for upcoming Business Requirements.      
+· Development of PPM Workflow Processes using PMO
+· Design and Development in PPM 
+· Application & Admin Support Activities for PPM.
+· Involvement in Knowledge Training sessions on Clarity to internal and external project associates
+· Development of new processes and modification of existing process based on recommendations from
+Business analysis
+·     Resolving Document Manager Issues
+·     Performing administrative configuration of the Clarity application like creating users, groups, OBS, partition.
+· Replacing RFP custom object with idea/demand management module (mapping out an implementation strategy, migration of existing data, training, etc.)
+· Feasibility and impact assessment of change requests
+·    Ad-hoc requests from project managers to analyze differences in MSP data and Clarity data
+·    Resolving issues with closing projects, needing to simplify this process
+·    Issues with integrating disparate Clarity instances, mapping out a strategy
+·   Asking functionality of existing (standard or customize) entities
+·   Review to validate all functional requirements have been met
+· Trained colleagues in Clarity configuration as part of a Clarity COE (Centre of Excellence) initiative 
+
+
+      Project: Process Packs Design & digitization using PMO
+      Client: Wall-mart(Offshore)
+      Role: Consultant – IT Governance
+
+Process packs provide readily usable best practices for software application development activities in IT on CA Clarity. This solution combines the IT governance features of CA Clarity with the expertise that Wipro provide in program & project management. The solution can also be adaptable to suit organization 
+specific needs and help to accelerate compliance with software application development standards like CMMI & PMBOK. The solution sits on top of an existing changepoint installation, providing IT organizations with a single integrated solution of well-defined automated processes.
+
+Process packs enables rapid set-up of mature PMO processes with real-time visibility and process control & visibility.
+
+Key Responsibilities:
+
+· Designing the solution for processes, preparation of solution architect document for automation, designing and configuring the solution prototype. It also includes creation of Requirement document, Design document, Process Workflow, Dashboards, portlets & and Reports
+
+
+
+
+· Demo & presentation to the Clients
+· Creation of Marketing Collaterals (Roadmap, Presentations and etc.)
+· Actively involved in interacting with the potential clients for consulting business in the CA Calrity which also included showcasing Process packs presentation & leveraging the Wipro’s expertise in processes
+· Involved in building up the Team having expertise in CA Clarity
+
+     Project: Changepoint Customization Change Requests
+      Client: Retalix Provides integrated enterprise software solutions for fuel & consumer goods retail 
+      Role: Project Lead / Consultant – IT Governance
+
+Project involves improving, enhancing few features of Changepoint as per the client specific business needs.
+
+
+Key Responsibilities:
+ 
+· Interaction with business owners to identify business system needs
+· Helping clients in understanding the project technicalities
+· Explanation of technical issues to non-technical audiences (includes presentations & Trainings)
+· Analysis and Designing the solution
+· Functional testing of Solution
+· UAT and Sign off
+
+      Project: Proof of Concept (POC)
+      Client: American Airlines One of the leading Airlines in US 
+      Role: Consultant – IT Governance
+
+Proof of concept involves creation of prototype for implementing Project & Portfolio management, Demand & Resource management, Time & Expense management, digitization of key business processes using HP PPM.
+
+Key Responsibilities:
+ 
+· Demonstration of POC to client
+· Explanation of technical issues to non-technical audiences
+· Interactions with all levels of management of potential customers
+· Analysis and Designing the solution
+· Development of prototype and Functional testing of Solution
+· UAT
+Changes in existing application and IT environment based on process changes/ changing rules and regulation
+
+RELIANCE COMMUNICATIONS INDIA Pvt. LTD. MUMBAI
+
+1.   Project      : Provisioning and Control Project
+      Client        : One of the Leading Telecom Service Providers, India
+      Role           : IT Operations OSS Telecom
+      Duration   : APR 2005 – AUG 2006
+ 
+Installation, configuration & maintenance of OSS application – ClariTy, which offers an integrated product suite that completely covers the operations support system and customer care arenas, from network management to information gathering and reporting. It is able to provide customers with real-time views of the network and the ability to perform auto diagramming.
+
+Clarity allows to define new competitive services, provision and activate those services and then to manage the ongoing quality of supplying the services.
+
+
+
+
+
+
+Clarity supports flow-through provisioning, customer self-activation, regulatory interconnect requirements for pre-selection and number systems and network technologies.
+Networks and services that can be supported include: mobile, broadband, data, voice, content, and IP portability, and modular interfacing to other OSS.
+
+Key Responsibilities:
+
+· Responsible for preparing the Privilege matrix for the NOC/field users for Access Control on the Clarity Application and creation of application users. Maintaining the user accounts and activating/deactivation/blocking them as part of the application management
+· Generating TPR’s for the problems being raised in the production environment on the Clear Quest for tracking purpose
+· Installing the various patches/upgrades on the SAT environment, testing it on SAT and finally simulating the same on the Production environment
+· Co-ordinating with the vendors and the customers for various releases, upgrades, and other licensing related issues
+· Installation and configuration of CLARITY clients in the NOC and providing technical assistance/support to the users in other locations
+· Providing support to the NOC users in troubleshooting problems with respect to the application management and Clarity client installation and configuration
+· Automation of various routine tasks like system configuration tracking, root password changing, log collection & analysis.
+· Defining the backup policies and configuring the BCV accordingly
+· Integrated various applications like ClariTy & billing into Legato cluster, using in-house scripts
+· Performance monitoring & tuning of servers to enhance I/O, memory & CPU performance
+· Installation, configuration & maintenance of centralized log server to collect logs from servers, SC platform and switches
+· Extensively follow the Change Management procedures to properly implement and document any changes on production servers derived from proactive tuning or application enhancement and development requirements
+· Routine backup & restoration of critical data
+· Installed and configured the Oracle 8 Database for OSS application
+· Integration of OSS application with Northbound applications (CRM, ClariFy, SAP and GIS)   Upgrading the OSS Application Patches User Administration & System Accounting for OSS applications
+
+
+
+ACCEL ICIM SYSTEMS Pvt. LTD. CHENNAI
+
+1.  Project      : Tech Support Project
+    Client        : One of the IT Service Providers, India
+     Role          : Tech Support Engineer OSS Telecom
+    Duration   : OCT 2000 – MARCH 2005
+
+Project comprises of Database Support and Maintenance.
+Key Responsibilities:
+  
+· Installation and Configuration of Oracle   Databases on windows and UNIX platforms
+· Looking after production databases on Sun OS 5.6 and Windows varying in size approx. 20 GB to 100 GB, including performance tuning, query tuning, space management, ensuring 24 x 7 availability, planned online backups, resolving crisis
+· Design and implementation of backup and recovery processes
+· Automation of backup and recovery, tasks in all environments - development, test and production
+· Identifying resource bottlenecks in the production system and carrying out performance tuning exercises
+· Migrating databases from different and disparate data sources
+
+
+
+
+
+· Migrating data from different and disparate data sources using technologies like SQL * Loader
+· Coordinating activities between the project team and database administration
+· Participate in establishing and evolving database standards within the company
+
+Education
+
+Bachelor of Engineering
+Major: Computer Science and Engineering
+University: University of Madras
+
+Professional Memberships and Achievements 
+
+Achievements:
+
+  Reliance Communications India [P] Ltd.
+
+1. Was recognized as the hard working, Best Team player with good communication skills during the appraisal activity.
+
+
+
+Wipro Technologies India [P] Ltd.
+
+1. Was recognized as the hard working, Best Project Leader with good managing skills within the team as well as client during the appraisal activity.
+
+  Certifications:
+
+ITIL Foundation Certified
+Compuware Change point PPM Process Consultant
+CA Certified Clarity PPM Process Consultant
+German Language Participation Certified
+
+
+
+Wipro Consulting

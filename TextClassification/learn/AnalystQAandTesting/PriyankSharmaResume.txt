@@ -1,0 +1,97 @@
+
+ 
+PRIYANK SHARMA    1011, E. Lemon Street, #213, 
+  Tempe, AZ-85281  480-335-1320 
+
+ 
+  prsharm1@asu.edu 
+
+ 
+
+Objective  
+Motivated graduate student with teamwork and leadership experience, passionate about Software Development, 
+Quality Assurance and Cloud Computing seeks a summer internship at Skolix. 
+  
+
+Education 
+Master of Science in Computer Science 
+Arizona State University, Tempe, AZ  
+Year of Passing: May 2015 
+
+Bachelor of Engineering in Information Technology 
+Gujarat Technological University, India 
+Year of Passing: July 2012, CGPA: 7.71 
+
+ 
+Technical Skills 
+Programming: C,  C#, Java, HTML, XML, Shell-Scripts 
+
+Cloud Technologies: OpenQRM, Microsoft Azure, OpenStack, Eucalyptus-Cloud, Web Services 
+
+Virtualization: VMware ESX, KVM, Xen, Microsoft Virtual Server 
+
+Testing: Automation and Manual - Selenium, Load Runner (Basics), JIRA, Bugzilla, Mentis, Zephyr, TestLink 
+
+Database: SQL, MySQL, Oracle, MS Access 
+
+Platforms: Windows (Desktop, Server), Linux, MAC, Android, IOS 
+
+Concepts: SDLC, Big Data, Data Mining, Web Technologies, Distributed Computing, SOA, Computer Networks 
+ 
+
+Professional Experience 
+Arizona State University, Software Developer-Data Analyst, Duration: September ’13 – Present, Tempe-AZ 
+
+A Research project by Learning Science Institute to develop an interactive e-book for studying different patterns. 
+
+Job Responsibility: Design and Develop Web Application(C#), Analyze Data and Patterns, Unit Testing. 
+
+Musikaar, Software Quality Assurance Engineer, Duration: 1 Year, India 
+
+NComputing, an outsourced Project on Desktop Virtualization & Thin-client technology including Web, Mobile & Cloud. 
+
+Job Responsibility: Test case design, Task estimation and allocation to peers, Smoke, Functional, Regression & 
+
+Exploratory and Automation testing, Interaction with teams around the globe, Defect reporting and tracking. 
+
+Platform: Windows (WAMP), Linux, XEN-Citrix, Android and IOS 
+
+Achievements: Initiated Security testing approach, Rated as the Best Team by offshore client, Recognized as an 
+
+Excellent Performer. 
+
+Electromech, Student trainee – Cloud Computing Project, Duration: 1 Year, India 
+
+Tools: OpenQRM, Linux Platform (RHEL 6.0), LAMP Server 
+
+Description: Private cloud was created to provide Infrastructure as a Service. 
+
+Academic Projects 
+Library Management System, Duration: 6 Months 
+
+Tools: C# with asp.net framework, Microsoft Visual Studio 2010 & SQL Server 2008.  
+
+Description: To automate existing library system. Project was deployed at ADIT College Library and currently in use. 
+
+Project responsibility: Information gathering, system analysis and design, coding, testing, deploying and maintaining. 
+
+ownCloud iSCSI Target Storage Application, Duration: 6 Months 
+
+Tools: ASU vlab cloud, OpenStack,  WAMP Server, ownCloud, PHP 
+
+Description: To create an ownCloud application to provide ISCSI backend storage and virtual disk access to user. 
+
+Initiatives, Achievements and other Activities 
+Research paper published in the International Journal of Computer Application (IJCA). 
+
+Event Coordinator in the National level Tech fest, Spectrum ‘12. 
+
+Certificate of Appreciation with financial award for developing online library system. 
+
+A+ Grade in computer programming(C/C++), object oriented analysis & design, final year project. 
+
+Founder of ‘ADIT Technocrats’, a student community for knowledge sharing and developing technical skills. Seminars 
+
+conducted on Network Security, Mobile and Cloud Computing. 
+
+

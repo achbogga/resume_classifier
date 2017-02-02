@@ -1,0 +1,125 @@
+                                                            
+
+CURRICULUM  VITAE
+GODISHALA SACHIN KUMAR
+S/0:- G.SAMPATH KUMAR
+H.NO: 4-4-103,                                                                                                                                                         
+
+KOTHUR JANDA, HANAMAKONDA,
+
+WARANGAL -506001.
+
+ E-mail: - sachingoud30@gmail.com
+                                                                                                   Mobile No:- 9701476631.
+
+
+CAREER OBJECTIVE:
+               Intend to build a career and willing to work as a key player in challenging and creative environment. To work in progressive organization where I can enhance my organization.
+
+EDUCATION QUALIFICATIONS:
+
+
+	Qualification
+	Institute/Board
+	Year of passing
+	percentage
+
+	B.TECH
+	JAYAMUKHI INSTITUTE OF TECHNOLOGICAL SCIENCE, HANAMKONDA
+	2012
+	71.74
+
+	INTER
+	GITHANJALI JUNIOR COLLEGE,HANAMKONDA
+	2008
+	90.1
+
+	SSC
+	FROBEL HIGH SCHOOL,HANAMKONDA
+	2006
+	85.3
+
+
+TECHNICAL SKILLS:
+· Operating System
+
+:  WINDOWS XP, 7, 8.
+· Languages          
+
+:  C, JAVA, J2SE, J2EE.
+
+· Web Technologies
+
+:  HTML, CSS, JAVASCRIPT.
+
+· Database          
+
+:  MYSQL, ORACLE.
+
+· IDE                            
+
+:  NET BEANS 7.2.
+· Web Server     
+
+:  TOMCAT SERVER 7.0.
+· Application Server
+
+:  MICROSOFT OFFICE.
+
+· Other Software’s 
+
+:  PHOTOSHOP CS6, VIDEO EDITING TOOLS.
+EXTRA CURRICULAR ACTIVITIES:
+· Received a certificate of   IBM DB2.
+· Received a certificate of RAD (Rational Application Developer).
+·  Received a certificate of Microsoft Technology Associate.
+STRENGTHS:
+
+· Punctuality & Commitment to perform.
+
+· Smile & Silence.
+
+· Self Confidence &Ability to lead.
+· Keen on learning new things and changing for better.
+PROJECTS UNDERTAKEN:
+Main Project   :  Active City Administration
+Description      :  Active city administration is a project provides the facilities to the citizen. Through this project a citizen can solve their Municipal problems (e.g Drainage problem) through online. By using this site citizen can reduce their time to solve their problem easily.
+
+And the citizen can share their ideas for the development of their city.
+EXPERIENCE:
+
+Company   : SKS SOLUTION
+
+Duration    : 8 Months [ INTERNSHIP ] 
+
+Role            : Java Developer
+
+PROJECTS UNDER COMPANY :
+Project Name                 :  JOB PROVIDER
+
+ Description                    :  Job provider is a online site. It provides the jobs information for the people who are looking for the job. This site is very useful for the students and easy to get the information about the jobs.
+Project Name                  :  TANDOORI GRILL RESTAURENT 
+
+ Description                    : Tandoori Grill Restaurant   is a online site. By using this site people can order the meal through online. Through this site people can reduce their time to book the meal.
+
+TECHNOLOGIES TO BE USED:
+J2EE                      :    JSP
+Front End             :   HTML, JAVASCRIPT
+Back End              :   MYSQL
+IDE                        :   NET BEANS7.2
+
+PERSONAL DETAILS:
+Name                                 :  G.Sachin Kumar
+Father’s Name                  :  G.Sampath Kumar
+Mother’s Name                 :  G.vanaja
+Date of Birth                     : 13/08/1991
+Nationality                        :  Indian
+Languages                         :  English, Telugu
+Hobbies                              :  Photography, Dancing, Playing Rubik’s cube.
+DECLARATION:
+I hereby declare that the above written particulars are true to the best of knowledge and belief.’
+Place: 
+
+Date:
+                                                                                                     (G.Sachin Kumar)
+

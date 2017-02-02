@@ -1,0 +1,137 @@
+CURRICULUM VITA
+
+ASHISH ASHOK NARGADE 
+nargadeashish35@gmail.com								+91 9028201991
+
+
+Career Objective
+
+
+To be associated with a firm that provides an opportunity to grow by acquiring new skills and thus contribute towards the development of the firm and my own.
+
+Summary
+
+
+· Message Flows and Message Sets development using IBM WebSphere Message Broker for BNY MELLON.
+· Message Flow development using IBM WebSphere Message Broker for Banque Laurentienne du Canada.
+· REST based Web Services development for VISION-PLUS UI.
+· Presentation layer development for “Maintenance” module of Local Commercial Bank using Flex.
+· Developed DAO and Service layer for “Cap Book” by implementing JDBC and SERVLET Technologies.
+
+Skill set
+	
+· Programming Lang  : Java,J2EE
+· Technologies	: WMB,WMQ, Web Services, JDBC, SERVLET, FLEX
+· Framework		: Spring
+· IDE			: Eclipse
+Qualification
+· Masters Of Computer Management from Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, Maharashtra State, India in September – 2009 with First Class.
+
+Professional Projects 
+
+
+Project 5	RUFUS (Current Working Project) 						SEP 2013 – Till Date
+Client		BNY MELLON
+Role		Message Flow/Set Development
+Team		5
+
+RUFUS is system developed in .Net Technologies to serve the purpose of Assets Servicing. This is the core technology developed to handle different functions of Asset Servicing, for instance, record the transactions of purches and selling of Bonds, Equities of different clients of BNY MELLON.My role is to develop Message flows and message sets to perform message transformation.
+
+Activities:
+· Create Message Flows to call the Web Service.
+· Create Message Sets as required in Message Flows.
+· Prepare Solution Approach.
+· Create Queues for different operations using MQ Explorer.
+· Perform deployment of message flows on broker.
+· Perform unit testing for the created operation.
+· Prepare Use Cases for the operations being used in solution.
+· Lead a team of 5 memebers.
+
+
+
+Project 4	Program Sunrise								  DEC 2012 - AUG 2013
+Client		Banque Laurentienne du Canada
+Role		Mediaton Flow Development With ESB
+Team		6
+Program Sunrise is a project which is developed for 5th largest bank in quebec, Canada. The purpose is to develop solutions for bank transactions to replace existing legacy system using Web Services, MQ, Mainframe, Message Broker.
+My role is to develop message flows for different operations using IBM Message Broker.
+
+Activities:
+· Create message flow for each operation.
+· Prepare Solution Approach.
+· Perform message trasformation in message flows.
+· Create Local and Remote Queues for different operations using MQ Explorer.
+· Perform configuration of remote broker for deployment of message flows.
+· Perform unit testing for the created operation.
+· Prepare Service Contract for the operations being used in solution.
+· Prepare Use Cases for the operations being used in solution.
+· Prepare test cases of each operation used in solution approach.
+
+Project 3	FD VISION-PLUS UI								JUN 2012 - DEC 2012
+Client		First Data
+Role		REST-Web Service development
+Team		5
+
+VISION-PLUS UI is a rich user interface product developed for front line customer service team with the objective of providing an efficient user interface to modify backend VisionPLUS Mainframe system. For this a Change Request is created and goes through different stages of approval process. Once fully approved, backend VisionPLUS Mainframe system is updated with current changes.
+
+Activities:
+· Develop REST ful web services for the application.
+· Uses spring’s JDBC Template in DAO layer to interact with DB.
+· Perform unit testing of created web services.
+· Prepare Use Cases for the operations being used in solution.
+· Prepare test cases of each operation used in solution approach.
+
+
+Project 2	Local Commercial Bank							AUG 2011 – JUN 2012
+Client		CITI Group
+Module		Maintenance
+Role		GUI development using Flex
+Team		4
+
+This application is used to provide facilities (loans) to the Companies. Customer comes to the bank and applies for loan or relationship manager approaches customer for the purpose of required facility. Then customer’s application is processed by this application and depending upon customer’s turnover, its condition in market, loan is given. Maintenance is one of the modules of this application which is used to update the customer’s details in the system.
+
+Activities:
+· GUI development using flex inbuilt component like DataGrid, Combo Box, Dropdown List etc.
+· Create WindowShades functionality for data grid.
+· Create expand and collapse functionality for Window Shades on button click.
+· Write functional coding for all buttons.
+· Create Maker and Checker functionality.
+· Create visibility, non-visibility functionality for maker and checker.
+· Apply custom validations for both maker and checker.
+· Perform unit testing for developed UI.
+
+Project1	Cap Book (Web based)							SEP 2010 –JUL 2011
+Client		CAPGEMINI (Internal project)
+Role		Development of DAO and Service layer
+Team size	5
+
+Cap Book is a FACEBOOK kind application which is developed using J2EE technology like JSP, SERVLETfor the internal resources of the company. My role was to develop interfaces and classes of DAO layer as well as interfaces and classes Service layer for the application.
+
+Activities:
+
+· Write service layer coding using SERVLET for Add Friend and Remove Friend functionality.
+· Write DAO layer coding using JDBC technology for Add Friend and Remove Friend functionality.
+· Prepare use cases for the application.
+· Perform unit testing for created functionality.
+
+Professional Experience
+
+
+· Working as an Associate Consultant in CAPGEMINI, Pune from 6th May 2010 to 21st August 2013.
+· Working as a Senior Application Developer in INautix Technologies, Pune from 19th September 2013 to till date.
+
+Personal Details
+
+
+Company		: INautix Technologies India PVT. LTD.
+Designation		: Senior Application Developer
+Date of Birth		: 20th Sep.1983
+Gender			: Male
+Marital Status		: Married
+Languages known	: English, Hindi, Marathi.
+Address 		:Datta Krupa Heights, Flat # 303, Hadapsar, Pune.
+
+
+Date:
+
+Place:                                                                                               				  (Ashish A. Nargade)

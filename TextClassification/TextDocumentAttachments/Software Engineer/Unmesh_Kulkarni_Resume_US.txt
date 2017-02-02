@@ -1,0 +1,193 @@
+
+Resume of Unmesh Kulkarni
+
+1 | P a g e
+
+Unmesh S Kulkarni
+unmeshkulkarni@yahoo.com  +91-9890924285
+B-203, Ovhal Spring, Vishal Nagar, Pimple Nilakh, Pune, MS, India 411027
+
+ Highly competent and result oriented senior technical person with good experience on latest technologies
+like Hadoop and Cloud.  Successfully played various roles in 14 years of IT career. Looking forward for good technical
+work and inspiring environment.
+
+Snapshot
+Experience 14+ Years
+Areas of work Enterprise applications using Java EE, Cloud computing, Big Data
+Roles played Developer, Team Lead, Onsite coordinator, Project Manager, Designer, senior
+
+team member for upcoming technologies, Pre sales consultant.
+Education Bachelor of Engineering in Computer Science from Mumbai University, India
+
+Tools and technologies
+Big data Cloudera Hadoop, Sqoop, Flume, Infinispan, Hazelcast
+Cloud and DevOps Puppet, OpenStack, Novel Cloud, CollectD, RRD, Shell scripting, RHEL
+Java EE Struts, Spring, JBOSS, MariaDB, DB2, WebSphere, Maven, HTTPD
+
+Employment summary
+2007–Present Tieto
+
+www.tieto.com
+Lead developer, Consultant Pune-India , Helsinki –
+
+Finland
+2000–2007 Wipro Technologies
+
+www.wipro.com
+Developer, Onsite coordinator,
+Presales consultant, PM
+
+Bangalore, Pune–India,
+San Francisco – US (on L1
+Visa)
+
+1998–2000 WebSurf Pvt Ltd
+www.websurfonline.com
+
+Developer Mumbai – India
+
+Recent Certifications
+
+ Cloudera certified Hadoop Developer (http://goo.gl/L7jkNB)
+ MongoDB for Java Developers by 10Gen (http://goo.gl/PvhfXU)
+ Web Intelligence and Big Data by IIT Delhi by at Coursera (http://goo.gl/xKGCZV)
+
+Few key roles and corresponding work profile
+
+Lead technical member for Big Data Team -   Tieto (India)   -    1.5 Years
+
+Implementation of “Log archival and search” system using Hadoop for one of the leading Telco client
+The Telco client had a regulatory requirement to store logs of NATed(Network address translated) IPs for cellphone
+sessions by all its users for 1 year. The system has high data generation speed and high volume. The log generation
+speed was around 8Mb per second and storage size is around 50TB.  It was expected that the data stored is
+searchable for specific queries.  The system developed had log collection part implemented using Flume cluster and
+storage is done on HDFS. The queries are handled by Map Reduce jobs.
+
+Responsibilities handled are
+ Participation in designing of system
+ Implementation of MR jobs
+ Implementation of Flume cluster
+
+Technologies: CDH4,  Flume, HDFS, MR
+
+TBDP (Tieto Big Data PAAS)
+
+
+
+
+
+
+
+
+
+
+Resume of Unmesh Kulkarni
+
+2 | P a g e
+
+Tieto Big Data PAAS is a Hadoop platform offered by Tieto. The solution involves creation of
+Hadoop cluster on physical infrastructure. The cluster includes all basic components of Hadoop cluster
+like MRV1, Flume, Sqoop, Pig, Hive and HBase. The cluster is available in various flavors suitable for
+various needs
+
+Responsibilities handled are
+ Design and implementation of installer of the cluster. Installer uses Cloudera REST APIs to setup
+
+various roles
+ Discovering various parameters for optimization and implementation of best practices.
+
+Responsibilities other than projects
+ Participation in various sales case POCs and sales support for Big Data
+ Supporting sales team for various proposed technical solutions
+ Participating in joint workshops with technology partners like Cloudera.
+ Implementation of POCs for showcase of capabilities of the organization.
+ Spreading awareness about big data within organization.
+
+Lead Developer for PAAS product - Tieto (India)   - 1 Year
+TOAS(aka OpenInfinity) Tieto’s platform for enterprise applications. It is a collection of seamlessly
+
+integrated spring based Open Source products. The platform offers enterprise service bus (using Mule
+ESB), portal capabilities (using Liferay), Identity management (using OpenAM), and document
+management capabilities (using alfresco).
+The work involved was
+ Design and implementation of platform deployment system using Puppet.
+ Implementation of Licensing modules which monitors number of requests for user
+ Implementation of Health Monitoring tool that tracks overall health of the platform.
+
+Technologies:   Java, Hi-Chart, CollectD, RRD, Tomcat, Spring, Mule, Liferay, Alfresco, Puppet, HazelCast
+
+Lead Developer for JBOSS PAAS - Tieto (India) - 1 Year
+JBOSS PAAS is optimized complete hosting stack (Database, Application Server, WebServer) for Java EE
+applications using JBOSS 6 application server.
+The work involved was
+ Design and development of JBOSS based hosting stack both in Standalone and Clustered manner
+ L3 and L4 support for the hosted applications.(on need basis)
+
+Technologies: Apache HTTPD, JBOSS 6, MariaDB, Mod jk, Puppet, Shell scripts.
+
+Lead Developer for Insurance product - Tieto (India) - 2 Years
+LIS is an insurance product for Nordic market. Nordea is one of the important customers for the
+
+product.
+Contribution
+ Designing and implementation of
+
+various features of the product.
+ Maintenance and bug fixing.
+
+ Performance profiling of the product  Performance improvement of product
+Technologies: Java EE, Hibernate, Struts. Java memory profiler
+
+Technical PM for a migration project - Wipro Technologies for Citi Group - 1.5 Years
+The project involved re-engineering project of migrating of legacy AS/400 system to new web-
+
+based system using EGL. EGL is 4th generation language developed at IBM.
+
+Nature of work
+ Estimation and Project planning  Work tracking
+ Quality process implementation and
+
+supporting quality audits
+ Project reporting to stakeholders
+
+ Internal and external communication
+
+
+
+Resume of Unmesh Kulkarni
+
+3 | P a g e
+
+Technologies and Tools: MS project, internal tools for project tracking.
+
+Team leader for Agent commission system - Wipro Technologies for North Western Mutual – 1.5 Years
+The project involved development of system to record details of sales of insurance plans by
+
+agents. The system also gives facility to supervise the processing of sold plans. The system consisted of
+web base interface and off-line utilities. The system was developed using J2EE framework
+The work involved was
+ High level and low level designing  Implementation of various modules
+ Delivery responsibilities  Communication with client on regular basis
+ Design and code reviews  Team mentoring
+
+Technologies and Tools: JSP, JAVA, Struts, XML, DB2, WebSphere, RAD, MQ Series, PVCS
+
+Onsite coordinator/Maintenance Lead – Wipro Technologies for Charles Schwab, San Francisco, US - 3 Years
+The work involved was
+ Knowledge transfer of Java EE based
+
+applications to offshore team
+ Maintenance of Java EE based applications
+
+ Coordination between customer and
+offshore team
+
+ Technical mentoring to offshore team.
+
+ Technologies: WebSphere application server, Java, Servlet, XML, Oracle, Ant,ClearCase
+
+Special Note
+
+Work Eligibility:   Seeking Visa/Work permit sponsorship. Currently not residing in US.
+
+

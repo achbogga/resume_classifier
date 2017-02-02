@@ -1,0 +1,57 @@
+
+Arun Deepak Ramalingom Pillai
+Software Engineer
+arama004@odu.edu 
+
+
+Software Developer 
+1 year of software development experience includes the .NET Framework and associated technologies such as ASP.Net, ADO.NET, C, C++, C#, JavaScript, CSS, HTML and Windows Communication Foundation (WCF) Services.  Oracle database experience in writing SQL procedures/queries. 
+6 months of assembly language programming experience that includes design and simulation of Reduced Instruction Set Computing (RISC) architectures.
+2 years of experience working independently and in team settings, maintaining relationships with clients, gaining knowledge in group dynamics and situational leadership skills, and accomplishing team goals beyond customer expectations.
+2 years of experience with troubleshooting, collection, documentation and analyzing of data.
+EXPERIENCE
+
+ELECTRICAL AND COMPUTER ENGINEERING LAB/ODU, Norfolk, VA	August 2012 – Present
+HARDWARE DEVELOPER/RESEARCHER 
+Working with Computer Engineering Research team in the simulation and design of Reduced Instruction Set Computing (RISC) architectures to evaluate the impact of different architectural designs.
+Developing parallel programming algorithms and Dynamic Random-Access Memory (DRAM) designs to reduce latency while simultaneously improving performance.
+Implementing micro-architecture models and diagrams utilizing the Altera DE2-115 Field-Programmable Gate Array (FPGA) board to understand hardware constraints during design implementation.
+Conducted class seminars and group conferences to provide mentorship and guidance to students on the numerous design and programming methodologies for microcontrollers.
+Developing in VHSIC Hardware Description Language (VHDL) and Register-Transfer Level (RTL) codes for implementation and simulation of RISC architecture using the Quartus v.13.1 and Aldec v.9.1 software applications.
+
+COGNIZANT TECHNOLOGY SOLUTIONS, Chennai, India	July 2011 – June 2012
+SYSTEMS ENGINEER/SYSTEM ANALYST
+Developed multiple, modular objects and a messaging interface to create a software package that allowed secure access to customer banking details.
+Worked with lead programmers on the Telecommunication Systems team in support of a project that consolidated and managed client databases and web applications.
+Constructed WCF and ASMX web-services responsible for communicating and providing real time data from/to back-end database to/from client application.
+Created database tables and procedures for proper maintenance and updating of user data.
+Wrote SQL and PL/SQL queries to retrieve the required data from the database for various projects.
+Researched software issues, performed defect corrections, and provided recommended solutions based on code and systems analysis.
+Utilized ASP.Net, ADO.NET, C, C++, C#, JavaScript (jQuery), CSS, and HTML in .NET Framework 4.0 for the development of banking and finance technologies.
+
+
+Researched evolving technologies in the design and implementation of application infrastructure for scalability, reliability, availability and serviceability to identify the tradeoffs and risks associated with   each technology.
+Researched on the creation and maintenance of conceptual, logical and physical models that include context diagrams, data flow diagrams, process flow diagrams, data dictionaries and logical flow charts.
+EDUCATION
+· Master of Science, Electrical and Computer Engineering
+Old Dominion University, Norfolk, VA
+May 2014 (expected graduation date)		GPA:  3.85
+· Bachelor of Engineering, Electrical and Electronics Engineering
+Anna University, Chennai, India
+May 2011					GPA:  3.6+ (converted)
+
+AWARDS
+Received travel grant for presenting at the International Electrochemical Society (ECS) 2013 conference.
+Member of the team which won the first place at Virginia Microelectronics Consortium (VMEC) Conference 2013.
+Received cash award for meritorious academic achievement.
+Represented school technical team at Indian Space Research Organization (ISRO) district meet.
+Received state level awards for representing college in annual sports meet.
+REFERENCES
+	AVAILABLE ON REQUEST
+
+page 
+1
+ of
+  2
+(757) 376 - 8340
+809 Oglesby Court, VA Beach, VA 23464

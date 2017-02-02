@@ -1,0 +1,142 @@
+RAJESH PARUCHURI 
+
+
+
+
+264, MIDLAND AVE, UNIT #30        
+
+
+           rajesh.paruchuri@hotmail.com
+SADDLE BROOK, NJ 07663  
+
+
+
+           607-699-1416
+Summary:         
+· Knowledge of deploying and troubleshooting LAN, WAN, Ether-channel, IP Routing Protocols - (RIPV2, OSPF, EIGRP & BGP), ACL's, NAT, VLAN, STP, VTP.
+
+· Excellent working knowledge of TCP/IP protocol suite and OSI layers.
+
+· Implemented security policies using ACL, Firewall, IPSEC, SSL, VPN, AAA (TACACS+ & RADIUS).
+
+· Efficient at use of Microsoft Office/VISIO as technical documentation and presentation tools.
+
+· Knowledge on implementations of F5 load balancers and their functioning of  LTM running OS 9.x and 10.x to include the creation and modification of Nodes, Pools, VIPs, Monitors, Profiles and iRules.
+
+· Effective inter-personal skills, adaptive to any environment, keep abreast with the latest technologies and delivering solutions as an individual and as part of a team.
+
+Education:                                                                                              
+
+       Master of Science in Computer Science, May 2013
+
+
+
+         3.5 GPA
+       Fairleigh Dickinson University, Teaneck, NJ  
+
+
+
+
+       Bachelor of Technology in Computer Science & Engineering, May 2011
+         3.5 GPA 
+       Jawaharlal Nehru Technological University, Hyderabad, India 
+
+
+Achievements: Developed mobile and gaming applications for Windows Mobile 7 Operating System and Certified by MICROSOFT for the “.NET, C#, Silverlight and Windows Phone 7”.
+Technical Skills:                                                                                              
+
+Operating Systems
+
+: Solaris, Red Hat LINUX, Ubuntu, Windows 98/2000/NT/XP/7.  
+Routing Protocols                : RIP, IGRP, EIGRP, OSPF, IS-IS, BGP, HSRP, VRRP & GLBP                             
+
+  Infrastructure services       : DHCP, DNS, SMTP, FTP, TFTP
+
+  Documentation           
+: MS Office, MS Visio
+Programming Languages
+: C, C++, .NET(C#, Windows Phone 7 with Silverlight)
+
+Web Technologies
+
+: JDK 1.4, HTML, XML, DHTML, MSXML, ASPX, 
+
+Scripting Languages
+: UNIX Shell Scripting (Bourne, Korn, C and Bash)
+
+Database
+
+
+: Oracle 8i/9i/10g, MS SQL Server 7.x/2000, My SQL, MS Access and DB2.
+
+Professional Certification:
+
+  Cisco Certified Network Associate (CCNA) v2.0
+
+Work Experience:                                                                                              
+
+Cisco Switch/Router Administrator 
+
+
+
+
+Aug 2013 – Present  
+State of NY, Ulster County, Kingston, NY
+
+· Configuring, and troubleshooting Cisco routers and Cisco Catalyst switches.
+· Configuration and deployment of Cisco 2960 network switches in Ulster County’s data network.
+
+· Update the Cisco Internetworking Operating System (IOS) on a set of new Cisco 2960 switches.
+
+· Load initial switch configurations for both individual switches and switch stacks.
+
+· Perform testing to verify that hardware and configuration are functioning correctly.
+
+· Work with Cisco Technical Support to resolve any initial configuration or hardware problems.
+
+· Maintain inventory of switches.
+
+· Assist with the planning, staging, and deployment of switches.
+
+· Transport switches to designated locations and mount hardware in data cabinets and racks.
+
+· Assist with the production cut-over of the new switches which is done after normal business hours.
+
+· Assist with any troubleshooting and problem resolution following deployment.
+· Configured and implemented BGP, EIGRP and OSPF in multi-protocol network environment.
+Environment: Cisco Routers 2900, 3900, 7200; Cisco Catalyst switches 3550, 2960S.
+Assistant for Software Developer/Web Operations Manager, 
+
+ Jan 2013 – May 2013  
+Office of Dean, Fairleigh Dickinson University
+· Designing and architecting of the FDU School of Nursing web page. 
+
+· Administration of the University databases includes daily updates of data, processing requests from faculty with update of grades and addresses.
+
+· University website’s Content Management: It includes updates of school’s calendar, announcements, addition of new pages, updating contact and course information, day-to-day updates.
+Teaching/Lab Assistance in Computer Networks Lab
+
+        Fall 2011 - Spring 2013
+Gildart Haase School of Computer Sciences and Engineering, FDU 
+
+· Configuring, and troubleshooting Cisco routers and Cisco Catalyst switches.
+· Monitored network traffic via network monitoring tools and sniffers in an attempt to troubleshoot network outages and intrusions by tracing their origin and destination.
+· Responsible for layer 2 securities which was implemented using a dedicated VLAN ID for all trunk ports, setting the user ports to non-trunking, deployed port security when possible for user ports.
+· Hands on experience on subnetting and VLSM, STP, VTP, VLAN trunking.
+· Assisting students in project, Lab, class work, helping professor in class with grading of papers, project and proctoring the quizzes.
+Environment: Cisco Routers 2900; Cisco Catalyst switches 6509, 3550, 2960.
+Assistant for Network Design/Operations 
+
+
+
+
+
+Summer 2012
+
+ZOOM Technologies, Hyderabad, India                                                       
+· Active participation in the design of Networks for communication sector in Hyderabad area. 
+
+· Handful of experience in the configuration of routing protocols mainly for CISCO routers. Configuration of CISCO switches.
+
+· Trained in the certification programs of CCNA (Router & Switch) and CCNP (Router & Switch).
+

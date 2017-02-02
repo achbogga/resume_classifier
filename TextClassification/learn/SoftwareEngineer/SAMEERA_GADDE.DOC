@@ -1,0 +1,375 @@
+SAMEERA GADDE                                    JAVA/J2EEE                                               
+E-mail: technosameera@gmail.com                                                                                 Mobile: (585) 209-3635
+
+SUMMARY
+· Over 7 years of experience in all aspects of Software Development Life Cycle (SDLC) including requirements analysis,Client/Business Analyst Interaction, design specification(HLD,LLD,TDD), code development, code integration, testing, build, release management ,deployment ,maintenance and production support using Object Oriented Analysis and Design with Java/J2EE.
+· Experience in using the Java 5 concepts like Annotations, Generics, Collections and advanced concepts since JDK1.5 
+· Exposure in working with projects of all types(project development from scratch(complete SDLC),core/re-usable component’s development, re-engineering and production support)
+· Experience in working with UML Diagrams  using  Microsoft VISIO
+· Experience with object oriented analysis and design methodologies like Agile Scrum,WaterFall,TDD,CI.
+· Experience with various OOPS Concepts/Best Practices and  J2EE design patterns like DAO, MVC, Factory,Session Façade, Business Delegate, Service Locator, Singleton and View Object,Command, Decorator,Observer,Adaptor,Chain Of Responsibility.
+
+· Experience in developing web applications using MVC frameworks such as Jakarta Struts (1.2 and 2.0), Spring MVC (2.X and 3.X), JSF 2.0 featuring Model, View and Controller (MVC) Layers. 
+· Experience in working with Web services in SOA based projects. Worked with JAX-WS/JAX-RS implementations using Apache Axis2, Spring WS and Apache CXF web services.
+· Expertise in J2EE technologies like JSPs 1.2/2.0, Servlets 2.3/2.4, EJBs3.0, JDBC, JNDI. 
+
+· Experience in developing and deploying applications on various web containers/application servers such as Apache Tomcat, Websphere Application Server, Weblogic Application Server, JBoss.
+· Experienced in Web services methodologies like producing and consuming Web Services. Extensive experience with REST(JAX-RS), WSDL, SOAP(JAX-WS,JAX-RPC), SOAP UI,In-house BI tools with 
+Contract first and bottom up approaches.
+· Experience with popular frameworks, libraries,J2EE Design Patterns, and best-practices .
+· Proficient in Java Multi-Threading, Thread lifecycle methods and multiple request handling using synchronization 
+
+· Experience in Release management activities for DEV, SIT, UAT, PRODUCTION Environments.
+· Experience in developing web based Dynamic User Interfaces, Cross-Browser Event Handling, DOM manipulation using HTML5, DHTML, CSS3, JavaScript, AJAX,DOJO,EXTJS and JQuery 
+· Experience in Debugging Dynamic web content using Fire Bug(Mozilla) and Developer Tools(Google Chrome)
+· Proficient in security concepts like SingleSignOn(SSO),LDAP server Authentication and Authorization, Spring-Security ,SSL, Certificates
+· Experience in developing Server Side Business layers using EJB architecture that included session Beans for workflow, Entity Beans for persistence, Message Driven Beans for asynchronous communications
+· Experience on Object-relational mapping in EJB 3 and JPA, Hibernate, Spring-Hibernate Template
+· Good understanding of XML concepts like XMLNS, XSLT, XML Schemas (XSD), DTD, XPATH.
+
+· Experience in writing Ant and Maven build scripts for project development and deployment and continuous integration with JENKINS.
+
+· Worked with XML parsers like JAXP (SAX and DOM) and JAXB.
+
+· Proficient in analyzing performance and memory leaks using J Profiler
+· Expertise in applying JMS (Java Messaging Service) for reliable information exchange across Java applications. Hands-on experience working with Spring-JMS.
+
+· Proficient in SQL, PL/SQL programming. RDBMS experience includes working with various databases such as Oracle 11 g, SQL-Server, My SQL, IBM DB2 and coding Stored Procedures & Triggers.
+
+· Hands on experience on JUnit test cases and configuring jMock, using Log4j for application level logging.
+
+· Worked with version control systems like CVS,SVN,ClearCase for providing common platform for all the developers.
+
+· Experience in working on various operating systems like Windows 7/XP and Unix/Linux.
+
+· Articulate in written and verbal communication along with strong interpersonal, analytical, and organizational skills.
+
+· Highly motivated team player with the ability to work independently and adapt quickly to new and emerging technologies.
+· Well versed in interacting with clients.
+TECHNICAL SKILLS
+	Languages
+	Java 1.4/1.5/1.6/1.7,SQL,PL/SQL, XML, XSL, XSLT,Regular Expressions
+
+	J2EE Technologies
+	Servlets 2.4/2.5, JSP 1.1/2.0, JDBC 3.0, JNDI, EJB 2.0/3.0, JMS, JAXP, JAXB, Web Services(JAX-WS,JAX-RS).
+
+	EAI Tool
+	IBM ESB
+
+	Application Server/Web Server
+	WebSphere /6.x, Apache Tomcat 6.0, 
+
+WebLogic 8.x/9.0/10.0, Jboss,Apache Web Server 2.0
+
+	Operating Systems
+	Unix, Solaris 10, RedHat Linux Enterprise, Windows 7/XP
+
+	Database
+	Oracle 11g,  MS SQL Server 2000, MySQL 3.23, DB2 UDB 7.0/9.0
+
+	IDEs
+	Eclipse Helios/Galileo/Juno, MyEclipse,Spring STS, WSAD 4.0/5.1.2, RAD 6.0/7.0,  SOAP UI,SQL Developer, MS Visio
+
+	Framework
+	Struts 1.2/2.0, Spring 2.X/3.X,JSF 2.0, Hibernate 3.0, Junit 4, ANT, MAVEN
+
+	Web Technology
+	AJAX,JQUERY, HTML, DHTML, JavaScript, CSS,
+
+	Version Control
+	Rational ClearCase, CVS, SVN
+
+	Design Methodologies
+	UML, J2EE Design Patterns 
+
+	Project Management Tool
+	HP Quality Center,JIRA,BugZilla
+
+	Third Party Software
+	Apache Axis2, Apache CXF
+
+	Areas Of Knowledge
+	ETL,EAI,SOA,BPM,CRM APPS,Continous Integration
+
+
+Professional Experience:
+Client: Frontier Telecom, Allen, TX
+
+                    Sept’12-Till Date
+Position: JAVA/J2EE Programmer 
+Project: Business Decision Tool (BDT) and Catalog Management System
+
+
+Description:
+
+This application helps Sales Leaders (SL), Agents and Agent Team Members to setup their respective annual goals, distribute these goals to their teams working under them and helps agents to assess his/her team member’s performance, allocate the compensation .This application helps Vice President of Agency (VPA) to keep track on business plans setup by the sales Leaders and agents and scale the progress towards their targets. 
+This application also manages the approval workflow for commercial and residential catalog management
+
+Responsibilities:
+
+· Involved in Development and Testing phases of Iterative and Incremental development of the Application.
+
+· Prepared Technical Design documents with Class diagram, Sequence diagram, Activity diagram and Flow charts through UML and VISIO.
+
+· Written functional design documents and detailed design documents based on the requirement specifications SRS(BRD)
+· Involved in preparing the Integrated Development Design Flow, Test Scenarios and Execution Plan, Impact Analysis documents.
+· Involved in team discussion on weekly basis , daily standup meetings and participated in Code Reviews and Walkthroughs
+
+· Involved in the complete life cycle of the integration testing with external teams
+
+· Implemented SOA, developed Services using Apache CXF and Spring , extensively used Spring MVC ,Spring Security, Spring DI, Spring JDBC Template, Spring Hibernate Template, Spring JMS Template and Spring Web Service Template 
+
+· Used Spring AOP for logging, transaction handling throughout the application
+· Used maven for build and continuous integration with Jenkins.
+· Experience in developing Custom APIs, Services, SSO required for application.
+· Involved in Writing Controller Classes, and DAO Classes Using Spring MVC and JDBC framework.
+
+· Involved in developing presentation layer using JSP,JQuery,DHTML,AJAX and JavaScript. Involved in implementing AJAX using JSON framework.
+
+· Knowledge on JQuery library, build custom JQuery component using standard components.
+
+· Consumed Web services using Apache Axis2 provided by ESB to communicate with downstream systems and published Manage Order Services as Web Services using Apache Axis2.
+
+· JAXB is used for reading and writing Java objects to and from XML documents.
+
+· Implemented SSO (Single Sign-on) for the application from Sales force by authenticating the user against LDAP server.
+
+· Extensively worked on CVS Branching, Tagging, and Merging of Branches into Head.
+
+· Ant/maven used for build and deploy, wrote unit Test Cases & Test Suits using JUnit.
+
+Environment: JDK 1.6,  JSP, Spring 3.0, jQuery, JavaScript, AJAX, Ant, Maven, Web services(SOAP, Apache CXF,Spring -WS), JAXB, Oracle11g, JUnit 4.x, Eclipse 3.7, CVS, SOAPUI, Oracle SQL Developer, Websphere 6.1, LDAP,  MS VISIO, JSON,JMS,RAD.
+Client: FEDEX, Collierville, Tennessee
+
+
+
+                                   Feb’12-Sept’12
+Position: JAVA/J2EE Developer
+Project: FedEx Tech Connect
+
+
+Description:
+
+FedEx is one of the nation's leading logistics services organizations. This project is designed to create a customer web portal for Getac customers with integration to FedEx tracking, Nexus, SOA Services, FedEx Web Services, FedEx Returns Systems and, in the future, Oracle EBS. In addition, Nexus administration pages and fields will be created to support the web portal, maintenance of accounts, ordering CRU, and Depot repair functions. Getac only customers will be re-directed from the Getac web site to the FedEx / Getac web portal. The customers will be able to create a login, administer their login information, initiate an RMA, update an RMA request, check status of an RMA, get repair history, and in the future order CRU through the web portal.
+Responsibilities:
+
+· Involved in leading team, task allocations, mentoring ,planning and estimations
+· Written functional design documents and detailed design documents based on the requirement specifications SRS(BRD)
+· Involved in preparing the Integrated Development Design Flow, Test Scenarios and Execution Plan, Impact Analysis documents.
+· Involved in team discussion on weekly basis and monitoring the project progress and participated in Code Reviews and Walkthroughs
+
+· Involved in the complete life cycle of the integration testing with external teams
+
+· Implemented SOA, developed Services using Apache CXF and Spring , extensively used Spring MVC,JSF ,Spring Security, Spring DI, Spring JDBC Template, Spring Hibernate Template, Spring JMS Template and Spring Web Service Template 
+
+· Used Spring AOP for logging, transaction handling throughout the application
+· Used JSF, Jquery and Ajax for developing client side user interface screens.
+
+· Used Web Service (JAX-WS and   JAX-RS(Jersey)) to communicate with tracking and shipping servers. 
+· Used Log4J to printing log output to different local and remote destinations
+
+· Wrote RTI documents for preparing the Development, QA and Production Environments
+
+· The Application was hosted by Oracle Web Logic Application Server in Unix environment
+· Used JAX-RS with JERSEY.
+· Used Web Sphere Application server 6.X  as a part of applications integration
+· Extensively used Eclipse
+Environment: J2EE 1.4, Apache CXF,Maven, Spring3.0,JSF2.0, JDBC, Hibernate, JSF 2.0,Jquerys, CSS , Ajax, XML, XSLT, WSDL, SOAP, CVS, Oracle, SQL, ANT, Log4J,Linux, JAX-WS,JAX-RS, Eclipse,Oracle Web Logic Application Server10.3,jersey,Microsoft Visio, WebSphere Application Server 6.X,SSO.HTML5,CSS 
+Client: Citi Financial Services (CITI), New York
+
+
+
+Aug’10-Jan’12
+Position: Java/J2ee Developer
+Project: Securities Positions Interest Disclosure Reporting System (SPIDER)
+
+
+
+Description:
+
+Citi is one of the nation's leading banking and financial services organization. SPIDER is an IT reporting solution for banking and stock market regulations division of Citi as per US federal laws. It deals with the monitoring and reporting of securities, holdings, Interest disclosure related activities performed by employees and end customers as per Citi regulations.
+Responsibilities:
+
+· Involved in design  and development of User Management which handles SSO,authentication,authorisation services
+· Written functional design documents and detailed design documents based on the requirement specifications SRS
+
+· Involved in preparing the Integrated Development Design Flow, Test Scenarios and Execution Plan, Impact Analysis documents.
+· Involved in team discussion on weekly basis and monitoring the project progress and participated in Code Reviews and Walkthroughs
+
+· Involved in the complete life cycle of the integration testing with external teams
+
+· Implemented SOA, developed Services using Apache CXF and Spring , extensively used Spring MVC ,Spring Integration, Spring DI, Spring JDBC Template, Spring Hibernate Template, Spring JMS Template and Spring Web Service Template 
+
+· Used Spring AOP for logging, transaction handling throughout the application
+· Used JSP, Jquery and Ajax for developing client side user interface screens.
+
+· Used Web service to communicate with ab initio and BO servers. 
+· Used Log4J to printing log output to different local and remote destinations
+
+· Wrote RTI documents for preparing the Development, QA and Production Environments
+
+· The Application was hosted by Oracle Web Logic Application Server in Unix environment
+· Used TIBCO Active Matrix Business Works for system integrations and web service calls with SUN IDM
+Environment: J2EE 1.4, Apache CXF,Maven, Spring2.5, JDBC,Hibernate, JSP 2.0,Jquerys, CSS , Ajax, XML, XSLT, WSDL, SOAP, CVS, Oracle, SQL, ANT, Log4J, TIBCO Active Matrix Business Works, Eclipse,Oracle Web Logic Application Server,JMS.
+
+Client: Conoco Philips, Tulsa, OK
+
+
+
+
+                     Feb’09-July’10
+Position: Developer
+Project: @EAS Conversion Project
+
+
+Description:
+@EAS – Enterprise Application System is used to create POF (Policy Order Form) which initiated by Agent. After a POF is created, it is then used by underwriter to write the policy/quote. This @EAS application is having near about 100 screens/forms. It was initially developed in VB and now it is being converted to Java using Spring, Hibernate. As a programmer, I am responsible to develop few forms and at the same time I am responsible to fix high severity defects on few existing forms.
+
+ Responsibilities:
+
+· Involved in design and development of workflow and support using SDLC.
+· Develop the application using Agile software development methodology.
+
+· Developed the functional specifications using UML in Rational Rose.
+
+· Used the Struts framework  to build the web application and Spring to develop light weight business component.
+
+· Used the Struts Validations and Tiles framework in the presentation layer.
+
+· Used Spring integration with Struts by implementing Delegating Struts Action management to Spring Framework.
+
+· Implemented persistence layer using Hibernate template that use POJO classes to represent persistent database tables.
+
+· Written *.hbm.xml file, for developed POJO, to map objects to relational database.
+
+· Used different queries like Hibernate query language and SQL to fetch the data from the database.
+
+· Used XML parser APIs such as JAXB in the web services request /respond data for marshalling and unmarshallling. 
+
+· Used different Design Patterns such as Business Delegate, Session Façade, Data Transfer Object (DTO) and Service Locator in the project extensively, which facilitates clean distribution of roles and responding across various layers of processing.
+
+· Used Web services for sending and getting data from different application using SOAP messages.
+
+· Used Ajax features in the application to implement Interactive Dynamic search Extensively used Eclipse while writing code.
+
+· Used CVS as a version tool and used ANT to build the application.
+
+· Developed logging module-using Log4J to create log files to debug as well as trace application.
+
+· Deployed the application on IBM WebSphere Application Server 5.1.
+
+Environment: J2EE 1.4, HTML,JSP, Servlets, JavaScript ,Struts, Spring, Hibernate, CSS , Ajax, XML, XSLT, WSDL, SOAP, CVS, Oracle, SQL, PL/SQL, TOAD, ANT, Log4J,Eclipse, IBM WebSphere Application Server 6.X.
+
+Client: Prudential Insurance, Roseland, NJ                                                                        July’08-Jan’09                              Position: Sr.J2EE Developer                                                                                                                            Project: Financial Integrated Rules Management
+
+
+Description: Prudential Insurance is one of the largest insurance services company in the USA. It offers a full range of insurance products for home, car, family and financial security. FIRM system is a web-enabled system that processes the files submitted by different sources. Processing of files include various integrity checks, storing the data in DB2 database. 
+
+Responsibilities:
+· Involved in the complete Software Development Lifecycle (SDLC) using the Agile iterative development Methodology. Interacted with the end users and participated in the SCRUM meetings.
+
+· Responsible for creating Use Case diagrams, Object Model diagrams, Class diagrams, Sequence diagrams and deployment diagrams using Rational Rose.
+
+· Used Core Spring framework for Dependency injection, Spring Context to add support for message sources and Used Spring AOP in incident tracking module
+
+· Used Spring JMSTemplate for JMS operations and Spring JDBC Template for database operations  
+
+· Involved in coding and unit testing of Orchestration Message Driven bean, which is responsible for extracting the XML message from the JMS queue and delivering it to SMS bean and calling Memo bean to add a memo and error handling
+
+· Involved in Coding and unit testing of Memo Service Message Driven bean, which is an asynchronous process involved JMS queue. The MDB will extract memo message from the JMS queue and call tuxedo service to add a memo
+
+· Involved in coding and unit testing of SMS Stateless session bean, which is responsible for calling SMSC Service for sending the messages to handsets
+
+· Extensively used Maven Project Management tool and Maven plug-in for Spring, EJB, JAXB and Apache XML Beans 
+
+· Involved in development of application using struts, RAD and Oracle data base.
+· Developed Data Access Layer using Hibernate ORM framework. 
+
+· Have coded numerous DAO’s using Hibernate Dao Support. Used Criteria, HQL and SQL as the query languages in Hibernate Mapping. 
+
+· Used Web Services for transmission of large blocks of XML data using SOAP.
+
+· Used XML for data exchange and schemas (XSDs) for XML validation. Used XSLT for transformation of XML.
+
+· Written numerous test cases for unit testing of the code using JUnit testing framework.
+
+· Used Log4j to implement logging facilities. Used Clear Case for version control.
+
+· Used Ant as a build tool. 
+
+· Configured and Deployed application on WebSphere Application Server in Windows XP environment
+Environment: JDK 1.5, Java EE 5.0, WebSphere Application Server 6.1, RAD 7.0, Eclipse 3, IBM UDB DB2, (AJAX), Web Services,  HTML, CSS, XML, Ant, UML, Rational Rose, JUnit, Log4j, Clear Case, Windows XP. 
+Client: Glen Oaks Hospital, Greenville, TX                                                                                 Dec’07-June’08
+Position: Sr. J2EE Developer
+
+Project: Patient Information System
+
+
+
+Description:
+
+Glen Oaks Hospital provides health care and a wide range of medical facilities. The patient information system was designed to keep track of the patient medical records, billing and appointments. The major functionality includes patient registration, recording personal details, handling hospital admissions, assigning insurance details, recording transfers within the hospital and creation of discharge summary. It provides a dynamic solution that enables the hospital to improve the workflow by reorganizing their processes across various departments and different enterprises.
+
+Responsibilities:
+
+· Design and Code Development phases which was modeled using Rational Unified Process (RUP)
+
+· Involved in developing Use Case diagrams, Class diagrams and Sequence diagrams in Rational Rose to express the detail design
+
+· Involved in developing the User Interfaces using Jsp/JavaScript/Ajax and used Struts validation framework
+
+· Used Core Spring framework for Dependency injection, Spring Context to add support for message sources
+
+· Wrote spring configuration file to define beans, define data source and hibernate properties.
+
+· Extensively used Hibernate in data access layer to access and update information in the database. 
+
+· Used Hibernate XDoclet tags to generate hbm.xml files
+
+· Used Message Driven Beans and JMS to process the requests from the customer asynchronously
+
+· Consumed Web services to verify the insurance information for patients from different insurance companies and implemented with WSDL and SOAP messages
+
+· Extensively worked on XML parsers (SAX/DOM)
+
+· Used XSL/XSLT for transforming common XML format into displayable format
+
+· Wrote PL/SQL stored procedures and did performance tuning of complex queries
+
+· Deployed application in WebLogic Application Server and developed using Eclipse 
+
+Environment: J2EE 1.4, IBM Web Sphere Application Server 8, Eclipse3, Oracle 9i, Spring1, Struts 1.2, Hibernate2, Servlets 2.3, Java Script, HTML, CSS, JMS 1.0.2,  SAX 1.0, HTML, JNDI 1.0, SQL, Ant, Log4J, UML 2.0, CVS 
+Client: MPHASIS, Bangalore, INDIA                                                                                   Aug’06-Sept’07
+Position: Jr. J2EE Developer
+
+Project: HP BOA
+
+
+Description:
+
+The PSR Online module would automate the management of Project, Project Status Reports (PSR), and PSR Approval using Web Application. The _BoA Project Managers could create weekly Project Status Reports (PSR) and submit PSR for different levels of approvals. The PSR Online module would archive historical PSRs, for future reference. The PSR Online module would have an inbuilt automated workflow that would route created PSR, to the PgM (optionally) or PM, for Review and Approval, and to Release PSRs to Bank TPM.
+
+Responsibilities:
+
+· Design and Code Development phases which was modeled using Rational Unified Process (RUP)
+
+· Worked with SDLC phases i.e. analysis, design, development and testing phases for the entire application.
+
+· Designed UI screens using JQuery and HTML. 
+· Used Struts Framework in the presentation layer and Validation Framework to validate the data.
+
+· Implemented various design patterns like Business Delegate, Data Access Object, Session Façade, Service Locator and Data Transfer Object in different tiers of the module.
+
+· Used Hibernate Persistence Strategy to interact with database.
+
+· Used JUnit framework for Unit testing of application.
+· Created action classes using the struts framework
+· Used Spring Framework for dependency injection and to integrate Struts Framework and Hibernate.
+
+· Monitored the error logs using Log4J and fixed the problems.
+· Used AJAX to interact with the server and to work some part of the screens.
+
+· Used json objects to get data asynchronously from the server and to display on screen
+· Used SVN for version control and source code management.
+· Used  Eclipse as  IDE  for development  and  worked  and configured  application  in  Jetty Web server.
+Environment: JSP, AJAX,  Struts framework, Hibernate framework, Spring framework, Log4j, JQuery,SQL, Json, Java Script, HTML,CSS, DB2, Jetty WebServer,  JUnit, Eclipse.

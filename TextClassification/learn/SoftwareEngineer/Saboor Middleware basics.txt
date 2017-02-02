@@ -1,0 +1,179 @@
+SABOOR ZAFAR 
+Email: Saboor_hussain@yahoo.com
+Contact: 6305975046
+Address: 773 Huntington drive Carol stream IL 60188 US
+OBJECTIVE:
+
+To work in a motivating professional environment to explore the possibilities of improving my capabilities & practicing my skills, hard work, commitment, motivation and passion are all that we need to reach the top.
+.Highlights of Skills
+Basic 1st level experience in Web sphere server testing, deploying, implementation & administration
+Basic 1st level experience in Web sphere MQ testing, deploying, implementation
+Basic 1st level experience in Web sphere broker testing, deploying, implementation
+Basic 1st level experience in Web logic administration 
+Basic 1st level experience in multi-platform distributed environment
+Enterprise application Integration 
+Good experience in messaging services JMS, JDBC 
+
+Integration with WBI Adapters 
+
+IBM Web sphere process server troubleshooting
+
+Linux 
+UNIX 
+Windows server 
+
+Oracle
+
+HP OVO
+
+HP OVPM
+
+FTP
+
+LDAP
+
+Prince2
+IT Project management
+
+Incident management 
+
+WORK EXPERIENCE:
+
+DHL IT Services 
+Middleware Administrator 2009 September till date
+ Role & Responsibilities 
+· Successfully developed, tested, installed, deployed WMB/WMQ in run-time environment
+· Successfully tested and installed IBM WAS/WMB/WMQ architecture
+· Excellent exposure of tuning deploying applications in production environment
+
+· Automation of large scale and highly available systems  
+
+· Worked extensively on deployment of new J2EE applications, creating clusters, managed servers, JMS queues, bridges & JDBC connections pools, managing JNDI, managing security, configuring and monitoring JMS in Web Logic Web sphere server. 
+
+· Successfully developed tested, deployed Web sphere broker message flows
+
+· Successfully integrated SOA ESB 
+
+· Worked with ESQL Java routines for message manipulation
+
+· Successfully Performed Web logic Apache Jboss Server hanging and Crash issues
+· Successfully troubles hooted MQ clusters & connectivity issue
+· Successfully provided remote administration on remote queue manager in WMQ
+· Working with teams to run OAT for migration of new middleware components to production 
+
+· Running pilot OAT for designing testing of WMQ & WMBv6 
+· Successfully patched web logic web sphere apache application
+· Successfully troubles hooted performance issues
+
+· Successfully managed servers load balancing and sharing
+
+· Successfully updated latest fix packs and releases.
+· Capacity planning for J2EE application architecture model
+· Implemented Work orders/change tickets as requested by customers
+· Successfully coordinated with change, release and implementation management to improve processes related to middleware applications
+· Managed server critical issues
+· Providing expertise to technical operators in resolving critical middleware issues
+
+· Successfully learned and implemented monitoring tool on cluster environment
+
+· Successfully managed incident management analysis
+
+· Successfully monitored events/issues occurred on various servers, applications.
+Earth Tec International (PVT) LTD
+Middleware Administrator 2005 till 2009
+· Managed middleware server related issues for inbound clients
+· Developed, tested application server according to business needs 
+
+· Successfully deployed and installed architecture of 50 servers. 
+
+· Successfully worked on web sphere web logic Jboss application server
+
+· Successfully perform installation and WPS web logic Jboss configuration 
+
+· Successfully managed and trouble shoot WAS web logic Jboss apache issues
+· Successfully integrated MQ with WAS 
+
+· Successfully worked on installation, deploying and troubleshooting Unix/Linux servers 
+
+· Worked closely with business in developing middleware infrastructure procedures 
+
+· Successfully worked with vendors like HP/IBM in regards to hardware and software support
+
+· Ensured all server services related to various applications are up and running     
+
+· Negotiate with vendors on server-hardware issues 
+
+· Handle client feedback and issues related to different applications
+· Supporting IT infrastructure by making HW and SW purchases
+
+· Support IT manager in Windows based HW and SW troubleshooting
+
+· Part of the new market research team
+
+Citibank N.A Consumer Banking
+Business development Officer 2004 till 2005
+Joined Citibank branch banking as a business development officer. Was responsible for managing our walk in clients and valued portfolio clients to provide them assistance in maintaining their accounts according to the banking procedures. 
+
+Roles:
+
+· Played a pivotal role in managing services 
+
+· Part of the team that won the best service assurance award
+
+· Managed branch related complaints and provide solutions 
+
+· Introduce and explain products and services to customers
+
+· Upgrading service levels and managing the branch complaints effectively.
+
+· To manage RCSA (internal audit) of sales and services.
+
+· Assisting managers in managing company events.
+
+Academic Background
+
+BSC (Honors) - Bachelors in IT and Computer Sciences: Staffordshire University UK 04                                         
+Training Programs Attended:
+
+· Customer Service Training
+
+
+
+
+
+
+
+· Effective Customer Handling
+
+
+
+
+· Customer Complaint Handling
+
+· Accent neutralization training 
+
+
+
+
+
+
+
+
+· Effective Leadership and Management
+
+· Trading essentials
+· Trading communications
+· First Choice awareness
+
+· DMAIC
+
+· Project management
+
+
+
+
+· Studying MCSE
+· Data managing tools
+References
+
+Furnished if required

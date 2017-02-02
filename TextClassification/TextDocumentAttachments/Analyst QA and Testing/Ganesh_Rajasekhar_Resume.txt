@@ -1,0 +1,107 @@
+Ganesh Prasad Rajasekhar				Page 2
+
+
+Ganesh Prasad Rajasekhar 
+21655 Greenhill Road, Apt 219 | Farmington Hills, Michigan 48335| T: 732-397-7987 | Email: ganesh.p.rajasekhar@gmail.com
+
+Summary
+Self-Starter, pro-active and quick learner with a clear understanding of fundamental concepts. Excel at working in fast paced environment, handling multiple projects, collaborating with diverse group of professionals and consistently completing deliverables under strict deadlines. Proficient in using Windows, Mac OSX, MS Office, Visio and Minitab.
+
+Education
+	
+New Jersey Institute of Technology, Newark, NJ                                                                                                        Master of Science Degree in Industrial Engineering 
+	
+Conferred: January 2013
+GPA: 3.83/4.0
+
+	Madras Institute of Technology, Chennai, India                                                                                                                                   
+Bachelor of Engineering Degree in Electronics and Communication Engineering
+	Conferred: May 2011
+
+
+
+Work Experience
+
+Tata Consultancy Services Ltd.                                                                                                            (September 2013 –April 2014)
+Chrysler Group LLC, Auburn Hills, Michigan 
+Business Analyst
+
+Responsibilities: 
+· Created System Integration diagrams as a solution covered SAP, CLICK (Warehouse Management System), SIMATIC IT (Manufacturing Execution System).
+· Attended the business requirement workshops for SAP, CLICK (Warehouse Management System), SIMATIC IT (Manufacturing Execution System) to help client document the requirements around material planning, manufacturing processes, inventory management and warehouse management.
+· Helped client documenting the master data object involved in the To-be solution as there was no central master data management in place.
+· Attended SAP, CLICK and MES training sessions.
+
+United Software Group, Dublin, Ohio                                                                                                   (May 2013 – August 2013)
+Junior Business Analyst
+
+Responsibilities: 
+· Assisting with the business case (Web Portal).
+· Eliciting requirements.
+· Translating and simplifying requirements.
+· Requirements analysis.
+
+NJIT Computer Maintenance Facility, Newark, New Jersey	(August 2012 – December 2012)
+Technical Assistant
+
+Responsibilities: 
+· Documented hardware and software issues faced by employees and students of NJIT using ‘OnCall Helpline’.
+· Provided detailed statistics of calls received, issues reported, nature of issue and issue frequency.
+· Created daily, weekly and monthly reports using excel.
+· Conducted basic troubleshooting steps over the phone. If unable to resolve, scheduled appointment for technician to visit the client location.
+· Documented support procedures and maintained inventory for computer labs.
+
+
+Academic Projects and Presentations
+
+	· Computerized Manufacturing
+	Simulated assembly workstation for cross functional dock by the use of Lab Volt 5200 robot and RoboCIM 5250 software which provided a three dimensional virtual environment.
+
+	· System Analysis & Simulation
+
+	Carried out system analysis on a present manufacturing plant and used simulation tool Flexsim to make changes in the assembly line so as to remove bottlenecking and introduce sustainability in production.
+
+	· Total Quality Management
+
+
+· Design for Manufacturing  
+                      
+	Collaborated with four companies in order to form a fifth company by applying TQM concepts such as quality control, sustainability, green manufacturing and resource management with an integrated approach. It included system modeling, quality function deployment, process improvement and process control analysis
+
+Performed part reduction on Massdam Jackall 3-Ton jack by generating Bill of Materials (BOM) and finding the optimum using Boothroyd Dewhurst analysis and Pro-DFM tool to eliminate redundant parts and improve the design of the jack and reduce assembly costs.
+
+
+	· Supply Chain Engineering
+
+
+
+· Industrial Quality Control  
+
+
+· Engineering Production and Cost Economics
+    
+	Undertook a case study of the supply chain network at specialty corporation to manage demand growth and recommended optimum supply chain network.
+
+Conducted design of experiments on a elastomeric connector to be economically assembled and get the required pull-off force for automotive engine components
+
+Implemented SAP Business one in Pharmaceutical company by using Break even Study, ROI and cash flow analysis.
+
+	· Advanced Engineering Statistics
+
+	Observed and analyzed various factors that affect the flight of a paper helicopter and suggest solutions to maximize flight time by observing the interaction of several factors by plotting Pareto charts and half normal plots on Minitab. 
+
+	
+	
+
+
+Skills Technical Proficiencies
+
+· Operating Systems: Windows, Mac OSX 
+· Flexsim- Discrete Event and Continuous Simulation, Vensim PLE – System Dynamics, RoboCIM 5250,  Microsoft Project, Microsoft Visio, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, ERP: SAP Materials Management/Warehouse Management, Minitab, IDEC PLC
+· Production planning & Scheduling, MRP, Inventory control, Lean Manufacturing, Value Stream Mapping, Project Management & Control, Six Sigma, 5s, Kaizen, Process Failure Mode Effects Analysis (PFMEA), Quality Function Deployment (QFD), Process Control, ISO 9001. 
+· Languages: C, C++, MATLAB, UNIX, VHDL; Assembly Languages: 8085,8051
+
+References 
+
+Available upon request
+

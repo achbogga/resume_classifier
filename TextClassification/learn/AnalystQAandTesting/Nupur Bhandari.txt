@@ -1,0 +1,261 @@
+Nupur Bhandari
+QA Analyst
+Cell : (210) 782-0397
+Email : bhandari.nupur@gmail.com
+
+Professional Summary
+
+· Seasoned Information Technology Professional with more than 6.5 years of experience in Software Quality Assurance and Testing.
+· Knowledge of Software Quality Assurance methodologies and strategies with a thorough understanding of the SDLC.
+· Understanding & basic knowledge of SQL required for running queries on databases.
+· Well versed and immensely experienced in Manual Testing, Regression Testing, Integration testing, Black Box Testing and Test Documentation of both Web-Based and Client/Server Applications
+· Worked on Change Control and Defect Tracking tools like Quality Center, Rational ClearCase, JIRA, Rational Clear Quest  and ALM (Smart Bear) for identifying, analyzing, documenting and identifying the impact of Defects on the application including version and change control.
+· Worked on multiple ATG eCommerce sites simultaneously at Harland Clarke, which is the largest supplier of Business stationery to most of the major banks in the US. Received multiple customer appreciations for the work done in the Retail Channels QA team
+· Worked in multiple projects simultaneously at Bharti Airtel, which is the largest telecom operator in India. Here, my domain knowledge was well appreciated & valued by the client.
+· Excellent mentoring skills. Mentored & gave KT sessions for all the team members who joined the project after me. Ability and enthusiasm to learn new tools/technologies quickly.
+· Was the SPOC for SOA certification in Gurgaon, India for Testing Competency for a year.
+· Highly capable of multitasking and has worked in complex multi team- multi technology projects 
+
+Technical Skills:
+
+	Tools exposed
+	Rational CC, Rational CQ, HP Quality Center, ALM-Smart Bear 
+
+	RDBMS
+	Oracle 10g
+
+	ERP
+	Oracle Apps (Order Management, Configurator, Customer Service & inventory)
+
+	Trainings exposed
+	QTP, RFT, LoadRunner, RPT
+
+	Certifications
+	ISTQB-Foundation Level, Oracle 9i, Certified Software Tester (CSTE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work Experience:
+
+
+
+SourceHOV
+January 2013 – April 2013
+QA Analyst
+
+Project Name   :  Processing Returns for NYS Income Tax Department
+Role                	:  QA Analyst
+Team Size      	:  12
+Test tools       	:  JIRA
+Environment  	:  .Net
+Duration 	:  January 2012 – April 2013
+
+
+Description: 
+
+SourceHOV is a services based company which provides customized solutions to it’s clients. One of the projects that SourceHOV has been working on is an application that would be used by the NY state income tax department for validation of income tax return filed by individuals and businesses. SourceHOV has built an in-house application which validates the returns against the rules described by the state and would return errors in case of improperly filed returns. In case of correctly filed taxes, the returns would be processed to the next queue for processing.
+
+
+Roles & Responsibilities:   
+· Software Tester
+· Requirement analysis and understanding of business requirements.
+· Test case preparation.
+· Test execution and reporting.
+· Defect logging
+· Rule Validation
+
+
+
+
+
+
+Harland Clarke Holding Corp
+October  2010 – December 2012
+QA Analyst
+
+
+
+Project Name	: Big Box application for Expressionery
+Role                	:  QA Analyst
+Team Size      	:  5
+Test tools       	:  ALM by Smart Bear
+Environment  	:  ATG 10.0
+Duration 	:  March’2012 – December’ 2012
+
+
+Description: 
+
+Harland Clarke provides integrated solutions for financial institutions; investment firms; business-to-business clients; individual consumers; and small, medium and large businesses serving multiple industries. It is now developing a web application for it’s existing customers in Walmart, Iprint , Expressionery & other businesses based on ATG 10. The application will be an easy to use application with a better configurator and would implement new features of ATG 10.0. The application is still in its initial phases & is expected to go Live in March, 2013
+
+Roles & Responsibilities:   
+· Software Tester
+· Requirement analysis and understanding of business requirements.
+· Test case preparation.
+· Test execution and reporting.
+· Defect logging
+· Mapping Test Cases to the requirements.
+· Regression
+
+Project Name	: CSC Application for Office Depot
+Role                	:  QA Analyst
+Team Size      	:  3
+Test tools       	:  HP Quality Center, ALM by Smart Bear
+Environment  	:  ATG 10.0
+Duration 	:  June’11 – April’2012
+
+
+Description: 
+
+Harland Clarke has recently developed a Call Center application for Office Depot.  The application supports Checks and other business stationery & will be used by the CSRs for placing orders & service resolution. This means resolution of Orders on hold, refunds, cancellation & reprints. This went live with the new & improved ATG 10.0 on the web. The application went live successfully in March 2012.
+
+
+Roles & Responsibilities:   
+· Software Tester
+· Requirement analysis and understanding of business requirements.
+· Test case preparation.
+· Test execution and reporting.
+· Defect logging
+· Mapping Test Cases to the requirements.
+· Support during Go-Live 
+· Post deployment support and maintenance
+· Knowledge Transfer and training to the other teams.
+
+
+Project Name	: Bluefield Maintenance, Regression & Run-the-Business
+Role                	:  QA Analyst
+Team Size      	:  7
+Test tools       	:  HP Quality Center 
+Environment  	:  XML, .Net
+Duration 	:  October’10 – June’2012
+
+Description: 
+
+Bluefield includes many websites being hosted for many clients including Costco, AAA & Sam’s Club. Harland Clarke is one of the biggest suppliers of bank stationery to some big organizations. In addition, to producing the stationery, it also hosts Stationery websites for these organizations. All the sites are .Net based web applications. Every fortnight, there are sprint cycles for run-the-business purposes. I am a part of Run-the-business QA team & supports the regression & maintenance of the applications under Bluefield.
+I have also been involved in the successful launch of three new websites in Bluefield. I have received appreciation from the client for the same. 
+I am also the key tester for the Call Center application for all the Bluefield sites.
+
+Roles & Responsibilities:   
+· Software Tester
+· Requirement analysis and understanding of business requirements.
+· Test case preparation.
+· Test execution and reporting.
+· Defect logging
+· Supports Run-the-Business deployments every fortnight
+· Preparing data scripts for Automation to be done in the project using QTP 9.0
+
+
+
+IBM Pvt Ltd
+August  2006 – October  2010
+QA Tester
+Client : Bharti- Airtel
+
+
+Bharti is the biggest telecom operator in India. I have played a key role in testing the IT solution for the BSS stack for Bharti. This was the biggest OSS/BSS transformation happening in the telecom in India. My role was critical in integration, regression & maintenance of the new CRM/ Order Management application that was launched in multiple Roll Outs that the team achieved for different circles including 2 international projects in Sri Lanka and Jersey. The role demanded being conversant with other applications like IBM websphere, EAI, FX (Billing), M6 (Fulfillment), CRM etc and testing whether the integration was proper at all the layers.
+
+Project Name	: Order Management for Broadband & Telemedia Services
+Role                	:  QA Tester
+Team Size      	:  5
+Test tools       	:  Rational CC, CQ. 
+Environment  	:  XML, JDBC, HTML, J2EE, Oracle CRM.
+Duration 	:  April’09 to Jan’10
+
+Description: 
+This solution looks at providing an integrated platform for all processes at Airtel for order entry for Broadband & Fixed Line. This system would be available to all the CSR’s for the Order Entry and Customer Service management. Following are the applications that would be integrated for the Fixed Line stack for Airtel:
+1. Oracle CRM – Order Management, Inventory, Configurator, Customer Service
+2. Enterprise Application Integration (EAI) 
+3. Metasolv (M6)
+4. Order Fulfillment System (OFS)
+5. GIS (Global Information System)
+6. WFM (Workforce Management System)
+7. Kenan FX
+8. Websphere
+9. Common Payment System
+10. NMS (Number Management System)
+
+
+Roles & Responsibilities:   
+· Software Tester
+· Test Case writing
+· Test Case Execution
+· Logging defects in Rational Clear Quest
+· Assigning severity/priority to defects
+· Aided integration of the application by helping identify the problem areas of the application
+· Active Participation in UAT
+----------------------------------------------------------------------------------------------------------------
+
+Project Name	: Order Management for Mobility in Bharti Airtel Ltd.
+Client              	:  Bharti Airtel Limited
+Role                	:  QA Tester
+Team Size      	:  5
+Test tools       	:  Rational CC, CQ. 
+Environment  	:  XML, JDBC, HTML, J2EE, Oracle CRM.
+Duration 	:  April’07 to  Jan’10
+
+Description: 
+
+The Order Management is the module responsible for maintaining the data of parties who can be probable customers in the future, existing and the earlier Post-Paid customers. This data is available to all the CSR’s for the Order Entry and Customer Service management.  The scope of this module is from the creation of the Party up to the actual billing. Since the volume of the data was very high, testing & re-testing was done thoroughly so ensure that no fatal bugs go into production. PAN India Roll Out was achieved successfully in August 2009.Following are the applications that are integrated for the Mobility stack for Airtel:
+1. Oracle CRM – Order Management, Inventory, Configurator, Customer Service
+2. Enterprise Application Integration (EAI) 
+3. Order Fulfillment System (OFS)
+4. Kenan FX
+5. Websphere
+6. Common Payment System
+7. NMS (Number Management System)
+
+ 
+Roles & Responsibilities:   
+· Software Tester
+· Transitioning and KT.
+· Requirement analysis and understanding of business requirements.
+· Test case preparation for SIT scenarios.
+· Test execution and test reporting.
+· Defect logging
+· Active Participation in UAT
+· Regression testing of the patches deployed in Production.
+· Aided integration of the application by helping identify the problem areas of the application
+
+
+
+Project Name	: E-Pricer 
+Client              	:  IGA
+Role                	:  QA Tester
+Team Size      	:  7
+Environment  	:  XML, JDBC, HTML, J2EE
+Duration 	:  From 27 Dec’06-31 Jan’07
+
+
+
+Description:
+E-pricer is the pricing application for IGA. Quotations are invited from customers that intend to buy the products. In case of discounts, this has to go through a specific approval procedure.
+If a new product gets launched, it also has to go through a specific procedure before it is available to the Sales Person who invites quotations from prospect customers.
+
+Roles & Responsibilities:   
+· Software Tester
+· Requirement analysis and understanding of business.
+· Test execution and test reporting.
+· Defect logging
+-------------------------------------------------------------------------------------------------------------------
+
+Education and Background 
+
+· B.E. in Electronics & Communication Engineering  
+· Certified Software Tester from QAI. Completed the certification in December’08 with 79.9 %
+· Certified ISTQB Tester
+· Certified in Oracle 9i
+· Languages Spoken: English, Hindi
+
+

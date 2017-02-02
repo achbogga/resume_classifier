@@ -1,0 +1,111 @@
+
+Name       :   Pavan
+Employer: Infotech Spectrum Inc., 
+Contact person: Rasheed@infotechspectrum.com
+Desk: 	408-400-3790
+
+PROFESSIONAL SUMMARY :
+Highly motivated software engineer with experience in development, design, and support of business applications.Extensive knowledge in object-oriented design and programming. Expertise in web based multi-tier applications, Java and Adobe technologies.
+· Overall Five Years experience in information technology as a Java Developer.
+· Around five years of professional experience in System Analysis, Design, Development, Implementation and Quality conforming of various Web and Client-Server.
+· Five years of experience in design, development and implementation of Java and J2EE applications   working asSoftware Developer.
+· Expertise in design and development of multi-tiered web application using Java, JSP, Java Script, XML,  HTML, AJAX, CSS, Servlets, Swing and JDBC, VM server Implementation.
+· Good experienceHibernate,Struts , Teamsite Interwoven ,and Spring framework.
+· Three years of experience in writing SQLstored procedures.
+· Three years of hand on Experience in Sql Server /Oracle/Access
+· Working knowledge in Cand Visual C++.
+· Excellent Approach towards Object Oriented Analysis and Design and development
+· Highly skilled in RDBMS applications using Oracle 9i/10g/11g, Sql Server.
+
+Educational Qualifications :
+
+· Bachelor of Technology (Computer Science), JNTU, India.
+
+TECHNICAL SKILLS :
+Operating Systems		Windows 98/2000/NT/XP/Vista/7
+Server’s			Web logic 5.1onwards, Tomcat 5.5, IBM Websphere, jboss.
+Databases			ORACLE 9i/10g/11g, MS-ACCESS, Sql Server.
+Languages			Java, C, C++, SQL Plus
+Frameworks and Utilities     Struts, Spring, Hibernate, Spring-Core, Spring MVC
+WebTechnologies	J2EE, JDK1.5/1.6, JDBC, Servlets, JSP, JMS, EJB, Java Script, Struts, HTML, XML, AJAX, CSS, Hibernate-3.1/3.2, Spring, GWT, JUnit.
+Version Control                    Subversion.
+Build Tool                              Ant, Maven.
+IDE Tool			Eclipse 3.2, RAD 7.0/7.5,Net Beans, Visual Studio.
+
+PROFESSIONAL EXPERIENCE :
+
+ICC, Columbus OH			                  	                                    Dec’ 10 --- Till Date
+Role: Java  Developer  
+Project: COR
+Project description:
+The COR application is a tool to enable the adjustment of letter carrier route territory and the planning of efficient lines of travel. COR is based on a Geographic Information System (GIS) and supports a user by enabling them to visually see the street territory for a ZIP Code that is being adjusted. Application in two phases- 1) Route adjustment and 2) Data Preparation. Route adjustment includes manually moving the locations through ArcGIS tool and direct impact on to the database. Data Preparation optimizes the root on the basis of data. 
+Responsibilities: 
+· Involved in the architecture, design and development of high traffic application built in Java/J2EE using Struts and Hibernate frameworks in MVC architecture.
+· Agile Methodology is used to develop the application, involved in daily SCRUM meetings to discuss the status and progress of individual Sprints and was mainly interacting with the business users at MVE for data migration and testing the application.
+· Involved in the creation of UI specification documents by interacting with business users and also design documentation and data modeling for the entire project.
+· Developed UI using  Java Script, JSP, Swings, GWT and CSS. 
+· Worked on Core Java with Multi-Threading, Collections topics to keep ideal time as minimum.
+· Worked on JSP’s, JSTL tags and Tag Libraries, Servlets for developing server side components, JMS, JBOSS.
+· JavaScript,  HTML 5 and CSS 3 have been used for implementing the client side.
+· Hibernate has been used for implementing the Persistence Framework for Database.
+· Involved in the creation of data model and data dictionary during the application design phase and assisted DBA in following the state standards for DB creation.
+· Involved in Stored Procedure of  SQL server 2008 into Oracle 10g database.
+· Followed the client coding standards.
+· Involved in Application Testing using Test Case and Use Case.
+· Wrote server side using Java, Servlet and Hibernate.
+· Wrote SQL queries, SQL scripting and stored procedures using PL/SQL.
+· Apache Maven is used as Build tool to automate the build process for the entire application.
+· Developed, Implemented and performed the Unit Testing using Junit.
+· Used SVN repositories for version controlling, and Log4J is used for Logging Errors, Exceptions.
+· Build the application using Apache Ant.
+ 
+Environment:  CSS 3, Core Java, J2EE 1.6, JMS, JBOSS, JPA, MVC, Struts , Swings,  Subversion1.6, Spring Framework, JSP, Log4j, GWT, JavaScript, IBM RAD 8.0, AJAX, HTML 5,  Websphere Application server 6.1, Maven,  Hibernate-3.1,Oracle 10g, PL/SQL,  Junit.
+
+Agile IT Solutions , India						Jun2009–Nov 2010
+Role: Java Developer
+Project Name :I-smart
+Project Objective: Current handling the I-smart project, I-smart project is for a client who is in Air Transport and also book tickets for several airlines and ships. I-smart is a web base project for travel domain and is developing on MVC framework. I-smart consist four major modules e.g. - Airline, Cruise, Cargo and BSP. Each module provides complete solution to handle stock of tickets, stock transfer to agents, surrender of stock, invoice, reissue, refund of ticket amounts and several kinds of receipts to their respective domain.I-Smart provide facility to create masters for OR Deal/ incentives for various airlines and facility to multiple currency handling. I-smart handle complete accounting and finance automatically on the basis of single entry.Url for this project is-
+Responsibilities: 
+· Responsible to system design, architecture, implementation and client interaction for requirement.  
+· Responsible for estimation, timeline and assigning the task.
+· Developed UI using JSP, Struts and Tiles Framework, Java Script, Ajax, CSS, iFrame and wrote DAO using Hibernate and logic using EJB.  
+· Develop several reports using Crystal reports and integration to UI.
+· Responsible to Create and modify database table.
+· Packaging and Uploading of Application
+· Writing SQL queries and PL/SQL stored procedures
+· Oracle Server administration
+
+Environment: Java, J2EE, JSP, JSF, JDBC, servlet, java script, Struts framework, hibernate 3.1, EJB,HTML, XML.
+Project Name:Enterprise Resource Information System (academic Initiative) 
+Thisis the project developed for the consultancy company. The main objective of the project is to bring a mutual understanding between the clients and employees. The various operations of the company include:
+· Maintaining information about the company.
+· Updating the information regarding applicants, employees, clients. 
+· Preparing the Reports.
+Responsibilities:
+· User Interfaces using JSP & HTML Tags.
+· Extensively used Client side Coding Using JavaScript.
+· Developed the Queries for data access from database server.
+
+JNTU , India						                           Jun 2008 – May 2009
+Role:  Internship
+Project Name :Web-Enabled Info. For College Activities.
+Project Objective :Currently our college management uses all the students database, college activities, communication between students by using circulars and doing manually. Now we are going to implement all these operations through web based. In this project our application contains web based college activities, the students educational details and provide online communication between students. We are providing online learning skills in different languages and also provide co-curricular activities on online basis. By using this application we are keeping the clients in interesting mode for that we implement game facilities also.
+Responsibilities :
+· Responsible for gathering Business Requirements and User Specifications from Business Analyst.
+· Hands on experience in implementing and managing software development life cycle process.
+· Performed Requirement Gathering & Analysis by actively soliciting, analyzing and negotiating customer requirements and prepare the requirements specification document for the application using Microsoft Word.
+· Responsible for writing J2EE Design Pattern like Object Model, Sequence Diagrams, and User Cases using UML standards and Rational Rose.
+· Developed Use Case diagrams, business flow diagrams, Activity/State diagrams.
+· Developed UI using Action Script, Java Script,  JSP and CSS. 
+· Work on Core Java with Multi-Threading topics to keep ideal time as minimum.
+· Work on JSP’s, Servlets for developing server side components.
+· JavaScript, HTML  and CSS  have been used for implementing the client side.
+· Wrote server side using Java, Servlet.
+· Involved in to sync Stored Procedure of  SQL server 2008 into Oracle10g database.
+· Involved in Application Testing using Test Case and Use Case.
+
+Environment: Java, J2EE, JSP, JDBC, servlet, java script, HTML, CSS, Struts framework, hibernate 3.1, EJB, HTML, XML, Oracle 10g, Rational Rose.
+
+
+5
+

@@ -1,0 +1,141 @@
+
+
+		
+Ankit Chuadhari
+Akron, OH.
+(201) – 707 - 6852
+ankitkchaudhary@gmail.com
+
+	Professional Summary:    
+
+
+
+· 5+ of experience in the Mechanical Industry.
+· Good command on CAD tools such as CATIA V5, Solid Works and AutoCAD.
+· Hands on experience working on Solid Modelling, Surface modelling and Drafting, Knowledge-ware, Automation etc. in CATIA-V5.
+· Experience in product design and product development.
+· Experience on dealing with Product Development Management (PDM) tool SmarTeam.
+· Strong programming and office software skills. 
+· 3 years of project management and project coordination experience.
+
+	Technical Skills:
+
+
+											
+Mechanical Tools: CATIA V5, AutoCAD, Pro/Enginer, Solidworks, ANSYS, Arena, Inventor.                                                                                                                                  
+Programming:   VBA for CATIA V5 and MS Office, C/C#, MATLAB, Linux scripting. 
+Operating Systems:   Windows 7/VISTA/XP, LINUX. 
+
+	Work Experience:	
+
+
+
+	Good Year Tire & Rubber Co. ,Akron, OH.
+Mechanical Engineer/Onsite-Coordinator
+	April ’12- Present
+
+
+							
+Responsibilities:
+
+· Dealing with design development and Analysis of Tire constructions according to the TRA standards.
+· Utilizing CATIA V5 parametric modeling and drafting concept to generate Tire models. 
+· Preparing cured tire cross section models and drawings in CATIA V5 with use of GSD, PKT, KWE, Part-product design etc. 
+· Testing tires for durability, rolling resistance, thermal and pressure distribution, stress/strain analysis, Footprint shapes from Finite Element Analysis tools DEW(Design Evaluation Workbench), QMESH, PATRAN, BLOT, Ensight, Paraview etc.
+· Providing Technical Support to Various Tire Manufacturing Facilities.
+· Using PDM Software SmarTeam and SAP tools for data management. 
+· Performing industrialization process to develop other sizes derived from a master tire size. 
+· Coordinating project activities to ensure quality and on time delivery. 
+
+	B&B Sheet Metal, NYC, NY.                                                                                                      
+Mechanical Engineer (Intern)
+	May ‘11 -Aug ‘11
+
+
+Responsibilities:
+· Designed water proofing solutions and ventilation system for the buildings such as roof flashing system, gutter system, skylights, metal roof, wall panels etc. 
+· Performed the designing and drafting work for the different systems as per the provided architectural drawing details and SMACNA/SheetMetal guidelines. 
+· Proficiently utilized AutoCAD LT 2010 for drawings, Assembly, bill of materials etc. 
+· Evaluated the project cost and prepared quotations. 
+· Learned about the advanced sheet metal fabrication manufacturing and machines such as water jet glass cutting, press brakes, gutter/downspouts forming, etc.
+
+
+	Chaudhary Designers and Fabricators, India                                                                   
+Design Engineer
+	Jan ‘08 - Dec ‘09    
+
+
+
+Responsibilities:
+· Led design and cost reduction activities for “Low Cost Windmill for SaltSpan workers” which fetched national award. 
+· Responsible for Product Design, Project Management and 
+· Successfully lead the CAD (Design/Drafting) team and Production Contractors.  
+· Designed pressure vessels, heat exchangers (mainly boiler, condensers, liquid to liquid etc), storage tanks, chemical processing equipments as per client’s requirements. 
+· Implemented ASME section VIII and Indian Standards guidelines for design and manufacturing of above products. 
+· Designed piping systems with valves, pumps, compressor etc.
+· Utilized SolidWorks 2006 for modeling and FEM analysis such as stress/strain analysis, thermal and vibration analysis etc. 
+· Performed Design for Assembly and manufacturability (DFMA) feasibility study. 
+· Proficiently used AutoCAD 2006 for fabrication drawing with welding symbols, bill of materials and GD&T details as per ASME Y14.5. 
+
+	Urja Engineers, India
+Mechanical Engineer      
+	          Jan ‘06 – Dec ‘07    
+
+
+
+
+Responsibilities:
+· Responsible for production management and machine maintenance. 
+· Efficiently carried out Sheet and Section Bending Machine design and production. Designed gear assemblies, reciprocating mechanism, power screws etc. 
+· As a production supervisor, responsible for welding(TIG. Submerged Arc etc.), machined parts, paint inspection.
+· Handled supply chain by coordinating suppliers, vendors and customers. 
+· Used AutoCAD for drawing preparation.
+
+	Education :         
+
+
+                                                        	                                                                                                   
+	Masters of Engineering - Mechanical Engineering
+	
+	Dec  ‘11
+
+	Stevens Institute of Technology, NJ.
+	
+	
+
+	GPA- 4.0/4.0
+	
+	
+
+	
+	
+	
+
+	Bachelors of Engineering - Mechanical Engineering
+	
+	June ‘09
+
+	Gujarat University
+	
+	
+
+	GPA- 3.43/4.0
+	
+	
+
+
+
+	Academic Projects :
+
+
+
+Design Optimization of Solar Water Heating System
+· Performed optimization with use of excel solver tool on existing solar water heating (SWH) system to maximize the efficiency of the system, Modeled and simulated the system with use of Pro/Engineer and ANSYS.
+· Achieved 8% improvement in efficiency with no further increment in cost of the SWH.
+
+Heat Transfer Enhancement in Fin-Tube Heat Exchanger with Use of Delta Winglets
+· Modeled and analyzed effect of delta winglet vortex generator in fin tube heat exchanger with help of Solidworks Flow simulation. 
+· Obtained 20% enhancement in heat transfer coefficient and presented savings up to 9% over HE without winglets (conventional). 
+
+
+

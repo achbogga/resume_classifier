@@ -1,0 +1,378 @@
+
+LUIS K. CANTU
+214-490-4019                            2124 Central Park Drive, Wylie, Texas 75098                 Lkcantu@gmail.com  
+
+Luis K. Cantu
+2124 Central Park Dr.
+
+Wylie, TX 75098
+Phone: 214-490-4019
+
+Email: Lkcantu@gmail.com
+
+SUMMARY:
+As an accomplished engineer, consultant, and project manager, my career achievements have given me 
+the opportunity to lead teams that provide communication services for fast-paced companies in the local, 
+national, and international environments.  I have applied my theory and experience to computer systems 
+and networks, programming, Network Management Systems (NMS), wireless network design and 
+integration, and Network Operations Center infrastructure design and implementation.  My primary skill 
+is in satellite and microwave communications coupled with network plan, design, integration, testing 
+and implementation.
+
+U.S. Citizen with active top-secret security clearance
+
+Read, write, and speak Spanish
+
+EDUCATION:
+ Grantham College of Engineering:  M.S. Information Technology, GPA: 4.0 with Distinction
+ Grantham College of Engineering: B.S. Electronics Engineering Technology
+ Panama Canal College: A.A. General Studies
+
+SPECIALIZATIONS:
+ Telecommunications Systems
+ Satellite Communications
+ Network Management
+ Systems Engineer
+ Project Management & Operations
+
+BUSINESS ACTIVITIES:
+ Involved in proposal writing, financial analysis, and technology assessment analysis used to identify, 
+
+explain, and present telecommunication technologies, requirements, operational concepts, system 
+limitations, problems, and vulnerabilities
+
+ Provided technical leadership in and execute planning, assessment, design, development, integration, 
+implementation, and test of complex telecommunications systems and infrastructures
+
+ Supplied multi-level systems engineering support for implemented applications and systems
+ Tested and exposure to a wide range of networks, systems, and technologies
+ Presented verbal and write presentations in network communications systems
+ Improved processes at different levels of an organization
+ Planned, designed, and analyzed a diversity of networks, systems, and technologies
+ Planned and evaluated budgets
+
+COMMUNICATIONS SYSTEMS:
+ Grid computing:  Parallel/distributed, clusters
+ Wide Area Networks (WANs):  Leased lines (High-Level Data Link Control (HDLC)), circuit 
+
+switching (Public Switched Telephone Network (PSTN)), packet switching (Frame relay), cell relay 
+(ATM), GigE, Integrated Services Digital Network(ISDN)
+
+Page 1
+
+
+
+LUIS K. CANTU
+214-490-4019                            2124 Central Park Drive, Wylie, Texas 75098                 Lkcantu@gmail.com  
+ Local Area Networks (LANs): Ethernet, ATM, vLANs, WLAN IEEE 802.11, Token ring, Fiber 
+
+Distributed Data Interface (FDDI)
+ Computer Storage: Storage Area Networks (SANs), Network-attached Storage (NAS)
+ Network Management Systems (NMS):  WhatsUp, CiscoWorks, Solarwinds, HPOpenView, and 
+
+proprietary systems
+ Communications: (TDM, FDM, symmetrical, asymmetrical) satellite, microwave, fiber optics, 
+
+telephony, serial communications
+ Security appliances: Cisco PIX, Juniper NetScreen, and CheckPoint software
+ X-, C-, ku-, L- and s-band satellite ground systems infrastructure: HF/IF/baseband related 
+
+equipment, network interfaces, and control & operation systems
+ Network Operations Center (NOC) infrastructure: project management & systems implementation, 
+
+network assessments & site surveys, network design & validations, network cable & grounding 
+planning & design, and maintenance & support
+
+ Network devices: Cisco switches and routers, Extreme Networks switches, Nortel trunk switches,
+ Computer Operating Systems adaptations: Windows, Unix, Linux
+
+EXPERIENCE:
+IEEE Standards Association Member
+IEEE P1680.1 & IEEE P1680.4 at IEEE
+05/2013 to current
+ Participation in technical contributions to develop a quality standard.
+
+Grantham’s Skousen School of Business
+Advisory Board Member
+04/2013 to current
+ Offer strategic decision-making to the university in many different business areas.
+
+Senior Systems Integration Engineer and Senior Consultant
+L-3 Communications
+10/2008 to current
+As part of a team of Lead Systems Engineers that perform requirements definitions, development, 
+implementation, and integration activities to support complex ground and aircraft systems and networks.
+ Define and direct network infrastructure architecture, operational concepts, system requirements, 
+
+and interfaces
+ Develop network infrastructure solutions for the ground stations and aircraft networks
+ Conduct networks trade studies for the ground stations and aircraft networks
+ Perform test and evaluation activities for the ground stations and aircraft networks
+ Provide technical support to ensure hardware and software components function in complex 
+
+networks for the ground stations and aircraft networks to ensure mission requirements are met
+ Cisco and Brocade routers, switches
+
+Systems Engineer and Senior Consultant
+Science Applications International Corporation (SAIC)
+10/2005 to 9/2008
+As part of a team of Systems Engineers that perform activities to support the ground segment element of 
+the Landsat Data Continuity Mission (LDCM) program. I also was the Network Communications 
+Architecture Lead and team member for the X- and s-band ground station and parabolic antenna 
+planning, design, and implementation.
+ Define the X- and s-band ground station and networks operational concepts, system requirements, 
+
+Page 2
+
+
+
+LUIS K. CANTU
+214-490-4019                            2124 Central Park Drive, Wylie, Texas 75098                 Lkcantu@gmail.com  
+
+and system interfaces
+ Define technical documents and develop technical solutions for the ground stations and networks
+ Perform X- and s-band ground station and networks systems functional analysis
+ Conduct X- and s-band ground station and networks trade studies for the ground stations and 
+
+networks
+ Perform test and evaluation activities for the ground stations and networks
+ Responsible for X- and s-band ground station and networks system design
+ Ensure that project schedules and performance requirements meet X- and s-band ground station and 
+
+networks needs
+ Provide technical support to ensure relationship between various hardware and software components 
+
+for X- and s-band ground station and networks are met
+ Coordinate the of design of subsystems and integration of system components for X- and s-band 
+
+ground station and networks
+ Propose appropriate recommendations through analysis, assessments, testing, and research to project 
+
+leadership
+ Extreme Networks switches, Juniper security appliances
+
+Network Engineer
+CapRock Communications
+05/2003 to 09/2005
+As part of the Advance Technical Support Services (ATSS) team I designed optimal C- and ku-band 
+satellite VSAT and networks, systems and related processes, including intra-corporate infrastructure and 
+client connectivity solutions.
+ Project Network Leader to plan, transfer, and implement all systems, elements, equipment, and 
+
+infrastructure that would be transitioned and upgraded to the new Satellite and Network Operation 
+Center (NOC)
+
+ Responsible for the final operational testing and acceptance of diverse C- and ku-band satellite 
+systems, and related elements and equipment
+
+ Executed C- and ku-band terminal requirements including configuration, implementation, testing, 
+and documentation
+
+ Developed hardware and software configuration standards for C- and ku-band satellite terminals
+ Developed and recommend strategies concerning satellite terminals, networks, systems, and 
+
+equipment life cycle and replacement
+ Managed and improve the global Network Management System (NMS), WhatsUpGold, HP 
+
+OpenView, SolarWinds, Cacti, sniffer, network analysis tools to monitor satellite terminals and 
+networks
+
+ Deployed AdTran, Cisco Catlyst 6500/3500/2900, IGX 8430, PIX 500, Router 
+1760/2500/2600/7200, Alcatel, Dell, ComStream, and Tellabs equipment
+
+Senior Consultant – Communications Engineer
+Booz Allen Hamilton
+07/2002 to 04/2003
+As a Sr. Consultant and Commercial Satellite Communications Engineer (SATCOM expert), I provided 
+hybrid satellite communications systems engineering support to DoD C4ISR related program offices in 
+the areas of user requirements analysis and scope function, communications global synchronization, and 
+related technical documentation.
+ Researched and analyzed satellite communications network scenarios with various frequency bands 
+
+and system platforms to be incorporated into the set arrangement of C4I connectivity in support of 
+the Warfighter's global objective
+
+Page 3
+
+
+
+LUIS K. CANTU
+214-490-4019                            2124 Central Park Drive, Wylie, Texas 75098                 Lkcantu@gmail.com  
+ OP-42, Utilized research and tools to analyze data in order to forecast commercial satellite 
+
+communications usage for the government and military
+ TELEPORT, Utilized research and tools to analyze data in order to fund, shape, and employ satellite 
+
+communications earth station gateways offering global accessibility to the Warfighter
+ TELEPORT, Wrote documentation requirements and C4ISP document for Generation 2 satellite 
+
+communications teleports
+
+Senior Project Engineer
+MCI-WorldCom
+07/2000 to 07/2002
+As a Sr. Project Engineer, I provided sound advice to high level managers on all engineering and 
+technical concerns related to MCI-WorldCom’s satellite communications network in order to provision 
+and design voice and data services for MCI-WorldCom, government, and commercial clients.
+ Government services include: State Dept., DISA, Armed Forces, and White House Com
+ Provided technical guidance to lower level staff and lead project teams to execute and plan voice and 
+
+data services for internal and external clients over satellite communications networks
+ Developed methods, techniques, and evaluate criteria concerning voice and data services over 
+
+satellite communications networks
+ Negotiated, interpreted, and managed satellite communications contracts for IDR, IBS, and lease 
+
+capacity and earth stations leases
+ Provided engineering advice and translated tariffs rates to build cost models, business cases, and 
+
+consulting for the account teams and corporate finance in satellite communications networks
+ Managed over 2.5-million dollars per month of satellite communications capacity for voice and data 
+
+services
+ Provided short- and long-term capacity planning for voice and data services over satellite 
+
+communications and networks
+ Engineered and designed MCI-WorldCom satellite communications and terrestrial networks to 
+
+integrate voice and data for clients
+ Analyzed and designed satellite communications transmission plans for multi-carrier usage, 
+
+bandwidth capacity, and availability in order to implement voice and data services
+ Coordinated and provisioned satellite communications services between the US and foreign 
+
+administrators worldwide
+ Provided technical assistance in satellite communications and networks to all MCI-WorldCom earth 
+
+stations located all over the world
+ Employed technical writing to improve and control processes and projects for satellite 
+
+communications and networks
+ HP-UNIX, Solaris, Windows NT, EFData, Cisco, ComStream, Zephyrus
+
+Network Engineer
+Motorola - SpactraPoint Wireless LLC
+07/1999 to 07/2000
+As a Network Management Systems Engineer, I provided technical support, provisioning and 
+engineering to manage, monitor and control all LMDS wireless, microwave communications, products 
+for the client.
+ Setup and configured Network Management Systems(NMS) and operating systems for clients
+ Provided Network Management System(NMS) training and support for clients 
+ Administered security for NMS and OS access accounts
+ Built scripts and small programs related to MIB’s, SNMP, and NMS using C++, Java, and HTML
+ Assisted in network design of NMS network to the customer’s existing network
+
+Page 4
+
+
+
+LUIS K. CANTU
+214-490-4019                            2124 Central Park Drive, Wylie, Texas 75098                 Lkcantu@gmail.com  
+ Troubleshot and tested the LMDS wireless, microwave communications, equipment firmware
+ Troubleshot established links between the LMDS, microwave communications, product and 
+
+interface equipment
+ Operated, tested, and configured LMDS wireless, microwave communications, equipment
+
+Integration Engineer
+CapRock Communications
+08/1997 to 07/1999
+As an Integration Engineer, I provided project management and engineering in order to upgrade and 
+activate new installs of voice and data service over satellite transmissions in ku-band and C-band for the 
+clients.
+ Led the design, engineering, and install activities for voice and data services over satellite 
+
+communications and networks to new and existing customers
+ Ensured satellite communications and networks install and configuration comply with internal and 
+
+external requirements
+ Resolved and investigate satellite and microwave communications, and networks problems during 
+
+the life of the project
+ Directed technicians to install and test satellite and microwave communications, and networks 
+
+related equipment to provide services for the client
+ Collected satellite and microwave communications, and networks information to implement, 
+
+develop, operate, and support client solutions
+ Monitored and troubleshot satellite, microwave, and terrestrial networks
+ Managed modems, multiplexers, DACS, routers, and digital network access nodes
+ Configured satellite communications radios, modems, multiplexers, channel banks, DSU/CSU, and 
+
+key systems for data and voice
+ Implemented the use of test equipment and circuit analysis to satellite and microwave 
+
+communications, and networks in order to provide 100% reliability
+ Designed a ticket database with MS-Access
+ Wrote training plans and procedures for satellite communications and networks
+ Alcatel, Cisco 2500, AdTran, Black Box, ComStream, EFData, NeuEra, Ascom Timeplex, 
+
+Newbridge, SWB, DSC Communications, Tellabs, RAD Data Communications
+
+Satellite and Microwave Technician
+U.S. Air Force
+06/1994 to 06/1997
+ Maintained two satellite communications earth stations, control, and terminal subsystems
+ Administered secure communications networks, Timeplex Link/2, and Jam-resistant modems
+ Provided clients service by monitoring, maintaining, and operating all satellite communications, and 
+
+networks equipment
+ Justified satellite communications, and networks tasks, repairs, installations, and modifications 
+
+through data collection and written reports
+ Interpreted instruction manuals, blueprint drawings, wiring diagrams, and schematics
+ Comprehend the uplink function, downlink function, and frequency standard functions of a Defense 
+
+Satellite Communications System (DSCS) earth station
+ Understand the tracking, monitoring, and switching functions of a DSCS earth station 
+ Operated and maintained a DSCS station equipment and its related subsystems to include: AN/GSC-
+
+52, AN/FSC-78, AN/USC-28 spread spectrum modem, AN/FSC-97(SCTIS), Survivable Secure 
+Communications Network(SSCN, AN/UYC-13), AN/GSC-51(DFCS), uninterruptible power 
+systems(SSUPS), and Timplex/Link2 
+
+Page 5
+
+
+
+LUIS K. CANTU
+214-490-4019                            2124 Central Park Drive, Wylie, Texas 75098                 Lkcantu@gmail.com  
+ Operated, configured, tested, and maintained electronic equipment to include: AN/GSC-51, 
+
+AN/GSC-24, AN/FCC-98, AN/FCC-100 Multiplexes
+ Operated, configured, tested, and maintained satellite subsystems to include: Up/Down converters, 
+
+modems, cesium beam frequency standard timing oscillators, distribution systems, transmitters and 
+receivers, amplifiers, servo-motors, and synchronic-mechanisms
+
+ Comprehend electronic theory, components, solid-state devices, and power supplies to include: 
+direct and alternating current, relays, inductors, transformers, capacitors, transistors, diodes, 
+rectifiers, filters, and voltage regulators
+
+TRAINING:
+ Security+ Certificate, 2013 (ID: COMP001020166229)
+ Cisco Advance Routing & Switching, 2009
+ Storage Systems Technologies, 2008
+ IT Project Management, 2007
+ SAIC Systems Engineering, 2007
+ Service-Oriented Architecture, 2006
+ Project Cost Estimating Certificate, 2006
+ Satellite Communications Sys Eng, 2006
+ Work Breakdown Structures, 2006
+ Voice over IP, 2005
+ Internet and Network Security, 2005
+ ViaSat Star Wire, 2003
+ Information Technology, 2001
+ Network Management System, 2000
+ EFData Satellite Converters, 1998
+ SeaTel Antenna Systems, 1997
+ Satellite & Microwave Communications, 1994
+
+MEMBERSHIP & AFFILIATIONS:
+ Institute of Electrical and Electronics Engineers (IEEE)
+ Society of Satellite Professionals International (SPI)
+ International Council on Systems Engineering (InCoSE)
+
+Page 6
+
+

@@ -1,0 +1,265 @@
+Anusha Reddy
+Canusha10@gmail.com						
+732-654-2960
+
+SUMMARY:
+· Over 6 years of software development experience in object oriented programming, design and development of Multi-Tier distributed, Enterprise applications using Java and J2EE technologies with Software Development Life Cycle (SDLC).
+· Strong J2EE/Java application development background, with experience in defining functional and technical specifications.
+· Worked collaboratively with technical leadership and users in order to design, code and deploy tools.
+· Participated in  server and browser side code development.
+· Extensive knowledge in working with core java,J2EE technologies such as Servlets, JSP, JDBC, EJB, JNDI, Java Beans, JMS and Object Oriented Programming techniques.
+· Extensive & expert level of experience with Java Platform, JEE, EJBs, JDBC, JPA, Servlets, JSP, JMS, XML, Applets, JavaScript, POJO.
+· Intensive knowledge in databases like Oracle, SQL Server, PL/SQL, Queries, Triggers, DB2 Client, O/R Mapping, Hibernate, and JPA.
+· Experience in client side designing and validations using HTML, DHTML, CSS, Java Script, AJAX and JSP.
+· Expertise in various open source frameworks like Struts, Spring, JSF, Ext JS and ORM Technology like Hibernate.
+· Experience in working with multiple Servers like IBM Web Sphere, Web Logic, JBoss and Apache Tomcat.
+· Extensive development experience on different IDE’s like Eclipse, MyEclipse, NetBeans, Web Logic Workshop, and WSAD/RAD.
+· Experience in XML related technologies like JAXP, JAXB, XML, XSL, XSD, XPATH, DTD, and XML Schemas.
+· Experience in using DOM and SAX parsers to process, validate, parse and extract data from XML files.
+· Experience in Web Services Technologies like SOAP, WSDL, UDDI, JMS and Service Oriented Architecture (SOA).
+· Expertise in various components in Spring IOC, AOP and MVC (Model View Controller) architecture.
+· Experienced in using Log4jand good expertise in tools like Ant, Maven and IVY.
+· Hands on experience in UML Modeling using Rational Rose, UMLet.
+· Good experience on Design Patterns (J2EE) like Singleton Factory Method, Builder pattern, DAO, Session Facade, Front Controller, and Delegate Pattern.
+· Experience with Ext JS framework using AJAX services.
+· Extensive experience in implementation of the version control software SVN, VSS, CVS and Clear Case.
+· Experience in various Agile methodologies like Test Driven Development (TDD), SCRUM, and Pair Programming.
+·  Developed testing plans and procedures for unit test, system test, and acceptance test using JUNIT and Mockito.
+· Used quality management tools like Sonar, PMD, and Findbugs to pay off technical debt.
+· Diligent and highly enthusiastic professional with strong technical, analytical and communication skills.
+
+
+CERTIFICATIONS:
+· Sun certified Java Programmer.
+
+EDUCATION:
+· Bachelor of Technology in Computer Science, JNTU, India.
+
+TECHNICAL SKILLS:
+
+	Languages
+	Java 1.4/1.5/1.6, SQL and PL/SQL, UML, XML, XSL, XSLT, C, C++
+
+	J2EE Technologies
+	JDBC 2.1/3.0, Servlets, JSP, JNDI, JMS, JUnit, Java Mail API, RMI, JAXB, JAXP, Apache Axis2, REST.
+
+	Frameworks
+	Struts 1.x, Spring 2.x/3.x, Hibernate 2.x/3.x, MVC architecture, JSF 1.x/2.x, EJB 2.x/3.x.
+
+	Persistence layer
+	Hibernate 2/3.1
+
+	IDEs/tools
+	Eclipse, MyEclipse, Net-Beans, WSAD/RAD, IBM Rational Software Architect (RSA).
+
+	Design Modeling
+	OOA/OOD, AOP, UML,
+
+	Web Tools
+	AJAX, CSS, JavaScript, Flex, XML, HTML, XHTML, DHTML, SOAP, WSDL.
+
+	Version Control
+	Subversion,VSS, CVS, Clear Case.
+
+	Database
+	Oracle10g/9i, MS SQL Server 2000/2005/2008, DB2, Microsoft Access, and MySQL
+
+	Documentation Tools
+	MS Office 2003/2007/2010, Visio, MS Project, MS SharePoint
+
+	Web/Application Servers
+	IBM Web Sphere, Web Logic, JBoss, Apache Tomcat.
+
+	Methodologies
+	Agile, SCRUM, TDD, Waterfall
+
+	Operating Systems
+	Windows (Major), Linux
+
+	Others
+	ANT, IVY, Maven, Rational Rose,UMLet,Log4J, JUnit
+
+
+
+
+PROFESSIONAL EXPERIENCE:
+
+Harvard Medical School, Boston, MA                                                                                      	              Oct’12 – Till Date
+Java/J2EE Developer				 			                    
+
+The Harvard Clinical and Translational Science Center (CTSC), known as Harvard Catalyst, facilitates clinical and translational research throughout the 27 Harvard schools and Academic Healthcare Centers by lowering barriers to inter-institutional research, providing seed funding for collaborative experiments, and helping trainees and faculty gain access to resources.
+
+The HCCRC Scheduling System is a web-based tool that allows investigators, study staff, and Clinical Research Center (CRC) staff to schedule research subjects for study visits and manage CRC resources.
+
+Responsibilities:
+· Involved in Analysis, Design, Development and Production phases of the different modules 
+· Worked in an Agile Environment (continuous integration, unit testing, scrum), participated in Sprint planning.
+· Interacted with clients and software implementation managers for requirements gathering, addressing the issues and changes in existing system.
+· Developed, configured Spring with hibernante DAO's which retrieve data from MYSQL database.
+· Created hibernate named queries in DAOs to generate reports and export to excel.
+· Created and maintained mapping files and transaction control in Hibernate.
+· Worked with Log4J to maintain the user defined logs on system. 
+· Extensive participation in deployment of the code to Development, Quality Assurance, Integration and Production environments.
+· Developed advanced Java Script modules such as capturing events, browser version, button animation in order to maintain consistency across multiple platforms
+· Developed various  user interface components like gantt charts, calendar, grids, windows, trees, buttons etc. using Ext JS framework 
+· Designed and developed User interface using JSF Apache My Faces, Ajax4JSF, JavaScript, CSS, HTML 
+· Configured Navigation rules in the JSF configuration files to add new functionality to the application by writing new JSPs.
+· Used all the  JSF components (calendar, grid, combo box etc.)  for UI development and performed validations using JSF validation tags
+· Implemented JSF converters to handle formatting and localization and configured the faces-config.xml to create a web application navigation rule.
+· Implemented JSF features like event handling, validation mechanisms and state management.
+· Extensively used JSF core and HTML tags for UI development.
+· Developed dynamic JSP, JSF web pages for user interface.
+· Implemented Validator framework of JSF to write customized JSF validations.
+· Used Google gson library for conversion of Data Transfer Objects to and from JSON.
+· Worked on spring security to implement roles and permissions.
+· Resolved production issues as and when they arrive,used web development tools such as  firebug for monitoring network traffic, inspecting html and debugging javascript.
+· Involved in testing, debugging, bugs fixing and documentation of the system.
+· Implemented Java Mail Sender  to send out automatic email notifications, configured tasks to be scheduled within a Spring Application Context with cron attribute.
+· Used jQuery for event handling and DOM manipulation
+· Built RESTful web services using Spring Jersey framework with annotation support.
+· Tested the performance of application by simulating heavy concurrent load with JMeter.
+· Monitored memory usage and performance of the application by taking thread dump and heap dump.
+· Used visual tools like VisualVM for profiling the application and browsing dumps.
+
+Environment: Java, Servlets, Spring, hibernate, Ext JS 4.0, Ext JS 4.1, JSF 1.2, Object Oriented Java Script ,  RESTful web services, HTML,  XML,AJAX, MYSQL, Maven, Tomcat, UNIX.       
+
+Con Edison, NYC, NY                                                                                                                   		  May’ 11 – Sep’12
+Java Developer
+
+Consolidated Edison Company of New York (Con Edison), a regulated utility, provides electric service in New York City (except for a small area of Queens), and most of Westchester County. The company provides natural gas service in Manhattan, the Bronx, and parts of Queens and Westchester. Con Edison also owns and operates the world’s largest district steam system, providing steam service in most of Manhattan.
+
+Responsibilities:  
+· Involved in System Requirements study and conceptual design.
+· Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software.
+· Created UML diagrams like activity diagrams, sequence diagrams, and Use case diagrams.
+· Designed and developed JSF components, implemented event handling using Java, JSF, MyFaces,AJAX, JavaScript.
+· Integrated Hibernate with Spring for Handling Transactions.
+· Deployed flow of Execution in the Servlet Environment using JSF  and defined Navigation Rules for handling page Navigations using Spring WebFlow.
+· Implemented Spring Bean Factory to create proxied object using AOP framework
+· Developed the User Interface Screens for presentation using Ajax, JSF, JSP and HTML.
+· Used JavaScript for the client side validations and JSF MVC Framework for developing J2EE based web application.
+· Developed user interface using JSF involved in configuring web.xml and faces-config.xml according to the JSF framework.
+Developed stored procedures, Triggers and functions to process the trades using PL/SQL and mapped it to Hibernate Configuration File and also established data integrity among all tables.
+Implemented Hibernates’ Lazy default fetch plan for generating proxies and collection wrappers and also created fetching strategies for minimizing the number of SQL statements.
+Involved in unit testing, integration testing, SIT and UAT phases. Performed defect tracking, bug fixing and enhancements.
+· Used Hibernate annotations for mapping objects to the relational database and Implemented persistence using Hibernate, managed Hibernate.cfg.xml file. 
+· Participate in designing Webservice  framework in support of the product
+· Used XML to transfer the application data between client and server.
+· Developed the XSL to convert and compare the SOAP to simple XML and vice versa. 
+· Debugged the ANT Scripts for building the entire web application.
+· Used SVN as source Version control and development testing done by using JUnit.
+
+Environment: Java/J2EE, JSF, JMS, EJB, RAD, UML, XML, XSL, Hibernate, Web Sphere, SVN, Ajax, Java Script, JUnit, Rational, JIRA,Oracle 8i/9i, MySQL, Win XP and UNIX.
+
+                         
+Kingsway Insurance Company, Miami, FL                                                                         Mar’ 10 – Apr’ 11
+J2EE Developer
+
+Kingsway provides insurance solutions to manage specialty risks for individuals and businesses in the United States and Canada. Its primary business is the insuring of drivers who do not qualify for standard automobile insurance coverage because of their payment history, driving record, place of residence, age, vehicle type or other factors. Other products in the Kingsway portfolio include trucking insurance, commercial automobile insurance, commercial and personal property coverages, standard automobile insurance, motorcycle insurance and other specialty lines. Its subsidiaries include Universal Casualty Company, American Service Insurance Company, Southern United Fire Insurance Company, Lincoln General Insurance Company and Hamelton Insurance Company.
+
+Responsibilities:
+· Implemented various J2EE design patterns for designing this application. 
+· Design patterns of Business Delegates, Service Locator and DTO are used for designing the web module of the application.
+· Used Factory, Singleton design patterns for implementing enterprise modules/DTO’s.
+· Developed the Web Interface using Struts, Java Script, Ext JS., HTML and CSS. 
+· Created various UI widgets, grids, charts,forms using Ext JS. 
+· Extensively used the Struts controller component classes for developing the applications. 
+· Extensively used the struts application resources properties file for error codes, views labels and for Product Internationalization.
+· Worked with Struts which provided its own Controller component and integrates with other technologies to provide the Model and the View for the Model. 
+· Used Spring DI for integrating Spring Service classes with Struts.
+· Developed JavaBeans to store in a number of different collections of "attributes". Each collection has different rules for the lifetime of that collection, and the visibility of the beans stored there. The JavaServer Pages (JSP) Specification defines scope choices.
+· Configured Struts Framework to provide the functionality to validate the form data. It’s used to validate the data on the users’ browser as well as on the server side. Struts Framework emits the java scripts and it’s used to validate the form data on the client browser. 
+· Used JavaScript for the web page validation and Struts Validator for server side validation of data. 
+· Consumed webservices using Axis Webservices.
+· Involved in developing business tier using stateless session bean (acts as a Session Facade) and Message driven beans.
+· Used JDBC and Hibernate to connect to the database using Oracle.
+· Hibernate was used to Map relational data directly to java objects.
+· Data sources were configured in the app server and accessed from the DAO’s through HIBERNATE. 
+· Developed SQL stored procedures and prepared statements for updating and accessing data from database.
+· Involved in developing database specific data access objects (DAO) for Oracle.
+· The entire Application is deployed in WebSphere Application Server.
+· Involved in peer code reviews and performed integration testing of the modules.
+· Followed coding and documentation standards.
+· Responsible for Delivery, User Acceptance Test issues for the application
+
+Environment: Java, J2EE, JDK1.5, JSP, Struts, Axis WebServices, JSP, Servlets,JDBC, Ext JS., Spring DI, Hibernate, ANT, Java Script 1.7,Oracle 9i, MS-SQL, Web services, XML1.1, JMS, IBM Web Sphere, JUnit, Rational Rose, Linux, CVS 1.1, RUP, XSLT.
+
+Fidelity Investment Services, Dallas, TX                                                                                 Mar’ 09 – Feb’ 10
+Java Developer
+
+Project is about implementing payment technologies that will allow SFB bank customer to view and pay their loan using their mobile device. The mobile user would be able to view all of their loan bills due, and choose to pay them using a previously stored or new Payment Method. Requirement has indicated that mobile functionality should work very similarly to the web based features.
+
+Responsibilities:
+· Analyzing the business and functional requirements provided by the client.
+· Worked on integration methodology and strategy including interface, data flow, and process flow. 
+· Worked on Relational database design and SQL optimization created SQL queries.
+· Used Hibernate for Object Relational Mapping (ORM) purposes for transparent persistence onto the Oracle 9i database using Hibernate Query language (HQL). 
+· Designed and developed direct live interfaces with multiple systems with in the bank to subscribe the data real-time.
+· Used and configured Struts DynaActionForms, MessageResources, ActionMessages, ActionErrors, Validation.xml, Validator-rules.xml.
+· Designed and developed different JSP Custom Tags, Struts tags & JSTL tag libraries
+· Design and development of JAXB components for transfer objects
+· Implemented SOA architecture with WebServices using SOAP and WSDL.
+· Designed and developed database trigger and procedures to update the real-time cash balances.
+· Developed Data Access Objects to access middleware web services as well as Sybase database.
+· Used Declarative Transaction management system of Spring Framework and integrated it with JDBC and Hibernate transaction managers to customize transactional behavior.
+· Maintaining existing scripts and writing new scripts to automate the existing environment using ANT.
+· Used JSTL and custom tag library with frameworks such as Ajax and JQuery, to build interactive and attractive user interfaces.  
+· Developed light weight user interfaces to display the live cash balances on web page using HTML, JavaScript, Ext JS, JSP with Servlets and JDBC technologies at backend.
+· Built Gantt charts, windows and date picker widgets using Ext JS framework
+· Capable of leading complete end-to-end integration solution. Worked on unit and integration testing of the application
+· Deployed applications to DEV server on Unix and Windows platform 
+· Implemented advanced java API and core java for coding sophisticated business logic.
+· Wrote JUnit test cases to support business logic and unit testing.
+
+Environment: Java JDK, J2EE,  JMS, JavaScript, HTML, DHTML, CSS, Log4J, Ant, UML, Ext JS, AJAX, TOMCAT, Apache, DFC, DAB, Hibernate, Oracle 11g, SQL, PL/SQL, HTTP, HTTPS, TCP/IP,Windows, Web Services, Unix, SOAP, WSDL, MyEclipse, Junit, XML/XSL, Ant, Struts.
+
+ZeOmega, Frisco, TX   				            		                                          Jun’ 08 – Feb’ 09
+Java/ J2EE Developer      
+
+ZeOmega is a leading provider of automated workflow solutions and integrated content for healthcare management. Its web-based solutions are used in private and public healthcare and workers' compensation programs. ZeOmega provides solutions that enable an integrated and collaborative management of members' health through electronic health record (EHR) enabled care plans, point of care tools, decision support, care analytics, and configurable workflows for care management.
+
+Responsibilities:
+· Involved in various phases of Software Development Life Cycle (SDLC) of the application like Requirement gathering, Design, Analysis and Code development.
+· Developed Use case diagrams, Object diagrams, Class diagrams, and Sequence diagrams using UML.
+· Used Microsoft Visio for developing the Use case diagrams and architecture diagrams of the banking application.
+· Developed presentation tier as HTML, JSPs using Struts Framework implementing validations.
+· Created Stateless and Stateful Session beans for accessing and mutating Entity beans.
+· Extensively used Entity Beans in data access layer to access and update information in the database.
+· Used Web Services- WSDL and SOAP for getting credit card information from third party vendors.
+· Exposed the web service using JAX-RPC service end point.
+· Designed and implemented XML parsing for XML Order Confirmations.
+· Used JMS API for asynchronous communication by putting the messages in the Message queue.
+· Developed various design patterns like Front Controller, Data Transfer Object, Value Object, Business Delegate, Service Locator, Session Façade, and Data Access Object.
+· Created database pool, multi-pool, data source, domain realms and mapped them to roles.
+· Designed various tables required for the project in Oracle 10g database and used the Stored Procedures in the application.
+· Performed unit testing using JUnit framework and used Struts Test Cases for testing Action Classes.
+· Build ANT scripts and deployed the application on Websphere Application Server.
+· Monitored the error logs using Log4J and fixed the problems.
+· Developed the different components of the application such as JSPs, Servlets, EJB’s using WSAD and used CVS for version control.
+
+Environment: Java, J2EE, JSP, Struts, EJB, JMS, JNDI, HTML, XML, DOM, SAX, ANT,  Rational Rose, WSAD  (Web Sphere Studio Application Developer), Apache Axis, IBM Web Sphere Application Server, LOG4J, Oracle 10g, Windows 2003 Server.
+
+Apollo Health Street, Hyderabad, India                          	                            		           Jul’ 07 – May’ 08
+Java Programmer
+    			   
+Apollo Hospitals is one of the largest healthcare groups in Asia. Have over 10,000 beds across 43 hospitals in India and 16 million patients from 55 countries. It provides neighborhood diagnostic clinics, an extensive chain of Apollo Pharmacies, medical BPO and health insurance services and clinical research divisions. 
+
+Responsibilities:
+· Used class-responsibility-collaborator (CRC) model to identify organized classes in the Hospital Management Systems.
+· Used sequence diagrams to show the object interactions involved with the Use-Cases of a user of the system. 
+· Involved in Database Design by creating Data Flow Diagram (Process Model) and ER Diagram (Data Model).
+· Designed HTML screens with JSP for the front-end.
+· Made JDBC calls from the Servlets to the Database
+· Involved in designing stored procedures to extract and calculate billing information connecting to oracle.
+· Formatting the results from the Database as HTML reports to the client.
+· Java Script was used for client side validation.
+· Developed business logice with Servlets are used as the controllers and Entity/Session Beans for Business logic purpose.
+· Used Weblogic to deploy applications on local and development environments of the application.
+· Used Eclipse for building the application.
+· Participated in User review meetings and used Test Director to periodically log the development issues, production problems and bugs.
+· Implemented and supported the project through development, Unit testing phase into production environment. 
+· Used PVCS Version manager for source control and PVCS Tracker for change control management.
+
+Environment: Java, JSP, Servlets, JDBC, JNDI, EJB, Java Script, HTML, Oracle, CRC, Test Director, Jude Tool, Weblogic, Eclipse and PVCS.
+
+

@@ -1,0 +1,115 @@
+
+ 
+ 
+BIPIN KADEL 
+
+3902 College Main Street● Apt # 1410 ● Bryan, TX 77801 ● bipin.kdl@gmail.com ● (405)-589-0328 
+
+ 
+
+EDUCATION 
+
+Texas A&M University, College Station, TX                                                                            Graduated: August 2013 
+
+Bachelor of Science in Electrical Engineering; Overall GPA: 3.02/4.0 
+
+F.E/ E.I.T Candidate 
+
+ 
+
+EXPERIENCE 
+
+Wavelet Innovation Laboratory, Texas A&M University                        July - August 2012           
+
+ Developed and investigated PID control loop for the navigation of quad-copter using video feedback 
+
+ Conceptualized Extensible Markup Language (XML), Android software development kit(SDK) and  
+Subversion repositories from the Eclipse workbench (SVN) as a part of project 
+
+ 
+
+ACADEMIC PROJECTS 
+
+DSP based closed-loop speed control of a DC motor 
+
+ Designed and developed the speed control system for BLDC motor using Texas Instrument’s C2000 32-bit Piccolo DSP 
+
+Power Electronics, DC-AC PWM inverter  
+
+ Validated operating characteristics of  the full bridge DC-AC  pulse width modulated (PWM) inverter 
+
+ Analyzed and simulated effect of amplitude modulation, switching frequency on THD of 3-phase inverter 
+Aggie ARMAR, Automated Rescue Multi Agent Robots, Capstone Senior Design  
+
+ Developed flight control system using JAVA & C++ on Linux based embedded platform of AR. Drone 
+
+ Implemented Java socket class to send system commands over UDP port to control AR. Drone 
+
+ Constructed  proto boards to integrate sensors over microcontroller for the data collecting robots 
+
+Analog circuits and design  
+
+ Designed and tested three stage amplifier using MOSFET transistors 
+
+ Designed PMOS and NMOS current mirror 
+
+Power system fault analysis and protection  
+
+ Analyzed symmetrical components of  3-phase transmission line 
+
+ Evaluated sequence network and line faults current using PSS/E version 33 
+ 
+
+RELATED COURSEWORK 
+
+Power Electronics (Lab)               DSP-Based Motion Control (Lab)                      Power System-Fault Analysis & Protection (Lab) 
+
+Electronic Circuits (Lab)              Mobile Wireless Com-Networks                        Power System-Operation & Control (Lab)           
+
+Linear Control System                 Computer Architecture & Design (Lab)    
+
+ 
+
+PROFESSIONAL SKILLS 
+
+ Programming Language:     C, C++, Java, Verilog 
+
+ Devices/Equipments:            Oscilloscope, Function Generator, Multimeter, Circuit Board Tools 
+
+ Operating System:                Linux, Microsoft Windows, MacOS 
+
+ Software:                               MATLAB/Simulink, LabView, PSPICE, Power World, PET, PSS/E, ETAP,  
+                                                              Microsoft Suite, PCB Altium, Designer, Code Composer Studio, PSim, Maple        
+
+ 
+
+LEADERSHIP & ACTIVITIES 
+Corps of Cadets, Texas A&M University (ROTC based student military organization)                               August 2010 - December 2012 
+
+ Company V-1 Operation & Intelligence Officer, August 2012 - December 2012 
+ Provided procedure guideline for activities and operational orders to develop institutional memory. 
+
+ Company V-1 Recruiting and Training Sergeant, August 2011- May 2012 
+ Proposed ideas and prepared recruiting items to facilitated recruiting process. 
+ Introduced prospective students and their parents to Texas A&M University’s rich traditions like Corps of Cadets 
+
+and also offered a positive insight to applicants about student life as a Cadet. 
+
+ Company V-1 Cadre, December 2010 - August 2011 
+ Trained and motivated 10 freshmen cadets.  
+ Conducted weekly inspections of freshmen’s room and uniform to meet standard. 
+
+ 
+
+IEEE:                           Student Member                            January 2011 - Present 
+
+Big Event:                    Clean up backyard for elderly couple                                                        March 2011, 2012 
+
+March to the Brazos:  20 mile march for Corps of Cadets Fundraiser to support March of Dimes.                 April 2011, 2012 
+
+Aggie Externship:       Participated in externship trip to Williams, and Toshiba International Co at Houston, TX 
+
+                                      to acquire a better intuition of Electrical Engineering professional work environment   
+
+
+

@@ -1,0 +1,7 @@
+AnalystQAandTesting 0.09090909090909091
+EngineeringAndDesign 0.125
+LettersOrEssays 0.5
+Management 0.125
+ResearchAndDevelopment 0.2
+SoftwareEngineer 0.041666666666666664
+SpamOrAdverts 0.3333333333333333

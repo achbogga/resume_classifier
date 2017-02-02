@@ -1,0 +1,199 @@
+
+Kiruthika Kodhandapani
+
+Embedded Engineer
+Phone:  201-685-2247
+
+Email:  Kiruthika.k.sre@gmail.com
+PROFESSIONAL SUMMARY:
+· 9 years of experience in Design, Development and Testing of Microcontroller and DSP based Projects. 
+
+· Highly proficient in DSP processor based hardware design for the products like Video, Audio Encoders and Decoders. 
+
+· Rich experience in developing the Embedded C, C++ code for the applications like Energy Meters and Weighing scales.
+· Expert in working with IDE tools like Keil µVision, Code Composer Studio.
+· Excellent knowledge and experience in using Emulators like PDS-51, E8 Emulators.
+
+· Extensive experience in hardware design using Easy PC, Cadence Allegro Schematic Entry.
+· Highly Skilled in C, C++, HTML.
+
+· Expert in Testing and Debugging the Embedded C code and handling various Interrupts in various environments and also good in Assembly languages for 8051, ARM Core. 
+· Good Exposure to Digital Logic Design using Verilog, VHDL, SPICE and implementing in Xilinx FPGA.
+
+· Good experience in Physical Design, Layout, and Schematics using EDA tools DA_IC, IC Station, and Calibre.
+
+· Extensive exposure in hardware design and Board level testing of DSP based circuits.
+
+· Good knowledge in Embedded Linux Platform, Building Compiler tool-chain, Building Embedded Linux, and Root file system.
+
+· Adroit in mapping the requirements, designing the architecture, hardware and software selection. 
+
+· Excellent communication skills and very good Team player.
+
+· Excellent presentation and customer relationship management. 
+· Self-motivated and business-savvy with well-rounded technological aptitudes.
+
+· Have demonstrated excellent problem solving skills, a structured and business-orientated approach and compelling technical abilities in all my projects.
+
+· Experienced team player but also very accomplished at working as an individual.
+· Capable of taking initiative as the situation calls, eager and able to learn new technologies quickly. Possess versatile leadership qualities and the ability to manage change. Accept responsibilities and job duties eagerly with minimal supervision and Works well under pressure.
+Technical Skills:
+High level Languages
+
+
+: Embedded-C, C++, VHDL, Verilog, SPICE
+Assembly Languages
+
+
+: 8051, ARM
+Emulation Tool
+
+
+
+: PDS-51, E8 Emulator
+Development Tools
+: Mentor Graphics Design Architect, IC Station Tools, Modelsim, Xilinx ISE 11, Keil µVision, Code Composer Studio IDE
+PCB Designing Tool
+
+
+: Easy PC, Cadence Allegro schematic entry
+Operating System
+
+
+: Windows, Linux
+Protocols
+
+
+
+
+: UART, SPI, I2C, CAN
+
+EDUCATION:
+Bachelor of Engineering in Electronics and Communication Engineering 
+Anna University, Chennai, India
+Secured distinction with 80.2% aggregate.
+
+Master of Technology in VLSI SYSTEM DESIGN 
+JNTU, Hyderabad, India
+Secured distinction with 82.5% aggregate.
+PROFESSIONAL EXPERIENCE:
+Cornet Technology Inc.
+
+Springfield, Virginia, US
+
+
+
+
+
+Dec 2009 – Till Date
+Programmer
+Built-in-Self-Repair for Embedded RAMS
+The aim of this project Built-In Self-Repair (BISR), with Selectable Redundancy is an effective yield-enhancement strategy for embedded memories.  BISR consists of a Programmable Memory Built-In Self-Test (PMBIST) module, a Built-In Address-Analysis (BIAA) module and a Multiplexer (MUX) module. Programmable Memory BIST is used to run variety of algorithms without the need of dedicated BIST hardware for each algorithm. It gives flexibility to accommodate new test algorithms developed for newly identified defects. In BIAA module, fault addresses and redundant ones form a one-to-one mapping to achieve a high repair speed.
+Responsibilities:
+· Design and Architect the block diagram based on the specifications given by the customer.
+
+· Understanding the previous work related to the project.
+
+· RTL coding and Test bench development in Verilog and verifying the results through simulation.
+
+· Synthesis the code and Implement the design in SPARTAN 3E FPGA Evaluation board.
+
+· Verify the results in SPARTAN 3E kit by adding chipscope pro into the design.
+Environment: Xilinx ISE 10.1, Modelsim 6.0, SPARTAN 3E Kit.
+iVDO Compact A - Encoder
+
+To develop video surveillance product the iVDO CompactA is available as a single or dual channel SD-SDI or HD-SDI or Composite video and audio encoder using H.264 compression. The dual channel version handles two standard or two high definition channels or one of each. It Contains DSP processor TMS320DM642, and interfaces involving DDR2 SDRAM ,SDR SDRAM, flash, Ethernet Gige on SGMII to Copper,10/100,Video A to D converter, Ethernet switch, SGMII - MII interfacing.
+
+Responsibilities:
+
+· Design and Architect the block diagram based on the specifications given by the customer.
+
+· Selection of components based on client requirement and cost of the design.
+
+· Draw the schematic for the design using cadence allegro schematic entry tool.
+
+· Verifying the schematic and sending Gerber details.
+
+· Testing the board for functionality and assist with software team.
+
+· Preparing BOM and documentation of the design.
+Environment: Code Composer Studio IDE, Cadence Allegro schematic entry
+
+Cornet Technology Inc.
+Chennai, INDIA
+
+
+
+Sep 2007 - Nov 2009
+
+Embedded Engineer
+MPEG4 Video Encoder
+The purpose of the project is to develop video surveillance product to compress the Video signal from camera into MPEG4 format, perform video analytics on it and transmission over Ethernet. Contains two DSP processors TMS320DM642,TMS320DM648 and interfaces involving DDR2 SDRAM ,SDR SDRAM, flash, Ethernet Gige on SGMII to Copper,10/100,Video A to D converter, Ethernet switch, SGMII - MII interfacing.
+
+Responsibilities:
+· Design and Architect the block diagram based on the specifications given by the customer.
+
+· Selection of components based on client requirement and cost of the design.
+
+· Draw the schematic for the design using cadence allegro schematic entry tool.
+
+· Verifying the schematic and sending Gerber details.
+
+· Testing the board for functionality and assist with software team.
+
+· Preparing BOM and documentation of the design.
+Environment: Code Composer Studio IDE, Cadence Allegro schematic entry
+
+Indus Electronics
+Coimbatore, INDIA
+
+
+
+
+
+May 2005 - Aug 2007
+
+Embedded Engineer
+Digital Weighing Scale
+Designed and developed code for CS4560 (24 bit AD converter) based circuit, which converts analog voltage into digital. From that, weight is calculated and displayed. The various modes of weighing scale are weight mode, count mode, litre/meter mode in class III accuracy .and it is developed for jeweler’s model with class II accuracy. Low cost weighing scale is developed using C8051350 controller.
+Responsibilities:
+· Understanding hardware design and the block diagram of weighing scale given by the hardware design engineer e.g.: micro controller and interfacing devices.
+
+· Developing the embedded C code for the specific microcontroller and based on given hardware design (8051 core or ARM core).
+
+· Testing the code using emulation tools like PDS-51 Emulator or E8 emulator and verifying the results.
+
+· Creating the test procedure for production testing.
+Environment:  PDS51, E8 Emulator, Keil µVision
+
+VAF Meter
+This project was to develop code for R5F21134FP based circuit which measures three phase, Vrms, Irms, and frequency. Internal AD converter is used to measure the voltage and current.
+Responsibilities:
+
+· Developing the embedded C code for the specific microcontroller (ARM core R5F21134FP).
+
+· Testing the code using E8 emulator and verifying the results.
+
+· Creating the test procedure for production testing. 
+
+· Revising the design based on customer requirement.
+Environment:  PDS51, E8 Emulator, Keil µVision
+Intelligent Power Factor Controller, Power Monitor
+The aim of the project was to develop code for power factor controller of SAMES SA9904A/B based circuit which measures the Vrms, Irms, Real power, apparent power, reactive power and Power factor using the instant voltage and current counts from the ADC, these values are communicated to the main processor (89C61X2BN) through IIC mode, Main processor takes the decision for selecting the capacitor bank to control the power factor. In power monitor project Main processor calculate and display the following values real energy, apparent energy, reactive energy for both export and import directions.
+
+Responsibilities:
+
+· Design and Draw the block diagram based on the specification given by the customer.
+
+· Understanding the chosen hardware e.g.: micro controller and interfacing devices.
+
+· Developing the embedded C code for the specific microcontroller and based on given hardware design (8051 core or ARM core).
+
+· Testing the code using emulation tools like PDS-51 Emulator or E8 emulator and verifying the results.
+
+· Creating the test procedure for production testing.
+Environment:  PDS51, E8 Emulator, Keil µVision
+
+1
+6
+

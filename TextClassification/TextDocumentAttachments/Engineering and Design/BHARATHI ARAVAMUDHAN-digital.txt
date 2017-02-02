@@ -1,0 +1,112 @@
+        BHARATHI ARAVAMUDHAN
+
+    7575 Frankford Road Apt# 626, Dallas-TX-75252
+    (469)-500-8083      baravamu@buffalo.edu
+ 
+OBJECTIVE
+
+ 
+Seeking for an entry-level opportunity in the field of Digital/Analog circuits design and testing to strengthen technical and professional skills
+EDUCATION
+
+
+· UNIVERSITY AT BUFFALO,  THE STATE UNIVERSITY OF NEW YORK			February 2013           GPA: 3.46 / 4.0
+Master of Science in Electrical Engineering			    		 
+
+· Anna University, Chennai-India						May 2011   	       GPA: 3.5 / 4.0
+Bachelors of Science in Electronics and Communication Engineering  		 
+TECHNICAL SKILLS
+
+
+· Languages		     : VHDL, Verilog, System Verilog, Matlab, C/C++, Java, Basic PERL script
+·  Simulation Tools	     : Xilinx ISE Suite, Aldec Active HDL, Cadence Virtuoso Editor, Spice, Spectre, Mentor
+		                      Graphics, Ansoft Designer SV, Ansys HFSS
+· Operating System	     : Windows XP,Windows 7, Linux, MS Office Suite
+· Lab Equipments	     : Spartan 6 and 3E FPGA boards, Network Analyzer, Real time Oscilloscope
+· Clean Room Experience :  Photolithography, PECVD, RIE, STEM, SEM, XRD,MBE
+COURSEWORK
+
+· RF/Microwave circuits design
+· Microelectronics devices and Fabrication Lab
+· Digital Signal Processing (DSP)
+· Microprocessors and its applications 
+· Electronics devices and circuits Lab
+· Linear Integrated Circuits
+
+	· Introduction to VLSI Electronics
+· Advanced VLSI Electronics
+· HDL based digital design
+· Computer Architecture
+· Analog Circuits Design
+· Analog Integrated Circuits Layout
+
+· 
+
+
+
+
+
+
+
+JOURNAL PUBLICATION
+
+
+
+ “Hybrid-Cell Register Files Design for Improving NBTI Reliability”, Microelectronics Reliability, Oct ‘12:
+ N. Gong, S. Jiang, J. Wang, B. Aravamudhan, K. Sekar, Dr.R. Sridhar.
+ACADEMIC PROJECTS
+
+
+
+BTI (bias thermal instability) aware register files design						Jan 2012 – may 2012
+· Performed simulations to record  the effects of BTI stress in 6T/8T SRAM cells (32nm and 45nm CMOS technology)
+· Analyzed zero biasing probabilities of a register file design for different benchmarks ( SPEC and MiBench) to observe sensitive bit cells
+· Proposed an improved 6T register file design and achieved 24.8% improvement in MiBench applications and 11.4% in SPEC applications
+
+implementation of microprocessor on spartan 6 fpga board 				             Aug. 2012 – Dec. 2012
+· To implement a microprocessor on the FPGA board using VHDL
+· Coding of an AVR instruction set compatible microprocessor
+
+
+design, layout and simulation of register files							Aug. 2011- Dec. 2011
+· Designed 16 words x 8 bit register file with 2 read ports and one write port using CMOS Tech.
+· Pitch Matching and Propagation delay was taken into account while designing
+· Designed discharge gates to minimize leakage current and achieved 4% reduction in leakage power
+· Performed DRC, LVS and extracted gate level netlist from the layout
+
+mini vhdl /verilog projects - using spartan 3e/6 fpga board							
+· Electronic Lock Combination- used FSM chart to design 5 bit lock code that resets for incorrect code   
+· Basic Calculator – performs basic arithmetic operations 
+
+design and implementation of an audio amplifier 					               Aug. 2011 – Dec. 2011
+· Designed an audio amplifier to drive a load of 8ohms over frequency range 20-20kHz
+· Designed a two stage amplifier with miller compensation to achieve the DC gain and used a push pull inverter to drive the 8ohm load
+· Performed AC simulation to achieve 46dB differential gain, 120dB CMRR, 60 phase margin and 300mW power consumption
+· Performed layout of the design and submitted for fabrication
+
+design, layout and simulation of ldo regulator 	 					               Aug. 2011 – Dec. 2011
+· Designed a folded cascode op-amp with PMOS input differential pair, and a cascode current mirror to bias the circuit
+· Designed a Widlar Bandgap reference circuit to obtain 1.2V reference and performed simulation across temperature to check functional stability
+· Used NMOS pass transistor to achieve 2.5V drop out voltage and 250mA load current
+· Performed transient analysis to simulate load regulation and line regulation
+
+design of coupled line filter with center frequency 8 ghz of system impedance 50 ohms 		Jan 2012 – may 2012
+· Designed a coupled line filter to achieve 200 MHz  Pass bandwidth,  20 dB Passband return loss, 40 dB Stop band attenuation at center frequency +150MHz using Ansoft Designer
+· Optimization of the design was done using Ansys HFSS software
+
+design of a 10 dB parallel line coupler for mid-band frequency of 4 ghz 				Jan 2012 – may 2012
+· Designed a 10dB parallel line coupler and achieved 40dB Isolation; 0.8dB transmission loss; 31dB directivity with terminating impedance 50ohms and frequency range of 2.0GHz – 6.0 GHz
+· Optimized the design by placing grooves and achieved 25% improvement on isolation and 39% on Directivity
+· Analyzed different substrate materials for the design on the basis of cost, yield and applications
+
+ACHIEVEMENTS & LEADERSHIP QUALITIES
+
+
+·  student assistant (on-campus)  health science library 	Buffalo, NY			sep 2011 -  Dec. 2012
+ Inter library loans / document delivery and Delivery+
+
+·  “reverberations 2010”  					Chennai, India			nov.  2010
+ Chief Coordinator of technical symposium 
+
+
+

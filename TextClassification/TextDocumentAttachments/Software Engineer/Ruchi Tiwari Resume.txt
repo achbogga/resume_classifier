@@ -1,0 +1,239 @@
+Ruchi Tiwari
+Email : ruchitiwari90@gmail.com
+
+Experience Summary
+
+· Having 3.2 years of IT experience in Mainframe environment out of which over 3 years of development experience in TATA CONSULTANCY SERVICES (life science and healthcare domain). 
+
+· Good team player and also have the ability to work independently in a time sensitive environment.
+
+· Good organizational and communication skills, with the ability to express technical concepts verbally and in written.
+
+·  IBM Certified Database Associate (DB2 700) and Certificate in Life Science and healthcare L1 and Pharma Management L2. Certification accredited by TCS Business Domain Academy.      
+
+Technical Skills
+
+Below is a list of important software products, tools and methods that I have worked with.
+
+
+	Languages:  
+
+COBOL,C,JCL,REXX
+
+	Database Technologies:
+
+PL/SQL,IMS/DB,VSAM,DB2
+
+	Operating Systems:
+
+Ms-Dos,Ms-Windows 98/2000/NT/XP,Ms Office 
+
+	Other Tools:  
+
+Panvalet, File-aid, Spufi.
+
+
+Education
+
+	Degree and Date
+	Institute
+	Major and Specialization
+
+	Bachelor of Technology  (2006-2009 )
+	J.K.Institute of Applied Physics & Technology,University of Allahabad,India
+	Electronics & Communication
+
+
+Employment Summary
+
+	Employer
+	From
+	To
+
+	Tata Consultancy Service
+	February 2010
+	Till Now
+
+
+Project Summary
+	Humana Insurance
+
+	Lab Integration
+
+	July-2010 to May-2012
+
+	 Humana Insurance, headquartered in Kentucky, is an American   managed health care company that markets and administers health insurance.
+
+Humana Lab data integration comes under clinical IT of EDW development, a part of data integration and support of BICC TSG. 
+
+The objective of this project is to integrate lab data from different lab vendors with Humana Enterprise Data Warehouse (EDW). This will help Humana in better management of Lab claims and HEDIS data reporting. This data is used for both HEDIS scoring and providing data for predictive modelling, so Humana can contact members in the early stages of disease and potentially stop or slow progression. 
+
+Scope of Services includes Analysis, Design, Construction, Testing and Implementation. 
+
+
+
+	Team Member
+
+	· Responsible for creating low level designs based on high level designs.
+
+· Responsible for coding new programs and amendments based on the low level designs adhering to project coding standards.
+
+· Execution of Unit Test and documenting the Test Results.
+
+· Responsible for providing fixes for the defects raised.
+
+· Responsible for mentoring junior team members.
+
+· Execution of Test and documenting the Test Results.
+
+· Establish “Best Practices” and plan for continuous improvement of processes
+
+
+
+	OS/390,Cobol,Jcl
+
+
+
+	File-Aid,Panvalet,Pl/Sql developer 
+
+	Plot No.G1, SIPCOT Information Technology Park,
+Navalur Post,Chennai
+
+
+	Project
+	Humana Insurance
+
+	Project Title
+	Dynamo Rx Denied Claims Project 
+
+	Period
+	August -2012- to May-2013 
+
+	Description
+	 Humana Insurance , headquartered in Kentucky, is an American managed health care company that markets and administers heath insurance.
+
+This project comes under HUMANA Pharmacy business area. The purpose of this project is to analyze the Humana customer claim patterns and suggest(call) customers to use/go for the Humana identified medicines/Plans so as to get benefited by Humana incentives and as well as help members -make better health choices sooner, so disease can either be stopped or slowed to a manageable level.
+
+ 
+
+Scope of Services includes Analysis, Design, Construction, Testing and Implementation. 
+
+
+
+	Role
+	Team Member
+
+	Responsibilities
+	· Responsible for creating low level designs based on high level designs.
+
+· Responsible for coding new programs and amendments based on the low level designs adhering to project coding standards.
+
+· Execution of Unit Test and documenting the Test Results.
+
+· Responsible for providing fixes for the defects raised.
+
+· Responsible for mentoring junior team members.
+
+· Execution of Test and documenting the Test Results.
+
+· Establish “Best Practices” and plan for continuous improvement of processes
+
+
+
+	Solution Environment
+	OS/390,Cobol,Jcl,VSAM
+
+
+
+	Tools
+	File-Aid,Panvalet
+
+	Location
+	4th to 7th Floor Unitech Building (SEZ)
+Plot No.20 & 21.Sec-135 Noida.U.P.
+
+
+	Project
+	Humana Insurance
+
+	Project Title
+	Arcadian and Medicare Acquisition
+
+	Period
+	Oct -2012- to June-2012 
+
+	Description
+	 Humana Insurance, headquartered in Kentucky, is an American managed health care company that markets and administers health insurance.
+
+In the Medicare Datamart flow that processes the MMR file, there is a lookup process to get the Humana key information and ledgers for the member to whom the MMR data belongs.  For the acquisitions, there could be adjustments coming through the MMR file that are for coverage dates prior to the acquisition/conversion to CI.  If nothing is done, these records end up defaulting to a ledger based on the contract/pbp that is a current ledger and therefore incorrect.  To correct this, the business partners are compiling a list of members that have been active with either acquisition in the past 39 months and the Humana keys and ledgers to go with them.  We need to look up the Humana keys and ledgers for any adjustments made on the acquisition contract/pbp’s that are for coverage periods prior to what is found on the current CI interface file.
+
+Scope of Services includes Analysis, Design, Construction, Testing and Implementation. 
+
+
+
+	Role
+	Team Member
+
+	Responsibilities
+	· Responsible for creating low level designs based on high level designs.
+
+· Responsible for coding new programs and amendments based on the low level designs adhering to project coding standards.
+
+· Execution of Unit Test and documenting the Test Results.
+
+· Responsible for providing fixes for the defects raised.
+
+· Responsible for mentoring junior team members.
+
+· Execution of Test and documenting the Test Results.
+
+· Establish “Best Practices” and plan for continuous improvement of processes
+
+
+
+	Solution Environment
+	OS/390,Cobol,Jcl,VSAM
+
+
+
+	Tools
+	File-Aid,Panvalet
+
+	Location
+	4th to 7th Floor Unitech Building (SEZ)
+Plot No.20 & 21.Sec-135 Noida.U.P.
+
+
+PERSONAL DETAILS:
+
+	Date of  birth
+	01/07/87
+
+	Sex
+	Female
+
+	Nationality
+	Indian
+
+	Location
+	Louisville ,Kentucky
+
+	Mobile Number
+
+
+E-mail Id
+
+
+	5024105675
+ruchitiwari90@gmail.com
+
+
+Passport Details
+Passport Number-K8076960
+
+Visa Status-H4
+
+Page 1 of 5
+TCS Internal
+
+

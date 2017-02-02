@@ -1,0 +1,700 @@
+Kaushik Konar 
+
++91-9163795111 
+
+Kaushik_konar@yahoo.com
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+PeopleSoft Consultant (HCM/HRMS) with Project Management experience
+
+Summary of Qualification
+
+· More than 14 years of experience in application software development using Peoplesoft with progressive technical experience in customization, implementation and development of Peoplesoft 9.1/8.9/8.8/8.3/8.0/7.5 HRMS/HCM (Core HR, NA Payroll, Base Benefits, Benefits Administration, Recruitment module, eBenefits,ePay, eProfile, eRecruit)
+
+· Competency in gathering requirements, analysis, database design,  Integration and Implementation.
+
+· Experience in gathering the requirements, analyzing the requirements and evaluate on enhancement of the product which suits company for better convenience and user convenience.
+
+· Excellent working knowledge in  Peopletools (Application Designer, Peoplecode, Application Engine, Workflow, Component Interface, Security Administration, Process Scheduler, Data Mover, Business Interlink, App Messaging, Object Security, Row Level Security, Query, SQR)
+
+· Extensively worked on Functional Design document, Technical Design document and Test Plan Preparation.
+
+· Having experience in multiple full life cycles implementations.
+
+· Well versed with event Handling of Peoplecode 8x and string knowledge in customizations of SQR reports.
+
+· Has all round grip on database like ORACLE and SQL Server
+
+· Skilled in Performance tuning and bottleneck removal of Peoplesoft applications.  
+
+· Good knowledge of Peoplesoft Administration.
+
+· Extensively worked on Component Interfaces so that data can be loaded from Application engines and third party applications.
+
+· Solid Peoplesoft Lifecycle Implementation expertise with successful delivery of different peoplesoft project by exceuting various roles and management levels
+
+Educational Qualification :- Bachelor in Engineering (Computer Science) from Regional engineering college, Durgapur , India 
+
+Consultancy Experience :-
+
+ HCL
+
+
+
+May 2012 Till Date
+
+ Tata Consultant Services 
+Apr 2006 till Apr 2012
+
+ WIPRO Technicologies    
+Dec 2003 till Apr 2006
+
+ Birlasoft Inc. 
+
+
+May 2003 to Dec 2003
+
+ Zensar Technologies
+
+July 1999 to Apr 2003
+
+Technical Proficiencies
+
+Development Tools:
+
+Application Designer, Application Packages, Application Engine,
+
+
+
+
+
+Peoplecode, IScript, HTML
+
+Administrative Tools:
+
+Security Administrator, Data Mover, Import Manager, Tree
+
+ Manager and  Process Scheduler.
+
+Reporting Tools:
+
+SQR 6.0, Peoplesoft Query
+
+Integration Tools:
+
+File Layout, Component Interfaces, Integration Broker
+
+Data Management Tools:
+Data Mover, Import Manager
+
+Functional Areas:
+
+Core HR, NA Payroll, Base Benefits, Benefits Administration, 
+
+
+
+
+
+Recruitment module, eBenefits, ePay, eProfile, eRecruit,
+
+Manager Self Service, Training and Development module,
+
+Career & Succession Planning and Position Management.
+
+Operating systems:
+
+UNIX (HP and sun solaris), Windows (NT, 2000, 95,98,
+
+Professional)
+
+Database:
+
+
+Oracle, SQL Server, Microsoft Access
+
+Web Technologies:
+
+HTML, JavaScript, CGI-Perl, Java Servlets, JSP.
+
+Web Servers: 
+
+
+Apache, Web Logic, Websphere, JBOSS
+
+Middleware:
+
+
+Tuxedo
+
+                                                      PROJECTS EXPERIENCE
+
+May 12 till Date                       National Insurance Company (Government Enterprise)
+
+ PeopleSoft HRMS Implementation
+
+Client
+
+
+
+
+: 
+National Insurance Company (Govt. Enterprise)
+
+Location
+
+
+
+: 
+Chennai , India
+
+Environment
+
+
+
+: 
+PeopleSoft PeopleSoft HCM 9.0 (Workforce Administration, Global Payroll (India extn., Absence Management, Performance Management), UNIX, ORACLE 10g
+
+Scope
+:             To implement the below modules for the NIC on PeopleSoft HCM 9.0
+
+· Workforce Administration
+
+· Global Payroll (India extn.)
+
+· Absence Management
+
+· ePerformance
+
+· Career and Succession Planning
+
+· Training Administration
+
+· Claims and Reimbursement
+
+· Tours and Travel
+
+· Leave Travel Subsidy
+
+· Loans and Advances
+
+· ELM
+
+Role
+
+
+
+
+:
+Program Manager
+
+Responsibilities –
+
+·1 Prepare the Estimation and do the Project Planning.
+
+·2 Preparing the Project Plan for implementation of different modules in Phased manner
+
+·3 Preparing the Roll OUT plan for the modules.
+
+·4 Assigning the tickets coming for support work and assigning it to the analyst. 
+
+·5 Assigning the tasks and closely monitoring the status of the tasks.
+
+·6 Preparing the Weekly Status Reports for the Customers and internal Stake Holders.
+
+·7 Conduct the Weekly status meetings with all the stakeholders and team on both support and implementation.
+
+·8 Participate in the code reviews before the migration to UAT environment 
+
+·9 Working with the AUDIT team (internal and external KPMG) so that all the Cmmi Level 5 processes are followed in the 23 process areas.
+
+·10 Creating the Process Prediction Model Workbook (PPM) for all the modules and Sub Process Monitoring (SPM) for the sub Processes (Code Development Rate and Test Case Execution Rate)
+
+·11 Preparing and Submitting the Resource Forecast for approval to the internal stakeholders.
+
+·12 Preparing and Submitting the Invoices that need to be raised with customer
+
+·13 Prepare the Report and conduct the Senior Management Review every month.
+
+·14 Help with PeopleSoft Practice in estimations and Presentation to the upcoming proposals. 
+
+Mar 11 to May 2012                       Covance PeopleSoft FSCM and HR support and Upgrade
+
+Client
+
+
+
+
+: 
+Covance Inc
+
+Location
+
+
+
+: 
+B’Lore , India
+
+Environment
+
+
+
+: 
+PeopleSoft FSCM 8.9 (GL, AR, AP,Billing, Project costing, Contracts, Procurement, eProcurement, OM), UNIX, ORACLE. PeopleSoft HCM 9.0 (Workforce Administration, Performance Management, T&L) 
+
+Scope
+:             To support the modules PeopleSoft FSCM 8.9 and then upgrade the same to PeopleSoft 9.1. It was upgrade from People Tools 8.49 to People tools 8.52. 
+
+Role
+
+
+
+
+:
+Program Manager
+
+Responsibilities –
+
+·15 Prepare the Estimation and participate is preparing the response to RFP.
+
+·16 Preparing the Project Plan for upgrade. Develop the Environment Plan for the different environment needed for carrying out the upgrade
+
+·17 Worked with the PeopleSoft Administration team to come out with infrastructure plan for upgrade and the timelines. 
+
+·18 Assigning the tickets coming for support work and assigning it to the analyst. 
+
+·19 Assigning the tasks and closely monitoring the status of the tasks.
+
+·20 Conduct the Weekly status meetings with all the stakeholders and team on both support and upgrade.
+
+·21 Participate in the code reviews after the retrofitting is done on objects to ensure that all the development is done as per client standards. . 
+
+Dec 09 to Jan 2011                         ConAgra Foods Inc.  Peoplesoft Upgrade
+
+Client
+
+
+
+
+: 
+Conagra Foods
+
+Location
+
+
+
+: 
+Omaha, NE
+
+Environment
+
+
+
+: 
+PeopleSoft HRMS 9.1 (NA Payroll, Benefits Administration, Workforce Administration, Pension Management, Position Management), UNIX, ORACLE.
+
+Scope
+:             To upgrade the  modules PeopleSoft HCM 8.3 for ConAgra foods Inc to PeopleSoft HCM 9.1. It was upgrade from People Tools 8.21 to People tools 8,5. The following modules were upgraded.
+
+· NA Payroll
+
+· Workforce Administration
+
+· Base Benefits
+
+· Benefits Administration
+
+· Pension Administration
+
+· Position Management
+
+· Self Service Modules
+
+· PeopleSoft Security
+
+Role
+
+
+
+
+:
+Project Manager
+
+Responsibilities –
+
+·22 Preparing the Project Plan for upgrade. Develop the Environment Plan for the different environment needed for carrying out the upgrade
+
+·23 Worked with the PeopleSoft Administration team to come out with infrastructure plan for upgrade and the timelines. 
+
+·24 Helped the upgrade team in resolve the conflicts and issues arising from the upgrade scripts. 
+
+·25 Assigning the tasks and closely monitoring the status of the tasks.
+
+·26 Preparing the presentations for the sponsors of the project about project progress, activities undertaken and FIT GAP decisions made.
+
+·27 Validating the Jobs that need to be scheduled and how they will be scheduled on control M scheduler. Also involved in installation of the Control M PeopleSoft agent. 
+
+·28 Participate in the FIT GAPs so as to ensure that they are moving in correct direction and decisions are made correctly..  
+
+·29 Participate in the Security discussions so as to see that Security is correctly implemented as per business needs.
+
+·30 Conduct the Weekly status updated meetings with all the stakeholders and team.
+
+·31 Participate in reviews of the Functional Design documents and Technical Design documents. 
+
+·32 Participate in the reviews of the Test Plans. 
+
+·33 Participate in the code reviews after the retrofitting is done on objects to ensure that all the development is done as per client standards. . 
+
+Aug 06 to Dec 2009                        ConAgra Foods Inc.  Peoplesoft Implementation
+
+Client
+
+
+
+
+: 
+Conagra Foods
+
+Location
+
+
+
+: 
+Omaha, NE
+
+Environment
+
+
+
+: 
+PeopleSoft HRMS 8.3 (NA Payroll, Benefits Administration, Workforce Administration, Pension Management, Position Management), UNIX, ORACLE.
+
+Scope
+:             To  support and development of new modules Peoplesoft 8.3 for Conagra foods Inc. The following modules were implemented and supported.
+
+· NA Payroll
+
+· Workforce Administration
+
+· Base Benefits
+
+· Benefits Administration
+
+· Pension Administration
+
+· Position Management
+
+· Integration with Brass Ring site
+
+Role
+
+
+
+
+:
+Project Manager
+
+Responsibilities –
+
+·34 Reviewing and developing the technical specs. Then distributing the work among the team members.
+
+·35 Working with the offshore counterpart to get the development completed within the timelines.
+
+·36 Reviewing and mentoring the work of junior developers.
+
+·37 Supporting the Batch jobs running through Control M. All the jobs in Conagra are scheduled through Control M using UNIX Scripts on ORACLE database.
+
+·38 Requirements Gathering, Development, release and configuration of new modules. They have recently gone LIVE with the Position Management Module.  
+
+·39 Integration of Peoplesoft with the Vista Plus so that nightly the Users and Permission are sent to Vista. Reports also get posted to Vista automatically. This is related to Peoplesoft Security
+
+Apr 06 to July 06                        Ameriprise  Peoplesoft Implementation
+
+Client
+
+
+
+
+: 
+Ameriprise
+
+Location
+
+
+
+: 
+Meniapolis, MN
+
+Environment
+
+
+
+: 
+PeopleSoft HRMS 8.9 (eRecruit), Peopletools 8.43, ORACLE, UNIX.
+
+Scope
+:             To  implement Peoplesoft 8.9 eRecruit for Ameriprise. The following modules were implemented
+
+o         Recruitment
+
+o         eRecruit & eRecruit Desktop Manager
+
+o         eRecruit WorkFlow 
+
+o         eRecruit Configuration
+
+o         eRecruit Architecture
+
+Role
+
+
+
+
+:
+Project Lead
+
+Responsibilities –
+
+·40 Configuring the Recruitment model after discussion with the business. Configuring the Recruitment Template, Question Template, Sites.
+
+·41 Integration of the Peoplesoft Recruitment module with the Recruit USA Job board. 
+
+·42 Conversion of the Brass Ring into Peoplesoft. Performing the field by field mapping of the Brass Ring data to Peoplesoft data. 
+
+·43 Developing the Application engine Program to convert the Brass Ring data to Peoplesoft.
+
+Jan 04 to Apr 06                           Albertsons Peoplesoft Implementation
+
+Client
+
+
+
+
+: 
+Albertsons
+
+Location
+
+
+
+: 
+Boise, Idaho
+
+Environment
+
+
+
+: 
+PeopleSoft HRMS 8.8, UNIX, ORACLE, Peopletools 8.43
+
+Scope
+:             To  implement Peoplesoft 8.8 for Albertsons. The following modules were implemented
+
+o         Employee Life Cycle
+
+o         Recruitment
+
+o         Position Management
+
+o         Employee Benefits & enrollment
+
+o         Contract Administration
+
+o         Compensation Management
+
+o         Career Planning
+
+o         Succession Planning
+
+o         Enterprise Learning
+
+o         Organizational Development
+
+o         Payroll
+
+1 eModules (Employee Self Service & Manager Self Service)
+
+              The Project was done based on offshore-onsite model with 40 members at onsite and 10 members at offshore. All the major business processes has been converted into Java to increase the performance.
+
+Role
+
+
+
+
+:
+Project Lead
+
+Responsibilities –
+
+·44 Integration of the Peoplesoft Process Scheduler with the mainframe scheduler through ESP Business agent. 
+
+·45 Developing the Process type for Java Processes and configuring them on the Process Scheduler to pick up the right classes.
+
+·46 Gathering the requirements from the business users, gather the requirements and develop the configurations, Technical Design for the same.
+
+·47 Preparing the test plan for the development and performing the unit testing.
+
+May 03 to Dec 03                        
+
+GE CompFin Production support
+
+Client
+
+
+
+
+: 
+GE
+
+Environment
+
+
+
+: 
+PeopleSoft HRMS 7.5/ Finance 8.0, UNIX, Windows, SQL Server, ORACLE.
+
+Scope
+:             To give production support and play the role of Peoplesoft administrator to the 3 Finance and 1 HRMS environment for Commercial Finance GE. We were responsible for keeping the production environment up and running. Also we were responsible for applying the patches to various environments and doing enhancements as and when required.
+
+Role
+
+
+
+
+:
+Offshore Team Member
+
+Responsibilities –
+
+·48 Application of the Patches to various environments as and when required.
+
+·49 Enhancing or developing new functionality as and when required. Interacting with the users to gather the requirements, develop the configurations, technical design, test plans etc.
+
+·50 PeopleSoft administrator for all the environments.
+
+Sep 99 to Apr 03                                             Zensar PeopleSoft(HRMS) Implementation
+
+Client
+
+
+
+
+: 
+Zensar
+
+Location
+
+
+
+: 
+Zensar
+
+Environment
+
+
+
+: 
+PeopleSoft HRMS 8.00.000, Peopletools 8.17, Windows, SQL Server
+
+Scope
+:             Implemented the 360 Degree Appraisal System for Zensar. The employees are identified first by the administrator who is going to be assessed for this assessment and then the Assessors chosen by the employees and approved by the administrator assess them.    
+
+                             Implemented the resume search for the internal employees and external applicants based on the search criteria selected by the HR Personal. 
+
+
+Role
+
+
+
+
+:
+Team Member
+
+Responsibilities –
+
+·51 Interacting with HR to collect the requirements.
+
+·52 Doing the analysis and the design of various panels and records and how they will be interlinked.
+
+·53 Developing the Panels, Workflow, Application Engine Programs, SQR Reports to fulfil the  requirement of  the HR.
+
+July 99 to Aug 99                                               P&ONL PeopleSoft Support
+
+Client
+
+
+
+
+: 
+P&ONL.
+
+Location
+
+
+
+: 
+Zensar
+
+Software
+
+
+
+: 
+PeopleSoft Financials 7.5, UNIX, ORACLE.
+
+Scope
+:             Supporting the PeopleSoft Financials Application of P&ONL. Whatever problems the user faces is reported to us and we do a first hand analysis to find out the cause and then try to solve the problem either ourselves or work with other teams to get it solved.    
+
+
+Role
+
+
+
+
+:
+Team Member
+
+Responsibilities –
+
+·54 Interacting with customer regarding the issues.
+
+·55 Doing the analysis of the cause of the issues and then provide the issue resolution.
+
+·56 Coordination with other teams for the resolution of faults.
+
+May 99 to June 99                                               PeopleSoft Financials Training 
+
+Client
+
+
+
+
+: 
+Zensar.
+
+Location
+
+
+
+: 
+Zensar
+
+Hardware 
+
+
+
+: 
+Pentium, Windows NT
+
+Software
+
+
+
+: 
+PeopleSoft Finanacials 7.5
+
+Scope
+:             Undergone a training for one months on the PeopleTools(8.1) by Price WaterHouse Coopers. Application Designer, SQR, Application Engine Process, PeopleCode, Data Mover, Import Managers  are covered in Depth for one months. The Functional training of 1 month on PeopleSoft Financials(7.5) was given.  G/L, AR, AP, Billing , Purchases and Expenses modules were covered.    
+
+

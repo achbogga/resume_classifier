@@ -1,0 +1,303 @@
+
+ 
+   
+ 
+
+VIGNESH RAJAN  
+            17030 N49th Street Apt 1023 Scottsdale AZ-85254 
+
+  vignesh.rajan87@gmail.com  (347) 446-5994 
+
+SUMMARY 
+
+ A licensed member of Scrum Alliance & a Certified Scrum Master (CSM)  
+
+ Comprehensive knowledge of Waterfall & Scrum software development methodologies 
+
+ Over four years experience in Scrum software development process   
+
+ Expert in developing business case for application development projects & performing Gap / SWOT analysis for IT 
+projects 
+
+ Organized many Joint Application Developments (JAD) sessions, scrum meetings, walkthroughs, interviews, workshops 
+and Rapid Application Development (RAD) sessions with end-user/clients/stake holders and the IT group 
+
+ Experience with User Acceptance Testing (UAT) and release of IT projects 
+
+ Created artifacts including: 
+Agile: User stories, storyboards, sprint backlogs & Definition of Done deck  
+Waterfall:  Project charter, Business requirement document (BRD), Functional requirement Document (FRD), Use Cases, 
+Test Scenarios, Test Cases, FAQs, Wiki and End User Manuals 
+
+ Developed use case diagrams, sequence diagrams, state diagrams and activity diagrams using UML and Visio to make 
+users and developers understand the system 
+
+ Experience managing IT projects costing  up to $ 1,000,000 
+
+ Experienced in enterprise integration, systems, architecture and business process integrations that includes Service 
+Oriented Architecture (SOA) and B2B solutions 
+
+ Experience writing SQL queries & using the same to perform data analysis & perform quantitative data analysis  
+
+ Strong domain knowledge in payment & banking domains 
+
+ Strong domain knowledge in social media integration, POS terminal processing, Servicing tool development & 
+developing intuitive user interfaces   
+
+WORK EXPERIENCE 
+
+American Express Technologies (via Syntel INC.)                                 Phoenix, AZ 
+
+Business Systems Analyst Consultant (Scrum Master)                           (October 2012 – Present) 
+
+ Developed business cases for application development projects & performed Gap / SWOT analysis for IT projects 
+
+ Acted as a key member of the project definition phase and ensured that business problem is clearly defined, business 
+objective is identified & high-level business needs (HLBN) of the project is documented. As a part of this phase, I have 
+delivered the project charter document     
+
+ Interacted and interviewed with business stakeholders, SMEs, end-users, developers, system architects, testers and 
+leadership to gather requirements / identify user stories 
+
+ Acted as a key member of the Analysis phase &  delivered artifacts including: 
+Waterfall model -BRDs, FRDs, use cases & High level sizing document 
+Agile / Scrum - user stories, storyboards & sprint backlogs 
+
+ Identified the teams impacted by projects and managed their engagements throughout the project life cycle 
+
+ Acted as a facilitator & drove the high-level sizing estimation of projects (Both Waterfall & Agile) 
+
+ Participated in the Design / solution architecture phase of the project & mapped the design efforts to requirements / 
+user stories 
+
+ Participated in the Build phase by driving status meetings / daily scrum meetings to ensure that build does not impact 
+schedule & cost plans. In addition, I also identified/ facilitated open items, risks & constraints in the project  
+
+ Participated in the Test phase, partnered with test manager & created testing strategy, test plans & test cases. Also, I 
+ensured that all testing efforts can be traced specific to requirements / user stories   
+
+
+
+ 
+   
+ 
+
+ Participated in Deployment/implementation phase, developed E2E Implementation plan & monitored the status of 
+implementation on a daily basis 
+
+  As a scrum master,  I have identified pending items & impediments to the project and resolved the same  
+
+ Gathered data through interview, survey, and on-site observation working with our wider team 
+
+ Performed Impact Analysis after implementing the change management processes. 
+
+ Documented current state, and defined future state, and prepared gap analysis 
+ Maintained documents on SharePoint to facilitate seamless interaction with multiple teams with different document 
+
+repositories 
+
+ Managed up to 20 technical resources based in Phoenix, Canada & India 
+
+Environment: Microsoft Office Suite (Excel, Word, PowerPoint), PL/SQL, Java, Mainframe, SFDC, CA Clarity PPM, Microsoft 
+
+Windows, Microsoft Visio, UML, Microsoft SharePoint, Rally & Quality Center  
+
+CA Technologies                      Islandia, NY 
+
+Business Analyst Consultant / Scrum Master (Intern)                            (June 2011 – December 2011) 
+
+ Developed a business case for Salesforce CRM for the Corporate Development team of CA Technologies 
+
+ Interviewed the organization’s leadership & analysts to identify the high-level business needs (HLBN) of the project.     
+
+ Created user stories & storyboards by collaborating with stakeholders and senior leadership. In addition, I also created 
+release backlog & sprint backlog for the project. 
+
+ Created a data model & identified the objects, fields & attributes in the data model.  
+
+ Facilitated the user-centric process of developing the user interface for the CRM. In addition, I also created a 
+questionnaire based approach of measuring user experience 
+
+ Created Storyboards, UI mockups, mockup reports, use cases, data flow diagrams (DFDs) and power point 
+presentations. 
+
+ Worked with clients directly in assistance with UAT issues and defects. 
+
+ Worked closely with client/end-users & provide user training   
+
+ Produced status reports throughout the project lifecycle  
+
+Environment: Microsoft Office Suite (Excel, Word, PowerPoint), SFDC, CA Clarity PPM, Microsoft Windows, Microsoft Visio, 
+
+Microsoft SharePoint & Quality Center  
+
+Stony Brook University Medical Center (Department of Public Health)                       Stony Brook, NY 
+
+Business Analyst (Web Development)                              (December 2010 – June 2011)  
+
+ Facilitated web based marketing campaigns (using Drupal tool) for Stony Brook University – Dept. of Public Health 
+
+ Collaborated with Informatics team & moved changes from Development environment to Production environment 
+
+ Collaborated with technical team & university leadership and launched different campaigns  
+
+ Conducted surveys & questionnaires to drive process improvement 
+
+Environment: Microsoft Office Suite (Excel, Word, PowerPoint), Drupal, Microsoft Windows & Microsoft Visio  
+
+Temenos (A Banking software company)                Chennai, India 
+
+Technical Business Analyst (SFDC)                   (February 2009 – June 2010) 
+
+ Worked in an agile team & contributed by writing user stories & performed design & development tasks 
+
+  Interviewed the organization’s leadership & analysts to identify the business problem & high-level business needs 
+(HLBN) of the project.     
+
+ Developed a data model & identified the attributes for the objects & fields in the data model.  
+
+ Facilitated the user-centric process of developing the user interface for the CRM. In addition, I also created a 
+questionnaire based approach of measuring user experience 
+
+
+
+ 
+   
+ 
+
+ Worked with clients directly in assistance with UAT issues and defects. 
+
+ Created storyboards, UI mockups, mockup reports, use cases, data flow diagrams (DFDs) and power point 
+presentations. 
+
+ Worked closely with client/end-users & provide user training   
+
+ Acted as a facilitator for Daily Standup calls   
+
+Environment: Microsoft Office Suite (Excel, Word, PowerPoint), SFDC, CA Clarity PPM, Microsoft Windows, Microsoft Visio, 
+
+Microsoft SharePoint  
+
+PROJECTS  
+
+American Express Technologies  
+
+Executed multiple corporate project initiatives for the Registered Card, a network capability used by American Express 
+
+business teams & merchants to create coupon-less offers that can be redeemed by Amex card members via enrolment 
+
+International DOE (Project Cost: $1,200,000)  
+
+This project leverages American Express’ Digital Offer Ecosystem platform to expand to new markets like Japan, UK, 
+
+Australia & Mexico. This project will enable American Express card members throughout the globe to enroll in promotional 
+
+offers through different distribution channels like Facebook, Four square etc., This project is estimated to increase payment 
+
+volume by $100,000,000 in a time span of five years. This project followed an Agile (Scrum) process for software 
+
+development. 
+
+Marketing Delivery tool Phase – II (Project Cost: $600,000) 
+
+This project created an online cloud-based tool that enables Amex marketing managers & merchants to create promotional 
+
+coupon-less offers. This tool was built on the Salesforce.com platform. Our tool enhanced time efficiency by 71%. This 
+
+project followed an Agile (Scrum) process for software development. 
+
+Serve – US Digital Offer Ecosystem Integration (Project Cost: $550,000) 
+
+This project integrated Serve prepaid cards into the US Digital Offer Ecosystem. This enabled Serve card members to enroll 
+
+in promotional offers through different distribution channels like Facebook, Foursquare etc. This project forecasts an 
+
+increase in active Serve card member base by 30%. This project initially followed the waterfall model & later we moved to 
+
+an Agile (Scrum) process for software development in order to accelerate the development of the product. 
+
+CA Technologies 
+
+M&A CRM (Project Cost: $600,000) 
+
+In this project, we delivered a Salesforce.com CRM solution that is currently used by technical & finance teams to manage 
+
+information about prospective acquisitions. Information is tracked in this system beginning with identifying of a company of 
+
+as a lead until it becomes a successful acquisition. This project followed an Agile (Scrum) process for software development. 
+
+ 
+
+ 
+
+
+
+ 
+   
+ 
+
+Temenos  
+
+Project Salesforce CRM  
+
+Developed a Salesforce.com CRM solution that manages processes like lead generation, sales, servicing & support for 
+
+Private Banking & Investment banking units in Temenos. These projects followed an Agile (Scrum) process for software 
+
+development. 
+
+MBA PROJECTS 
+
+BUSINESS CONSULTING 
+
+ Developed a business case for Parooze, an online gaming startup, that aims at creating a gaming console based 
+
+shopping experience   
+
+ Developed a business case for BrightNoise, an app that estimates the noise level & amount of light buildings in 
+
+Manhattan, NY will be exposed throughout the year 
+
+ Devised a stock picking model for Apparel retail industry. This model accepts balance sheet, income statement & 
+
+technical ratios as input and returns the most attractive stock out of the chosen companies 
+
+ Analyzed sales of an organization that distributes ice-creams using pivot table feature in Microsoft Excel and 
+
+recommended a revision in its sales strategy 
+
+TECHNOLOGY CONSULTING 
+
+Salesforce CRM – Merchandize solutions for Stony Brook Library & Stony Brook marketplace 
+
+In this project, we delivered a Salesforce.com automation (SFA) solution that is currently used by technical two small 
+
+businesses namely Stony Brook Library & Stony Brook marketplace to process & report merchandize operations. This 
+
+project followed an Agile (Scrum) process for software development.  
+
+EDUCATION 
+
+State University of New York (SUNY)                                     Stony Brook, NY 
+
+Master of Business Administration (Finance and Management), May 2012                               GPA: 3.7/4 
+
+Anna University                                          Chennai, India 
+
+Bachelors in Engineering (Computer Science and Engineering), May 2008                       GPA: 73%    
+
+TECHNICAL SKILLS  
+
+ INFORMATION MANAGEMENT: Microsoft Office (Word, Excel, PowerPoint, Visio and Access) 
+
+ PLATFORMS: Salesforce.com, Java & Mainframe 
+
+ DATABASE: SQL 
+
+ PROJECT MANAGEMENT TOOLS: Microsoft SharePoint, Microsoft Project,   CA Clarity, Quality Center 
+
+ SDLC METHODOLOGIES: Waterfall & Agile (Scrum) 
+
+ 
+
+

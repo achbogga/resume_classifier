@@ -1,0 +1,528 @@
+Sanjeev Gupta, Principle SW Engineer
+
+Sanjeevmit98@gmail.com; +1-240-645-5320
+
+
+Summary of Qualifications (Knowledge & Skill Areas)
+
+    11 Years of Embedded Software & System design, development in wireless domain
+    Adept at overseeing all phases of software development lifecycle
+	Outstanding technical skills, eager and able to quickly learn new concepts and technologies
+    Exceptional experience working in fast-paced, deadline-oriented environments
+    Highly motivated, committed and problem solver
+    Speciality:
+   Strong domain expertise in Telecom industry
+   VoLTE Key Achievement Award at Broadcom Corporation
+   Team Award” from Lucent RNC-UMTS Business Unit
+   “Individual Divisional Award” for excellent contribution at C-DoT from SGSN Business Unit
+
+
+Tools & Technology Expertise
+
+
+
+	
+PROGRAMMING
+	
+C, C++, Java
+
+	
+TECHNOLOGY
+	
+LTE, UMTS, GPRS, Wi-Max, WLAN, 3GPP2 1x/EVDO, IMS
+
+	
+WIRELESS PROTOCOLS
+	
+VoLTE (SIP, RTP, RTCP), SRVCC,R-SRVCC, 3GPP (Access Stratum (RLC, MAC, PDCP) , Iu-PS (RANAP), S1-AP, GTP, GPRS Rel99 SM, LLC, BSSGP), GMR-3G (RLC, MAC, RRC), Compression Protocols (ROHC, IPHC)
+
+	
+OTHER PROTOCOLS
+	
+TCP/UDP, IPv6, SIGTRAN, PPP, GTP’, H.248, Q931, IUA,
+SNMP, DNS, IAPP, CDMA RP i/f, GRE
+
+	
+OPERATING SYSTEM
+	
+ThreadX, QNX, Linux, Solaris, VxWorks
+
+	
+Mobile Middleware SW
+	
+Android RIL Telephony, Qualcomm QMI, QMUX Layers
+
+	
+MOBILE PLATFORM
+	
+Android, Blackberry10
+
+	
+MOBILE CHIPSET
+	
+Qcom MDM9200,9600, MSM8660,8960, BRCM 21892
+
+	
+DEVICE DRIVERS
+	
+TCP/IP Network Driver, SDIO & USB EHCI Host Interface
+
+	
+TOOLS & UTILITIES
+	
+Qualcomm Modem Tools [QXDM, QPST], ClearCase, Wind
+River Workbench, Purify, Pure Coverage, Memscope
+
+
+
+
+	
+TEST SETUP
+	
+R&S CMW500,  LBS,  Anritsu,  VoLTE Setup [ATT,  Verizon, Conformance, Ericsson IoT] , K1297
+
+	
+DATABASE
+	
+O2, Oracle
+
+
+
+
+Project Experience
+
+	
+Project name: Voice Over LTE Solution
+	
+Duration: Current
+
+	
+Role
+	
+Principal Engineer, Modem Platform
+
+	
+Client
+	
+Broadcom Corporation, Sunnyvale
+
+	
+Abstract
+	
+Design, Architect & optimization of VoLTE solution
+
+	
+Responsibilities
+	
+    Define, Integrate & debug Modem and Android RIL interfaces to
+IMS Core Stack for Normal Voice, Emergency, SRVCC, SMS
+	Design & Development  of  Multi-Mode Connection Framework modules in  Modem  and  AP [Android RIL] for PDN Management, Access Domain Selection, network Interface Configuration, RAT Re- selection, Wi-Fi offload
+    VoLTE  Call  Setup Performance Analysis & Debugging
+	VoLTEAudio  Performance  &  stability analysis  including  system jitter,  packet loss/impairment, Radio Aspects Analysis [SPS scheduling, ROHC, DRX], Kernel Audio & Network Driver debugging
+	Design, development, Integration of Emergency Service [Access Domain Selection, Silent Redialing, RAT Preserve & Reselection, Optimization of Emergency Attach Procedures]
+    Adaptation of Media Manager in Modem [bearer filter in Modem, DSP
+interaction for Audio path] for optimized power & system jitter
+    Debugging & Triage for many of Volte [Radio, SIP Signaling & Audio]
+issues during Carrier, System, IOT Testing
+    Conformance, Integration testing for VoLTE Test Coverage
+    Prototype non-trusted 3GPP Access [Wi-Fi Interworking]
+    Performance Analysis & Profiling for Modem IPCs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 | P a g e
+
+	
+Project name: WiMax &  3GPP2 modem  solution into Blackberry device
+	
+Duration: Oct 2010 to April 2012
+
+	
+Role
+	
+Wireless Protocol Engineer
+
+	
+Client
+	
+Research In Motion, Irving Texas
+
+	
+Abstract
+	
+Design, Development, Integration of Qcom MSM 8660,8960, MDM 9200, 9600
+Tri/Dual Mode 3GPP LTE, HSPA+ & 3GPP2 modem solution
+
+	
+Responsibilities
+	
+	Design, development of USB EHCI, ECM based Network Driver comprising of data channels for TCP/IP traffic and Control channels for Radio Telephony
+     Design & Development of Virtual Network Interface for dual modem
+Broadcom WiMax & Qcom CDMA for IP Continuity
+    LTE Modem bring up with respect to Radio & Data control path
+	Design & development of Radio Telephony Software on Application processor to manage the Radio & Data connectivity over Qcom QMI, QMUX
+    Debugged complex issues related to LTE Radio & Data connectivity &
+resolved them ahead of Qcom provided solution which helped to reduce the product development times by number of weeks
+	Optimized Modem IPCs [QMUX, QMI], Data Services dsapi, ds profile, RMNET modules for multi PDN, Dual IP, throughput & performance
+	Implemented utility in driver for power management at USB Interface during data inactivity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 | P a g e
+
+	
+Project name: Network Monitoring Agent Software
+Application for LTE Core Network
+	
+Duration: Aug 2010 to Oct 2010
+
+	
+Role
+	
+Senior Mobile Software Engineer
+
+	
+Client
+	
+Netscout Systems, San Jose CA.
+
+	
+Abstract
+	
+Design, Development, Integration of Network Monitoring Agent Software
+Application for LTE Core Network
+
+	
+Responsibilities
+	    Analyze Requirement & Study protocol specification for LTE S1AP,
+S1MME protocols
+    Design & Development of Software application to generate the KPIs for
+S1AP protocol.
+    Integration of software application with Network monitoring agent
+
+
+
+
+	
+Project name: 3GPP Iu-PS Control/User Plane software
+	
+Duration: Jun 2007 to Aug 2010
+
+	
+Role
+	
+Principal Engineer
+
+	
+Client
+	
+Hughes Systique Corporation (Maryland, USA & Gurgaon, India)
+
+	
+Responsibilities
+	
+	Design, Development, Integration of 3GPP Iu-PS Control/User Plane software for GlobalStar at Hughes Network System
+   Development of Convergence layer to provision User Plane
+   Development of Control Plane software for Iu-PS Control procedures
+   Integration and Testing of Iu-PS Control/user Plane software with other modules in RAN
+   Participated in Design and Code reviews
+    Design, development of Mobile Data Offload Solution(MDO) for
+Stoke Pvt. Ltd
+   Evolved the Software architecture for MDO product
+   Lead team for full software development cycle
+   Technical Proposal for System Learning Entity in MDO which learns the ongoing and new signaling context i.e. SCTP, M3UA and SCCP and provision the same at MDO
+    Design, development of Telematics Control Unit (TCU) at Hughes
+Network System
+   Lead the design & development for Call Processing modules
+   Lead the development for Data services modules i.e. Remote door
+Unlock, Vehicle tracking, Software Upgrade/Download
+   Contribute to Project planning, design and code reviews
+   Guide team members with the technical knowledge
+   Responsible for Integration of Application Processor with other
+Modules in TCU
+    Design, Development and Integration of UT Access Stack for
+Hughes Network System
+
+
+
+
+
+
+4 | P a g e
+   Contribution to GMR-3G Specifications
+   Contribution towards the Software Architecture evolution of UT Access Protocol Stack
+   Lead the RLC/MAC team for full software development cycle of
+RLC/MAC
+   Evolution of RLC/MAC Software Architecture which outlines different sub-modules, functional
+   entities and interfaces among them
+   Design, development, Unit and Integration testing of RLC/MAC features and functionalities: SAR/ARQ, RRC Control interface, De- multiplexing of PDUs, TBF management, CSN Encoding/Decoding, Access and Ciphering Procedure
+   Organizing and participation in RLC/MAC Design, Code reviews and Release Planning
+   Lead the Integration of RLC/MAC with other Access Stack Protocol
+layers
+   Contribution to System Integration Testing of UT with S-BSS
+
+
+
+	
+Project name: 3G Consulting
+	
+Duration: Jan 2006 to June 2007
+
+	
+Role
+	
+Senior Engineer
+
+	
+Client
+	
+Continuous Computing India Pvt
+
+	
+Responsibilities
+	
+    Design and development of Trillium Stack for 3GPP Rel7 PDCP
+protocol
+   Lead the team for complete Software life cycle
+   Evolution of Software Architecture including the High, Low level design for PDCP protocol
+   Interact and co-ordinate with RNC teams for Interface definition with other access protocol layers RLC, RRC
+   Design and development of ROHC compression protocol
+   Guide the team members with technical knowledge
+   Co-ordinate for Project Planning and Management
+    Enhancement of Trillium 3GPP RLC/MAC Protocol Stack for
+Release 5
+   Designed, developed and tested the 3GPP Release 5 changes related to HS-DSCH functionality into RLC and MAC layer
+    Development of NodeB solution for Radio Frame Network at
+Bangalore, India
+   Integrated Trilliun 3GPP HSDPA Protocol layer with other
+NodeB components
+   Developed and tested NodeB application to provision Data path across FP and HSDPA protocol
+    Development of Multi-Service Access Node, Access Gateway
+(MSAN) at Fujitsu Telecom, UK
+   Design and Development of new features for MSAN
+
+
+
+
+
+
+5 | P a g e
+   Onsite Maintenance support for existing features and solution
+
+
+
+	
+Project name: User and Management Plane features for Lucent 3GPP UMTS-RNC
+	
+Duration: July 2004 to Jan 2006
+
+	
+Role
+	
+Senior Engineer
+
+	
+Client
+	
+Hughes Software System, Bangalore, India
+
+	
+Abstract
+	
+Design and Development of User and Management Plane features for Lucent
+3GPP UMTS-RNC.
+
+	
+Responsibilities
+	
+    Design and developed procedures to provision the Signaling and
+Traffic bearer User Plane context to higher layers for SRNS relocation procedure
+	Implemented the Network QoS feature  in terms  of  differentiation and  preservation of resources at RLC and MAC layer respectively for different type of RABs
+    Implemented RNC Performance Counters related to traffic shaping at
+RLC/MAC
+    Contributed towards maintenance support for existing features
+
+
+
+
+	
+Project name: GPRS Core  Network
+	
+Duration: Aug 2002 to July 2004
+
+	
+Role
+	
+Research Engineer
+
+	
+Client
+	
+Centre for Development of Telematics, Delhi, India
+
+	
+Abstract
+	
+Design and Development  of  GPRS  Core Network Supporting  nodes
+GSNs (SGSN,  GGSN, Merged GSNs).
+
+	
+Responsibilities
+	
+    Contributed towards GSNs Product Requirement Specifications
+	Contributed towards  Software  Architecture evolution for GSNs, which  outlines different subsystems, features, entities and interfaces among them
+    Design BSSGP, SM protocol layers, including  features i.e. BSSGP
+Flow  Control, Session
+	Management, Data Unit Transfer, QoS Control and Gb interface initialization/Management
+	Design and developed BSSGP protocol Layer, network interfaces i.e. network writer/reader for the MGSN Prototype
+    Unit Tested BSSGP and integrated Gb interface stack for MGSN
+prototype
+	Design administration framework for GSNs, involving Node/Network management System
+    Design and developed “Trouble Management system” a web, Java
+
+
+
+
+
+
+6 | P a g e
+based tool for reporting and tracking problems arising from C-DOT’s
+ATM switch network
+
+
+
+
+Professional Experience
+
+	
+Broadcom Corporation
+	
+NA
+
+	
+Research In Motion, Irving Texas
+	
+Oct 2010 to April, 2012
+
+	
+Netscout Systems, San Jose CA
+	
+Aug 2010 to Oct 2010
+
+	
+Hughes Systique Corporation (USA & India)
+	
+June 2007 to Aug 2010
+
+	
+Continuous Computing India Pvt
+	
+Jan 2006 to June 2007
+
+	
+Hughes Software System
+	
+July 2004 - Jan 2006
+
+	
+Centre for Development of Telematics, Delhi, India
+	
+June 2007 - July 2004
+
+
+
+
+Education
+
+    MS in Software Systems, Birla Institute of Technology & Science, Pilani, India June,
+2002
+
+    Master of Information Technology, Guru Jambheshwar University, Haryana, India
+Nov, 2000
+
+    Bachelor of Computer Science, Kurukshetra University, Haryana, India June 1998
+
+
+Training & Certification
+
+    Certification  in  “Linux  System  Programming”,  Birla  Institute  of  Technology  &
+Science, Pilani, India
+
+    Attended Professional Training programs on LTE BootCamp (Interworking with
+EHRPD, UMTS), 1x
+
+    EVDO, IPv6 for LTE, HSPA+, IMS, QNX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 | P a g e

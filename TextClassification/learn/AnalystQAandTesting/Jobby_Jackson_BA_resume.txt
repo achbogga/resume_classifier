@@ -1,0 +1,147 @@
+Jobby Jackson
+469-394-4343
+jobby.jackson@gmail.com
+
+OBJECTIVE
+Detail-oriented, organized and efficient Business Analyst seeking a position to utilize my knowledge and experience in a position offering opportunities for personal contribution and professional growth.
+BACKGROUND SUMMARY
+· Business Analyst with 6+ years of experience in the finance, banking, healthcare and insurance domain.
+· Strong experience in working in key phases of the Software Development Life Cycle(SDLC) such as the Planning, Analysis/Design, Development and Testing for the software/system development process.
+· Very proficient in preparing Business Requirement Document (BRD), Use Case Specifications and Functional Specifications.
+· Well acquainted with Workflows and Unified Modeling Language (UML) diagrams such as, Use case diagrams, Activity Diagrams and Sequence Diagrams.
+· Actively used Joint Requirement Planning (JRP), Joint Application Development (JAD) and Rapid Application Development (RAD) Session to converge early toward a design acceptable to the customer and feasible for the developers and to limit a project’s exposure to the forces of change.
+· Experienced in multiple Software Development Lifecycle Methodologies such as Waterfall, Spiral, Agile, User Stories, SCRUM and Rational Unified Process.  
+· Advanced Business writing skills in writing business requirements document, Use Case specifications, functional specifications, systems design specifications, system requirements specifications.
+· Proficient in writing test cases and test scripts and executing tests.
+· Compelling Multi-Tasking and organizational ability, with the capability to develop and implement strategies. 
+· Ability to work cohesively with all Stakeholders to formulate Functional models and prototypes to meet stakeholder expectations, and Workflow optimization
+· Excellent Communication and interpersonal skills, capable of acting as the arbiter between client and developer with respect to project implementation.
+TECHNICAL EXPERIENCE
+	Business Modeling Tools
+	Rational Rose, MS Visio, MS Office Suite, Rational Suite
+
+	Methodologies
+	Agile, RUP, Waterfall, Spiral, Iterative, UML, Six Sigma, CMM
+
+	Requirement Management Tools
+	Rational Suite ( requisite Pro, Clear case, Clear Quest, Rose), Caliber RM, Optimal Trace 5.1, Rally, HP Quality Center
+
+	Applications
+	MS Office (Word, Excel, PowerPoint, InfoPath, OneNote, Publisher, Outlook, Access)   MS Project 2000,   PowerBuilder,   Intuit QuickBooks,   Business objects,   Crystal Reports, ACT Sales Database, Oracle , MySQL, Sybase
+
+	Languages
+	UML 2.0, HTML,XML, SQL 
+
+
+WORK EXPERIENCE
+Client: Tenet Healthcare Corporation, NYC                                                          May 2013 – Till Date 
+Domain: Healthcare                                        
+Business Analyst                                                                                                        
+Tenet Healthcare Corporation (THC) is a holding company that owns and operates 63 hospitals in the United States. The project was to develop an application for the hospitals to use as a central repository storing reports from different departments of the hospital.
+Responsibilities:
+· Involved in reviewing the business process and possible improvements based on user requirement. Interviewing the HOD’s and other end users, asking detailed questions and carefully recording the requirements in a format that can be reviewed and understood by both business people and technical people
+· Used MS Visio to create business process flowcharts and workflow diagrams
+· Involved in detailing project mission, Data Process Flow Diagrams and timelines
+· Formed a bridge between the Project Manager and different teams with effective presentations
+· Prepared Workflow diagrams analyzed AS IS and TO BE scenarios, designed new process flows and documented the business process and various business scenarios
+· Utilized Rational Unified Process (RUP) to configure and develop processes, standards, and procedures
+· Involved in the calculations and documentation using MS Excel, MS word, MS Access and PowerPoint
+· Participated in data modeling; planning, designing, implementation of the data warehouse and conducted testing. Produced data mapping and data definition documentation
+· Involved in reviewing and writing URS and Functional Requirements
+· Analyze business requirements and segregated them into high level and low level Use Cases, activity diagrams / State Chart Diagrams according to UML methodology thus defining the Data Models
+· Involved in process modeling, conducted & Participated in Joint Application Development (JAD) sessions with System Users
+· Performed the user acceptance test (UAT) and suggested recommendations for the applications
+· Worked with SQL queries for data manipulations
+· Thorough documentation of the entire process along with all its activities
+Environment: Rational Rose, Microsoft Visio, IBM ClearQuest, Microsoft Project, Oracle, UNIX, MS Excel, MS Access
+Client: Compass Bank, TX                           
+         
+                          January 2013 - April 2013
+Domain: Bank 
+Business Analyst
+ Worked on automation of the Mortgage Loan Origination Processing system that performs all the business functions of the loan process. Primary responsibility was to develop functional specification documents for the appraisal and credit departments by gathering, analyzing and documenting requirements from various Business users associated to the system as well as by analyzing external factor, the third party data sources such as regulatory agencies and credit bureaus and documenting the constraints. 
+Responsibilities:
+· Supported the re-design of the Mortgage Asset Management System.
+· Conducted interviews with key business users to collect requirement and business process information for the loan process including set-up Account Information, New Loan set-up, Escrow Analysis, the Appraisal, Credit, income and Title functionalities
+· Developed business process models in RUP to document existing and future business processes.
+· Performed extensive requirement analysis including data analysis and gap analysis.
+· Designed and developed project document templates based on SDLC methodology.
+· Developed business requirement specification documents as well as high-level project plan.
+· Comprehensively worked with requirement gathering for Enterprise reporting system using RequisitePro
+· Developed strategic partnerships with the business unit to develop a solid knowledge base of the business line, including the business plan, products, process and revenue streams
+· Worked extensively with marketing team and sales brokers to understand   client requirements in depth
+· Functioned as the primary liaison between the business line, operations, and the technical areas throughout the project cycle
+Environment: UML, Visio2003, Visual Basic, MS Office Suite, QTP, Windows.NET and UNIX.
+Discover Financial, Chicago, IL                                                           June 2011- December 2012
+Domain: Financial Service
+Business Analyst
+Discover Financial Services is one of the leading companies of a wide range of credit card services. The project was to re-engineer company’s credit appraisal system. It involved the design and development for performance analysis of credit card business. The project also involved enhancement of the application for accommodation of changing business and regulatory requirements. As part of the project an application was developed to approve electronic applications to end-customers and to provide support for various types of credit applications that were being submitted for processing. 
+Responsibilities:
+· Liaison with the business community to define business requirements and analyzed possible technical solutions.
+· Developed and implemented processes and tools for requirements gathering, analysis, planning, tracking and delivery using Requisite Pro and Microsoft Visio.
+· Extraction, Transformation and Loading. Metadata architecture was also provided, for
+· Query enhancement and clarification of data relationships
+· Involved in completing the Data Dictionary, Data Lineage and Data Flow diagrams for Meta data.
+· Designed and developed Use Case Diagrams, Activity Diagrams, Sequence Diagrams, and Class Diagrams.
+· Conducted workflow, process diagram and GAP analysis to derive requirements for existing systems enhancements.
+· Involved in creating Entity-Relationship diagrams for the design of database.
+· Coordinated activities between business unit and technical staff, developing new methods, policies, and procedures to meet the business needs, and acted as primary trainer in education of the business unit as it relates to business applications.
+· Analyzed all data warehousing components (e.g. tool integration strategy; source system data ETL strategy; data staging; and data quality strategy)
+· Assisted QA Team in writing test cases, Data mapping, Data Cleansing, conversion spreadsheets, test plans and tested the final application to verify whether all the User Requirements were catered to by the application.
+· Collaborated with the QA team to ensure adequate testing of software both before and after completion, maintained quality procedures, and ensured that appropriate documentation is in place.
+·  Designed and developed the architecture of business intelligence components including data models, ETL, and enterprise reporting.
+·  Conducted UAT.
+·  Prioritized new features and functionality based on business needs.
+·  Identified and documented best practices for the product offering.
+·  Extensively worked on MS Access, MS Excel, MS Word, PowerPoint, SQL, MS Project
+NationWide, Columbus, OH                          
+                         December 2009 – May 2011
+Domain: Insurance
+Business Analyst
+Nationwide is one of the largest insurance and financial services companies in the world, focusing on domestic property and casualty insurance, life insurance and retirement savings, asset management, and strategic investments. The project I worked was the Claims replacement for Group disability. Currently all claims for the Group Disability insurance is handled manually on paper files. This project uses a third party software where claims are received by the customer electronically/over the phone rather than a paper claim form /letter. Currently, in order to process a Group disability claim data is accessed from the mainframe system, Admin System and other sources which is slow and time consuming. When the Nation Wide project is implemented, Group disability claims will be handled by one system, which would process data claims faster and also cut cost on staff wages.
+ Responsibilities
+· Gathered Business Requirements, created Functional Requirements Document (FRD) and analyzed data/workflows; defined the scope, financial projections and cost/benefit analysis; progressed from Problem Statement to well-documented designs.
+· Used RUP-iterative process to Conduct Data Analysis on the Group Disability Data to find missing data fields in the application and customize them.
+· Used MS Word & Visio to document data flow of the AS IS process and TO BE process.
+· Conducted JAD sessions to get SME’s input on how to implement the application for Group Disability Claims.
+· Gathered Business requirements for Integration points and mapped them with Functional requirements.
+· Worked as an Interface between the users and the different teams involved in the application development for better understanding of the business and IT processes.
+· Analyzed Business Requirements from Black Box testing perspective; reviewed Test Strategy, Traceability Matrices and Test Plans to ensure that test cases reflect user needs for the functional, performance, usability and security requirements.
+· Followed a structured approach to organize requirements into logical groupings of essential business processes, business rules, and information needs, and ensured the critical requirements were not missed.
+· Followed the UML based methods by using Visio to create Use Cases, Activity Diagrams, Sequence Diagrams, and Collaboration Diagrams.
+Paramount Healthcare, Maumee-OH                                           May 2008 – November 2009    
+Domain: Medicare/Pharmacy 
+Business Analyst                                                                            
+Paramount is one of the largest Health Maintenance Organization (HMO)/Health plan providers, serving northwest Ohio and southeast Michigan. The company built a Web-based Healthcare Claims Processing/ Adjudication System called Paramount Elite, which would process its member’s or provider’s prescription drug claims. Using this Point of Sale (POS) Pharmacy Benefits Management (PBM) System, participating retail pharmacies and healthcare by mail pharmacies were able to submit drug claims electronically and approx. 95% of all the claims were auto adjudicated. The system had capability to certify member eligibility, determine plan parameters, pricing the claims according to members benefit plan, calculating the co-payments for the specific claim, and capture a claim record for billing purpose. The system also generated HIPAA compliant 835 Healthcare Electronic Remittance Advice (ERA) form. Paramount healthcare used Agile methodology to build this portal.
+ Responsibilities:
+· Conducted JAD brainstorming sessions with business users and SMEs to understand Prescription Drug Event (PDE) rules and identify, gather and prioritize various functional and non-functional requirements in iterations following Agile Software Development Methodology.
+· Worked on creating organizational strategy to ensure product follows CMS (Center for Medicare/Medicaid Services) standards and HIPAA ANSI X12 EDI transaction standards.
+· Worked with project stakeholders to create end user training manuals; analyze, propose and implement new Business Process Workflows; Worked on Identification and solution design of potential risks within the work stream.
+· Worked with Six Sigma team to create project scorecards and assessed the impact of requirements changes on existing project commitments and design Requirements Traceability Matrix (RTM) to document the changes within the system.
+· Created RAID documents, supplemental specifications, effective agendas, and related process flows using Unified Modeling Language (UML) for efficient formalized reviews and walkthroughs.
+· Mitigated development and testing issues across various teams; analyzed and revised existing system logic issues.
+· Created Test Plans, Test Cases, and Test Scripts to conducted system performance testing; Performed and co-coordinated User Acceptance Testing (UAT), unit, integration, system Functional and Regression Testing.
+Environment: Prescription Drug Events (PDE), Pharmacy Benefits Management (PBM) System, CMS (Center for Medicare/Medicaid Services) standards, HIPAA Standards, ICD-9 Codes, Rational Rose, Rational Requisite Pro
+EDUCATION
+Master of Business Administration (MBA-Finance)
+
+
+
+
+GPA: 3.7
+University of Texas at Dallas, Dallas
+Bachelors of Commerce (B.Com)
+
+
+
+
+
+
+GPA: 3.6
+Loyola College, Chennai
+ SHAPE  \* MERGEFORMAT 
+
+
+
+1
+

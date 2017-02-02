@@ -1,0 +1,441 @@
+K Prakash
+prakashkonda9@gmail.com
+
+Contact Number: +91 9739096164
+
+Profile Summary:
+· 4 years of US experience and 13 years of IT experience in India. 
+
+· Domain knowledge includes Healthcare Claim Processing (Diamond Application), Auto Rental, Clinical Research, Mortgage, Mobility and other Commercial domains.
+· Work experience in Client Server Technologies and Data Warehousing PowerBuilder, Informatica, Oracle (SQL, PL/SQL), Sybase (T-SQL), Unix Shell programming.
+· Proficient in Requirements collection, Analysis, Design, Development, Maintenance and Production Support of various software applications, Onsite offshore co ordination 
+· Good knowledge of Relational and Dimensional Data Modeling, Object Oriented Programming concepts. Experience working on large sized applications and databases.
+· ITILV3 and CSQA certified
+Education
+
+Masters Degree in Electronics - M.Sc Tech (Electronics)
+
+Project: Xcelys (Formerly Diamond)
+
+
+
+
+Duration
+
+
+: Jan 2008 to till date (71 Months)
+
+Client
+
+
+
+: Dell Inc, USA
+
+Skill Set
+
+            : Oracle 8i/9i/10g, SQL, PL/SQL 
+
+Tools
+
+
+
+: Power Builder 10.5, TOAD, ClearQuest, VSS, and WinCVS 
+
+Role
+                                      : Software Development Adviser / Tech Lead
+Xcelys is the Health Plan Core Administration Software for Healthcare Payers market. Identifies member eligibility for claims processing, prices claims based on prior arrangements (group or provider), controls payment based on authorization and benefits and administers complex payer arrangements. Xcelys has various clients across US and product is customized as per customers’ requirements and as per government regulations
+· Interact with users to understand the business issues, research and provide suggestions that involve either design changes or code changes of the application.
+
+· Requirements understanding, estimate the effort involved and provide schedule for enhancement activities or defect fixes
+
+· Develop complex Oracle PL/SQL procedures, functions and packages and provide guidance for team members in developing programs using the specified given requirements.
+
+· Analyze and tuning performance of SQL and PL/SQL programs.
+
+Project: BCBS RI Applications Maintenance
+
+Duration
+
+
+: Jan 2007 to Dec 2007 (12 Months)
+
+Client
+
+
+
+: Blue Cross & Blue Shield, RI, USA
+
+Skill Set
+
+             :Oracle 9i SQL, PL/SQL                       
+
+Tools
+
+
+
+: TOAD, PL/SQL Developer
+Role
+                                    : Onsite Coordinator & Tech Lead
+Perot Systems is providing IT support for a few major applications of the Blue Cross & Blue Shield, RI, USA in onsite offshore global delivery model. Application support spans across various technologies involve legacy Mainframes, Client Server and Data Ware House technologies
+
+· Responsible for defect fix and enhancement activities planned for the applications Customer Incentive System and Loran.
+
+· Interact with business users, collect requirements, provide estimations, coding, conduct unit testing and system testing and implement the changes in production environment.
+
+· Analyze and assign work to offshore team members. Provide day to day guidance and help offshore team in completing the assigned work on schedule.
+
+· Work closely with various levels of individuals to coordinate, prioritize tasks and resolve any requirement/environment related issues. 
+
+· Review offshore deliveries and communicate with onsite production team for implementation activities.
+
+Project: Viper Front Store Inventory      
+
+
+
+
+Duration
+
+
+: Jan 2006 to Dec 2006 (12 Months)
+Client
+
+
+
+: CVS/Pharmacy, RI, USA
+
+Skill Set 
+
+             : Informatica 7.1, Oracle 9i, Unix Shell Scripts
+
+Tools
+
+
+
+: TOAD, Ctrl M, MS Project
+
+Role
+                                    : Onsite Coordinator & Tech Lead 
+
+CVS/Pharmacy is one of the leading retail store chain in USA. Viper is a reporting application provides reports to track inventory details of warehouses and CVS/Pharmacy retail stores. This application involves Data Extraction, Transformation, and Loading processes using Informatica 7.1, Mainframe, Flat files and Oracle Technologies. Ctrl M scheduler is used to schedule Shell Programs calls internally Informatica workflows.
+
+· Acts like an interface with the client and offshore technical teams. Requirements collection, analyze, translate the requirements into ETL mapping specifications.
+
+· Develop Informatica mappings; Identify common tasks, design and develop re-usable transformations and mapplets.
+
+· Analyze source data, interact with business analysts and resolve data quality related issues.
+
+· Conduct thorough analysis of existing informatica mappings and suggest modifications for performance improvement
+
+· Coordinate with database administrators and make data  ready for testing activities in different client environments
+
+· Develop / Modify Unix shell scripts to execute Informatica sessions.
+
+· Review offshore deliverables and provide feedback in case of deviation from the standards. Promote Informatica objects to client QA environment and production environments following the established processes.
+
+Project: Vanguard IT Operations
+
+
+
+
+Duration
+
+
+: Nov 2003 to Dec 2005 (26 Months)
+Client
+
+
+
+:Vanguard Car Rental, USA
+
+Skill Set
+
+             :Oracle 7.3, Sybase 11.5, Informatica, Business Objects         v5.1.7/6.1,Unix Shell Scripts
+
+Tools
+
+
+
+: PowerBuilder, TOAD, Autosys, OPAS
+
+Role
+                                    : Senior Developer
+Vanguard Car Rental Inc has numerous car rental stations across USA, Latin America, Canada, Europe and Asia. Alamo National Car Rental was taken over by Vanguard and chosen Perot Systems as its IT partner. Perot Systems was responsible to provide IT services from offshore centre for a set of applications.
+
+· In the initial stages of applications setup at offshore, coordinated with system support group and set up applications environment at offshore for connecting to on site applications, databases, Unix boxes, and NT workstations over the VPN. 
+
+· Responsible for production support activities in multiple technology environment involving Oracle, Sybase, Informatica, Business Objects, Unix shell programs.
+
+· Initially involved in preparing Service Management Plan for the project.  
+
+· Monitor daily/weekly/monthly scheduled Autosys batch jobs and correct in case of failures.
+
+· Monitor Informatica batch jobs and data loads. Defect fix of Informatica mappings.
+· Participate in on call support activities, resolve business related issues and ensure SLA compliance
+Project: Alamo National Car Rental Application Transition
+
+
+
+Duration
+
+
+: Jan 2003 to Oct 2003 (10 Months)
+Client
+
+
+
+: Alamo National Car Rental Corporation, US
+
+Skill Set   
+
+             : Oracle 7.3, Sybase 11.5, Unix Shell Scripts
+
+Tools
+
+
+
+: PowerBuilder, TOAD, Autosys
+
+Role
+                                       : Systems Analyst
+
+ANC, one of the leading companies in US car rental industry is the parent company of Alamo Rent a Car and National Car Rental. Alamo brand targets the needs of the leisure market customer, while National brand targets the needs of the business market customer.
+· Study the fleet operations applications and prepare System Assessment Document for applications TuneUp, Alamo Titling System and Accident Report Expense System. 
+
+· Understand and document the Application purpose, Application Physical /Logical Architecture, Internal/External processes, Batch Jobs, Application Modules, Database Repository, Security concerns/issues, Third Party considerations, Release Processes/Schedules, Support for Manual Processes and current Service Level agreement
+
+· Talk to applications technical development team and understand the development practices and coding standards.
+
+· Discuss with business users and document the business flow, record the future expectations of the business team
+Project: HEM (Home Event Management) Application Migration & Support
+Duration
+
+
+: Nov 2001 to Dec 2002 (14 Months)
+Client
+
+
+
+: Cendant Mobility, USA
+
+Skill Set  
+
+              : Oracle 8i, Sybase 11
+Tools
+
+
+
+: Power Builder 5.0, Power Builder 8.0, TOAD, Rapid SQL
+Role
+                                       : Senior Developer
+HEM consists of eight different applications, used while re locate employees of Cendant Mobility’s client from one place to another. This application is used to gather information about customer requirements for selling the old house or buying, renting house or making arrangement for a temporary house in new place
+
+· Migrate existing Power Builder application modules from PB5 to PB 8.0. and provide support 
+· Prepare technical approach document for migration and get approval from the client.
+
+· Identify all front end and back end objects and provide detail steps to be followed for migration
+
+· Explain the migration changes and provide inputs to testing team while preparing test cases
+
+· Help team members in resolving technical related problems
+
+· Provide support activities, defect fix and resolve business user  queries for the existing application versions
+
+Project: CASH (Cendant Achieving Servicing Heights) & C2C (CASH to CASH)
+
+
+
+Duration
+
+
+: Dec 1999 to Oct 2001 (23 Months)
+Client
+
+
+
+: Cendant Mortgage, USA
+
+Skill Set 
+
+             :Oracle 8i – SQL, PL/SQL, Pro*C, Unix Shell Script,           PowerBuilder,     CFC (Cendant Foundation Classes)
+Tools
+
+
+
+: TOAD
+
+Role
+                                    : Onsite Coordinator & Team Lead
+CASH is an automated, event-driven system that controls and expedites the mortgage – lending process from the initial marketing campaign through the delivery of the completed loan package. The CASH system provides the ability to process wholesale, retail, and correspondent mortgage loans while supporting the business requirements of the Finance, Operations, Secondary Marketing, Teleservices and Underwriting Departments.
+
+The CASH to CASH application is developed in Pro*C and Unix environment. The purpose of this project is to create a mini database environment similar to the existing production database which is used for training purposes. Prepare and Load Oracle database tables with compatible data, Replace secured data with dummy data are the main key features of this application.
+
+Onsite Activities:
+
+· Requirements collection, Analysis of the requirements, Communicate and Make offshore team understand the requirements.
+
+· Review suggested solutions prepared by the offshore team members and provide feedback.
+
+· Take up critical code development tasks and develop source code at onsite 
+
+· Prioritize offshore activities based on the client’s requirements and track the activities for timely delivery.
+
+· Verify and promote quality deliverables to on site production environment
+
+· Review design documents prepared by the offshore team for development projects and getting signoff from Onsite Business team.
+
+· Help Offshore management / Onsite higher authority in preparing Project Status reports.
+
+Offshore Activities:
+
+· Requirements analysis and discuss with onsite counterpart to resolve any requirements related issues.
+
+· Develop Oracle PL/SQL code, Proc*C, Unix shell programs and provide technical guidance to team members 
+
+· Update onsite counterpart about offshore development activities and plan for future activities
+
+Project:  PASS (Security Workbench) 
+
+Duration
+
+
+: Aug 1999 to Nov 1999 (4 Months)
+Client
+
+
+
+: Cendant Mortgage, USA
+
+Skill Set    
+
+             : Oracle 7.3 - SQL, PL/SQL, Sybase 11
+
+Tools
+
+
+
+: Power Builder, TOAD, Rapid SQL
+
+Role
+                                    : Senior Developer
+PASS deals with Cendant Mortgage application and user maintenance. Cendant Mortgage IT department develops and maintains various applications for their daily business. Using this application, users are assigned to different applications for different environments. Based on the role of the user, user privileges and functional access to applications are assigned by the application
+· Understand the given requirements and prepare approach document specifying the suggested code changes.
+
+· Discuss with requirements team to resolve requirements related issues; Develop source code using Oracle and Sybase following the approved approach document.
+
+· Co ordinate with testing and production teams for new releases of the application.
+
+· Involve in PASS application support activities, create new users and assign requested privileges to various Cendant Mortgage applications
+
+· Prepare and run reports for adhoc requests comes from Cendant Management
+Project:  LSA(Licensing System for Animals)
+
+Duration
+
+
+: Mar 1998 to Jul 1999 (16 Months)
+Client
+
+
+
+: Ministry of National Development, Singapore
+
+Skill Set  
+
+             : Oracle 7.3 - SQL, PL/SQL
+
+Tools
+
+
+
+: PowerBuilder 5.0, TOAD, Erwin 3.5,MS Project 95
+
+Role
+                                       : Team Lead
+Licensing System for Animals deals with maintaining license information of pets for Animal welfare and Control of Primary Production Department maintained by Ministry of National Development, Singapore. The system contains various modules admin, registration, renewals, cancellation, compound, and reports.
+Offshore Activities:
+
+· Prepare High Level and Low Level Design documents based on the Requirements Specification document and get client approval.
+
+· Participate in database design activities.
+
+· Conduct technical training and evaluate team members.
+
+· Involve in Development activities and prepare base classes. Conduct code review and provide technical guidance
+
+· Assign and Track team member activities, ensure activities are running as per the schedule.
+
+· Prepare documentation on application key features and provide to end users.
+
+Onsite Activities at Ministry of National Development, Singapore:
+
+· Participate in User Acceptance Testing activities conducted at client location. Help client testing team to understand the system and resolve functional related issues. Migrate existing DB2 data to newly developed Oracle tables using SQL*Loader.
+
+· Record UAT reported issues and assign to offshore team members. Communicate with offshore team and resolve the issues in minimum possible time period.
+
+· Verify and apply patch releases to onsite UAT environment; Conduct application training to end users
+Organization/Company name: SE Technologies, Bangalore
+Position / Designation:  Associate Software Engineer
+
+Date:   From May 1996 to March 1998               
+
+Projects: SEGA (SE Global Administration)
+Duration
+
+
+:  May 1997 to Mar 1998 (11 Months)
+
+Clients
+
+
+
+:  SE Technologies inc. U.S.A
+Skill Set  
+
+             : Oracle 7.3 – SQL, PL/SQL
+Tools
+
+
+
+: PowerBuilder 5.0, PVCS
+
+Role
+                                       : Associate Software Engineer / Developer
+SEGA - SE Global Administration is a software and consulting projects administration application. It enables SE personnel to maintain and track customer details; project details, generates sales forecast and invoicing reports for on-going projects and define goals for employees
+· Understanding the requirements and develop programs as per the coding standards using Oracle SQL, PL/SQL and PowerBuilder.
+
+· Analyze, Debug and Fix the reported defects.
+
+· Conduct unit testing for the developed code and record the results. 
+
+Projects: TRIALS (Clinical TRIALS Management System)
+Duration
+
+
+:  May 1996 to Apr 1997 (12 Months)
+
+Clients
+
+
+
+: Smithline Beecham, Johnson Research Foundation, Pfizer, USA
+
+Skill Set 
+
+             : Oracle 7.3 – SQL, PL/SQL
+Tools
+
+
+
+: PowerBuilder 4.0, PVCS
+
+Role
+                                       : Associate Software Engineer / Developer
+TRIALS, a comprehensive management system designed to control all aspects of the clinical study from protocol design to NDA submission and approval of the drugs. It provides a framework to improve the effectiveness of clinical trials with early identification of potential problems and bottlenecks
+· Understand the requirements specified in the requirements document and develop programs as per the coding standards using Oracle SQL, PL/SQL and PowerBuilder.
+
+· Analyze, Debug and Fix the reported defects.
+
+· Participate in planning meetings and provide input for programming estimations.
+
+· Conduct unit testing for the developed code and record the results. Help Quality and Documentation teams while preparing test cases / product documentation
+

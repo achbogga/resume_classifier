@@ -1,0 +1,129 @@
+Sunaina Arora
+Email Id: asunainaus@gmail.com	
+Contact No: 214-516-9649
+
+PROFESSIONAL SKILLS: 
+· Over 7 years experience in Information Technology as Software Quality Analyst. I have diverse experience in Automation Testing and Manual Testing.
+· Experienced in testing web-based applications using PHP5, HTML, JavaScript, Jquery, and CSS & AJAX. 
+· Proficient knowledge in all phases of the Software Development Life Cycle including scoping, design, prototyping, unit test, functional test, integration test, system test, and user acceptance testing.
+· Proficient in manual and automation testing processes.
+· Expertise with WAMP 2.2.11, LAMP Testing.
+· Good Experience in estimation of test effort and coordinate test schedules with overall project schedules. 
+· Experience in Defect Management Tracking, Test Execution, documenting and analyzing test results.
+· Strong testing experience in Client/Server environment and PHP based web Applications.
+· Proficient in review of all kinds of testability documents like requirement specification, functional documents, conversion of the requirements documents into detailed test plan, test cases and test scripts.
+· Expertise in Problem Solving and Tracking Bug Reports using Bug Tracking Tools.
+· Good experience in Front-end Technologies (JavaScript, XML, CSS, JSP, XPATH and HTML).
+· Experience with Fast paced environment like Agile Methodology.
+· Develop use cases, user interface specifications, and user requirement specification documents.
+· Experience on Writing complex SQL queries and PL/SQL procedures to extract data from various source tables to perform database testing.
+· Developing and maintain Test scripts, analyzing bugs and interacting with development team members in fixing the defects.
+· Expertise in Manual and Automated Correlations to Parameterize Dynamically changing Parameters values.
+· Quick Learner and adapt to the new tools and technologies and evaluate their test applicability.
+· Team Player with good technical, analytical and communication skills.
+
+Technical Skills:
+
+	Testing Tools
+	Quality Center, QTP, Selenium, Soap UI, Win Runner. Quick Test Pro 8.0/8.2,Jira
+
+	Defect Tracking
+	Defect Tracker, Bugzilla , Test Tracker  etc.
+
+	Databases
+	SQL Server 2008/2005/2000, Oracle 10g/9i/8i and MS Access.
+
+	Web Technologies
+	 XML, HTML
+
+	Servers	
+	Web logic, Apache, LAMP, Wamp
+
+	Languages	
+	C, C++, C#, SQL, PL/SQL, Java, PHP, Java Script.
+
+	Operating Systems
+	Windows 7/Vista/XP/2000/NT, UNIX.
+
+	Methodology
+	Waterfall , Agile, Black box, Gray box
+
+
+
+Educational Qualifications:
+
+· Master of  Business Administration, India
+· Bachelor of  Computer Science, India
+
+Professional Experience:
+
+Bank of America		 								Jan 2013 – Present
+Sr. QA Analyst - Home Loans and Insurance Technology
+
+Bank of America is an American global financial services company, the largest bank holding company in the United States, by assets, and the second largest bank by market capitalization. Bank of America serves clients in more than 150 countries and has a relationship with 99% of the U.S. Fortune 500 companies and 83% of the Fortune Global 500.
+Bank of America is rapidly making changing to its Home loans and Mortgage system. The center of this system is legacy Countrywide’s application: EDGE. I work on implementation of Project change requests (PCRs) on EDGE as well as its interaction with all the other upstream and downstream systems.
+
+Responsibilities:
+
+· Worked as QA Lead directly under TDM/PTM to help lead the enterprise level release management system testing while enforcing Bank of America’s policy and procedures guidelines.
+· Lead Multiple cross system QA projects with successful on time implementation in addition to regular EDGE projects.
+· Followed waterfall methodology for larger releases and Agile methodology for interim releases to smoothly guide the SDLC process for the implementation of the projects.
+· Facilitated meetings between Business Analysts, Developers and QA team to resolve issues regarding the requirement updates and/or changes in the database fields.
+· Developed master and integrated test plans, scripts and helped in execution for system wide testing.
+· Managed offshore resources in India to ensure that the testing effort stays on track of other integrated systems linked with EDGE like iOriginate, Houdini, Mustang, Status Mart, BPS, PLS etc.
+· Performed backend testing using SQL queries in visual FoxPro. 
+
+Environment: Web based Services, Quality Center, Oracle, and SQL
+
+Mr. Jim's Pizza 										            Jan 2011 – Nov 2012
+ QA Analyst (PHP)
+
+QA testing in an Adaptive environment for Mr. Jim's Pizza .com cart and checkout ordering system, 'Build Your Own Pizza', and order & payment processing. Testing new-feature and Regression scenarios & test cases using Quality Center and TFS.
+
+Responsibilities:
+
+· New features implemented and tested: 'Free Delivery by ShopRunner' promotion, pre-order-processing, lightboxes for adding 'additional items' and 'Free Delivery by ShopRunner' promo, updated gift card validations, order summary redesign and item calculation, dynamic coupon entry and error handling.
+· Involved in Acceptance Criteria definition, and test planning, acting as a liaison between the Business and Development minimizing defects and mitigating risk.
+· Test the application using PHP, MySQL, Apache, HTML, JQuery, and AJAX.
+· Involved in Testing Client-side and Server-side validations using Jquery, Ajax and PHP.
+· Worked with the User Experience team and UAT group to organize life cycle responsibilities.
+· Daily progress Standup’s and Defect Meetings to review critical issues, blockers, and assess the backlog.
+· Pairing with Developers to refine expected results for new features, defects, and bugs; installing applications used for debugging and setting up clean environments for testing, updating test cases to reflect detailed Developers instruction and test data setup.
+· Verifying new feature functionality (lightboxes) from multiple entry points, multiple access levels (registered/unregistered), multiple browsers (IE, Firefox, Safari), uncached/cached, with varying loads and user/cart/product setups.
+· Managing test cases with Excel, QC, defect & bug tracking with Bugzilla.
+
+Environment: Quality Center, Test Manager, Bugzilla, Windows XP, Excel, PHP, PL/SQL , PHPMyAdmin, SQL, HTML, CSS, XML,
+Gobookshopping										Feb 2008 – Dec 2010
+QA Tester
+
+It is an E-Commerce Retail service portal primarily used by the end users for buying books and managing their shopping cart. The application has client and admin Modules. In the client module there were various features like categorization, search menu, ordering and payment methods.  Whereas admin module helped in managing the entire back-end activities like members, items, shopping process etc.  
+
+Responsibilities:
+
+· Involved in understanding the Requirements and functional specifications.
+· Involved in cross-functional test planning and test execution meetings.
+· Involved in warehouse and fulfillment systems.
+· Conducted multi browser testing on IE, Netscape, Firefox, Safari.
+· Participated in the daily status updates with IT team and weekly status updates with Project Team.
+· Executed tests, recorded test results and Prepared Test Reports.
+· Identified and tracked any defects to full resolution.
+
+Environment:  Quick Test Pro 9.5,10.0, Quality Center  9.2,9.5, MS Office, Oracle, Web logic, XML, UNIX, PHP.
+
+Bajaj Finance, INDIA										Jan 2006 – Jan 2008
+PHP Developer
+
+This system will computerize and tracks all the procedural steps involving in applying the loan by desired consumer after selecting the product, processing the loan and approving/rejecting loan, loan repayment tracking and generating system reports as required by management
+
+Responsibilities:
+
+· Analysis and gathering functional knowledge of the existing system.
+· Created sessions and cookies.
+· Coded PHP to retrieve the data from the databases, presenting to the browser and vice versa.
+· Injected MySQL queries into HTML pages using PHP.
+· Configured and maintained web server software, including Apache, PHP and MySQL.
+· Used WAMP server.
+· Extensive use of $_GET and $_POST arrays.
+· Involved in end to end implementation of project.
+
+Environment: PHP, JavaScript, HTML, MySQL, Dreamweaver 8.0

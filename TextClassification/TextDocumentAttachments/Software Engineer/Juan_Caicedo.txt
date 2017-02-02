@@ -1,0 +1,139 @@
+
+Juan David Caicedo
+
+
+
+
+
+
+Executive Summary:
+· 5 years of experience working with Java/J2EE technologies on various platforms and application servers.
+
+· Experience designing front end components using CSS and JavaScript.
+· Good working knowledge of Struts 1.3 Framework, Apache Struts Tag Libraries(struts-html.tld, struts-bean.tld, struts-tiles.tld, struts-logic.tld) and Struts tiles
+
+· Developed front end modules using Spring MVC.
+· Experience in coding of business components, with cutting edge technologies like Java, Enterprise Java beans, Java Server Pages, XML, JDBC, Servlets, Spring and Hibernate.
+· Intermediate level skills in EJB 3.0 architecture & its implementation in the Business tier.
+
+· Experience in using Object Relational Mapping tools such as Hibernate with JPA support.
+
+· Experience in using Dependency Injection and Aspect Oriented Programming (AOP) techniques provided by Spring Framework.
+
+· Working knowledge of Web Services and its components such as WSDL, SOAP and UDDI.
+· Coded Ant scripts for building EAR and deploying the application in WebLogic 11g Server
+· Experience in RDBMS Design and SQL commands with working knowledge of implementing database joins and managing referential integrity.
+Education:
+Bachelor of Arts, Honors in Linguistics, University of British Columbia
+Certification:
+BrainBench- Java 6 fundamentals
+Technical Skills:
+	Operating Systems
+	Windows XP/Windows 7/8, Mac OS X
+
+	Languages
+	Java, Python, JavaScript,  HTML, CSS 
+
+	Web Technologies
+	Spring 3.x,  Spring MVC, Hibernate 3.x (JPA Support), Web Services,  Servlets 2.1,  JSP 1.2, Struts 1.3.10, JUnit
+
+	Version Control
+	Subversion
+
+	Development Tools
+	JDK 6, Eclipse Helios, 
+
+	Database
+	Oracle 11g
+
+	Application Servers
+	Weblogic 10.x, Tomcat 7.0 and JBoss 6.1
+
+	Enterprise Technologies
+	EJB 3.0 with JPA support, SOAP/REST Webservices
+
+
+Multivision Inc, Fairfax , VA
+ 
+
+
+
+
+
+August 2012 – Present
+
+Software Developer
+
+Payroll Management System
+Developed a payroll management system that was integrated into an electronic human resource management system which enables the manager to view employee payroll information through an intranet based web interface. The application enabled the manager to set tax policies on employees, update employee medical and life insurance premiums and approve or deny reimbursement claims submitted by employees. The employees can login to view their payroll information and submit reimbursements claims. 
+
+Responsibilities:
+· Implemented validations and tiles framework using MVC based Struts 1.3 framework
+· Incorporated various design patterns including Front Controller, Factory, Business Delegate, Session Fascade, Data Access Object.
+· Developed a SOAP based webservice to expose certain functionalities of the system for remote access.
+
+· Configured spring beans in an external configuration file to implement inversion of control through setter injections.
+
+· Achieved version control using Subversion.
+
+· Developed the persistence layer using Hibernate ORM tool implementing JPA annotation support
+· Deployed EAR and WAR files using ANT scripts on the WebLogic 11g application server
+
+Environment: Java 6, J2EE, Spring, JSP, Struts 1.3 framework, WebLogic Server, Oracle 10g, Hibernate 3.6, Eclipse, Ant, UML and Design Patterns.
+
+Alpha Industries, Chantilly, VA
+
+
+
+
+
+
+June 2010 – July 2012
+
+Software Developer
+
+Supplier-Retailer Integration and Retailer Automation
+
+This system enables a retailer to record transactions made between the retailer and the supplier or customer. The retailer is able to view all transactions made or specific transactions made within a time range or by a user.  The retailer is also able to add new transactions and approve or deny requests from customers to return previously purchased items through a web interface. The customer can also login, purchase an item, view his/her transaction and submit requests to return items to the retailer.
+Responsibilities: 
+· Implemented Spring MVC framework to develop the front end of the application.
+
+· Developed stateless session beans and message driven beans using EJB 3.0 specification to implement distributed business functionalities.
+
+· Integrated DAO layer with Hibernate API using annotations support provided by JPA
+· Incorporated various design patterns including MVC, DAO, Business Delegate and Front Controller.
+
+· Implemented validations using Spring Forms validation framework and tiles using Apache Tiles.
+· Integrated Java Mail API for sending mails to the retailer when a request for a return is submitted and emailing the customer when the return request is either approved or denied.
+
+· Deployed the application on WebLogic 10.3 application server
+· Achieved version control using the subversion eclipse plugin.
+Environment: Java 6, J2EE, Spring MVC, EJB 3.0, Hibernate 3.6, Eclipse, Spring 3.1, WebLogic 10.3, JSP, Oracle 10g.
+
+Suntiva Executive Consulting Falls Church, VA
+
+
+
+            August 2008 – May 2010
+
+Software Developer
+Developed a banking application that allows customers to perform transactions on their bank accounts that is stored on a database through a web interface. These transactions include withdrawing money from their account, depositing money into their account, closing their account or opening a new account.
+Responsibilities:
+· Used Struts 1.3 framework to develop front end making use of struts form validations and tiles framework.
+
+· Designed web interface with HTML, CSS and Javascript.
+
+· Incorporated the MVC and DAO design patterns
+
+· Developed business logic using java based pojos. 
+
+· Developed the data access layer using Hibernate to persist records into Oracle database.
+
+· Used SQL triggers to maintain account balance values when transactions are made on Oracle database.
+
+· Deployed the application on a Tomcat Web Server.
+
+· Achieved version control using Subversion’s eclipse plug in.
+Environment: Java, JSP, JavaBeans, Hibernate, HTML, JavaScript, Oracle, Tomcat Web Server, Eclipse, Struts 1.3, CSS.
+
+

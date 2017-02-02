@@ -1,0 +1,87 @@
+
+SRIJAN LACOUL 
+http://www.linkedin.com/in/lacoul/ 
+
+2801 Princeton St, Apt #203 (608) 556-1599 
+Fort Worth, TX 76109 srijan.tcu@gmail.com 
+ 
+
+ 
+
+EDUCATION 
+ 
+
+Bachelor of Science in Engineering with Emphasis on Electrical Engineering, December 2013 
+Texas Christian University, Fort Worth, TX 
+ 
+
+ RESEARCH EXPERIENCE 
+ 
+
+TCU Department of Engineering – Fluid Dynamics Researcher 06/2012 – 06/2012 
+
+ Scripted 900-line code on 4GL MATLAB computational software 
+
+ Programmed Monte Carlo simulations of heat transfer characteristics of nanoparticles in viscous fluids. 
+ 
+
+TCU Department of Physics – Optics/Electronics Researcher 06/2012 – 12/2013 
+
+ Prepared and studied nanocomposite materials for surface-related optoelectronic properties 
+
+ Programmed LABVIEW software Virtual Instruments for data acquisition and hardware control 
+ Publication: Luminescent Properties of Surface Functionalized BaTiO3 Embedded in PMMA  
+
+  
+WORK EXPERIENCE 
+
+ 
+Aerospace Optics, Inc. – Senior Design Software Team 08/2012 – 08/2013 
+
+ Collaborated and liaised with the industry customer and a team of 15 engineers on a $50,000 engineering project 
+
+ Designed and delivered a testing assembly to perform electromechanical tests to military specifications 
+
+ Programmed and presented hardware control and data acquisition solutions through LABVIEW Virtual Instruments 
+
+ Compiled documentation and profiling of all procedures and components 
+ 
+
+The Study Center, Inc. – Researcher and Developer 06/2012 – 09/2012 
+
+ Collaborated with the industry customer for a biomedical engineering product design 
+ Scripted complete Arduino code for analog-to-digital sensing of EMG signal for triggering keystrokes 
+
+ Designed and built a human-machine interfacing solution through an Arduino microcontroller 
+ 
+TCU International Office – Special Projects Coordinator  08/2011 – 12/2013 
+
+ Designed, and managed logistics and solutions for weekly ‘Kinomonda International Film Series at TCU’ 
+
+ Coordinated social media, and technical support for programs and events for 250+ people 
+ Managed strategic planning and forecasting of events for TCU International Orientation 2011-13 
+
+ Resolved customer service queries and complaints in-person and over the telephone 
+ 
+
+ PROFESSIONAL SKILLS 
+ 
+
+ Research, design, development, circuit schematic design, 3D renderings, programming, simulating 
+
+ PowerWorld Simulator, NI LABVIEW, MATLAB, PSPICE, Microsoft Office Suite, Autodesk Inventor 3D CAD 
+ Language proficiency: Professional - English, Hindi, Nepali; Elementary – Spanish 
+
+ Elective courses: Digital Signal Processing, Power Systems I-II 
+ 
+
+HONORS AND CERTIFICATIONS 
+ 
+
+ EIT certification from NCEES having passed the FE (Electrical) exam 
+
+ 4-year Faculty merit scholarship and full tuition scholarship from Texas Christian University 
+
+
+
+

@@ -1,0 +1,381 @@
+
+
+  Nandini Rajan
+
+
+Nandini Rajan
+Email: rst.nandini@gmail.com, Phone: 404-913-3462
+Experience Summary 
+· 1 years 5 Months of industry experience in the following areas 
+
+· Spring Framework
+
+· Agile/Scrum Development
+
+· Java/J2EE  concepts
+
+· Oracle SQL, PostgreSQL
+
+· Vaadin Technology
+
+· Unix/ Linux concepts
+
+· Selenium, TestNG and Robot test concepts
+
+· Junits , Jmock and JSUnits.
+
+· Worked on Test Automation ,Unit Testing and  Functional Testing.
+
+· Have a 3 months of experience in handling PET(Performance Evaluation tests ) & Load tests for the Release.
+
+· Result-oriented approach with good analytical, problem solving , inter-personal and team skills
+· Worked in a multi-cultural teams and flexible to fit in to any kind of working environment, teams
+Technology
+
+Qualifications
+
+(In chronological order starting from the most recent)
+
+	Degree and Date
+	Institute
+	Overall Percentage
+	Major and Specialization
+
+	Bachelor of Engineering, <2008-12>
+	East Point College of Engineering &Technology,Bangalore
+	77.01*
+	Information Science & Engineering
+
+	12th Standard
+	Sri SaiSatyanarayana PU college,Bangalore
+	73.83%
+	Physics, Chemistry, Mathematics & Biology
+
+	10th Standard
+	Sri Venkateshwara English School,Bangalore
+	85.24%
+	
+
+
+Achievements
+· Won 3rd place in College Level Technical quiz at PRATIBHA-2011,National Level Technical Symposium 
+
+· Secured 9th rank in Visveswariah Technology University for 5th semester BE.
+Assignments
+The details of the various assignments that I have handled are listed here with latest assignment.
+	Project
+
+ :
+	TEM ( Telco Elasticity Management)
+
+	Client
+	Vodafone
+
+	Period
+
+ :
+	March – December 2014
+
+	Position
+ :
+	Team Member
+
+	Responsibilities:
+	As a Team Member  was responsible for the following activities: 
+
+· Coding.
+
+· Coding of UNIX , DB components  and merger activities
+
+· Writing Unit tests to cover 100% code written covering all positive and negative scenarios.
+
+· Working on JAVA standards by running sonar on the code written.
+· Reviewing the code done by other peers
+· Developing Test cases and test scenarios for the application
+
+· Automating the TestCases.
+
+· Testing the code by running the test cases
+
+· Fixing the bugs and performing Regression tests.
+
+	The Project
+ :
+	TEM (Telco Elasticity Management) was a Performance Monitoring project that collected Performance Measurements of Network Elements through a Telnet or REST call and processed that data to make decision. 
+
+TEM had support to multiple network element.It interacted with the network elements and made a decision of either adding/powering on a VM to manage the high performance or decreasing a VM / powering off a VM incase of it not needed. The power off and on of VM where performed through a 2 way cloud call. 
+
+TEM acts as an interface for an operator to interact between the network elements and cloud for Performance management by taking some decision inputs from the operator. It was also developed with an intelligence to analyse the history pattern and predict a decision.
+
+	Operating 
+ :
+
+System
+	Windows 7
+
+	Languages
+ :
+	Java, Javascript
+
+	Databases
+	PostgreSQL
+
+	Special
+
+ :
+
+Software
+	Eclipse (with work bench), JDK 1.6, PostgreSQL ,SVN sub version, Apache Tomcat, Jboss, NetAct( NSN CAPS management System ), C4C(NSN Cloud framework).
+
+
+
+	Work location :
+	Bangalore ,India
+
+
+Training Attended
+	Year, Month, 
+	Title
+	Location
+	Organized By
+
+	July 2012 – August 2012
+	Initial Training Program 
+Programming in Java.
+
+Advanced J2ee concepts.
+
+Agile Framework.
+
+Sonar.
+
+MySQL.
+
+Working in teams effectively
+
+Effective technical writing
+
+Personal grooming
+
+Effective Presentation
+
+	Bangalore, India
+	Nokia Solutions & Networks
+
+	January 2013
+	Unit Testing
+
+Jmocks,
+
+Stubbing.
+	Bangalore, India
+	Nokia Solutions & Networks
+
+	October 2013
+	Basic concepts of Unix and Shell Programming
+	Bangalore, India
+	Nokia Solutions & Networks
+
+	July 2013– November 2013
+	Clean Code Training on Java standards 
+
+· writing code which is easily understandable and  serves a purpose of documentation too.
+	Bangalore, India
+	Nokia Solutions & Networks
+
+
+Training Conducted
+	Year, Month, 
+	Title
+	Presented To
+	Location
+	Organized By
+
+	August 2013
+	Unit Testing
+
+Jmocks,Stubbing.
+
+	NSN Colleagues
+	Bangalore, India
+	Nokia Solutions & Networks
+
+
+Career Profile
+(List the companies you have worked with, recent ones first)
+
+	Dates
+	Organization
+	Role
+
+	December 11th 2013
+	Nokia Solutions & Networks
+	Software Engineer
+
+
+Personal Details
+	Date of Birth
+	19-11-1990
+
+	Nationality
+	INDIAN
+
+	Sex
+	Female
+
+	Marital Status 
+	Married
+
+
+Passport Details
+	Name as on Passport
+	Passport Number
+	Date of Issue
+	Expiry Date
+	Place of Issue
+
+	NANDINI RAJAN
+	Z2342655
+
+H4 Visa.
+	29/07/2011
+	28/07/2021
+	Bangalore
+
+
+Hardware�
+Software Products�
+Tools�
+Methods�
+�
+-NA-�
+Operating systems:
+
+Windows 
+
+Unix 
+
+
+
+Software/Languages: 
+
+Java 2 (JDK1.6),
+
+J2EE,
+
+JSP,
+
+JDBC,
+
+HTML,
+
+Java Script,
+
+CSS,
+
+ XML,
+
+JAXB,
+
+EJB,
+
+JNDI,
+
+Telnet,
+
+RestFul API.
+
+
+
+Frameworks/Other technologies :
+
+Spring Framework ,
+
+MVC Framework,
+
+JavaScript Framework(AUI),
+
+Vaadin Framework.
+
+
+
+Versioning Software:
+
+SVN Subversion
+
+
+
+Application Servers:
+
+Weblogic
+
+JBoss
+
+
+
+Web Servers 
+
+Apache Tomcat 4.x, 5.x, 6.x
+
+
+
+RDBMS:
+
+Oracle 9i,10g
+
+PostgreSQL 9.0
+
+�
+Eclipse ,
+
+Jenkins,
+
+Maven,
+
+Sonar,
+
+Web logic,
+
+Sub Version Tortoise, 
+
+PgAdmin,
+
+Jboss,
+
+IBM QC,
+
+WinSCP,
+
+Putty,
+
+Remote Desktop Session.
+
+
+
+�
+Requirement Analysis, 
+
+Use-Case Analysis,
+
+Design Analysis, 
+
+Unit Testing and System Testing,
+
+Code review and optimization,
+
+Code Release,
+
+Production Support.
+
+
+
+�
+�
+ 
+
+
+
+
+
+Page 5 of 5
+

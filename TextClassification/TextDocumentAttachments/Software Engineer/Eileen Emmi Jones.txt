@@ -1,0 +1,62 @@
+Eileen Emmi Jones
+(785) 979-2129 
+eileenemmijones@gmail.com
+
+
+Education
+	Bachelor of Arts in Computer Science – Wichita State University
+	Bachelor of Fine Arts – Wichita State University
+	Studies at UCLA, California State University at Los Angeles
+
+Summary of Skills and Experience
+HTML5
+CSS3
+PHP
+ColdFusion
+Java, JSP (intermediate)
+C (intermediate)
+Perl
+JavaScript, JQuery, AJAX, JSON, SOAP (consumer), XML
+mySQL, Oracle, Postgresql, SQL, SQL Tools, SQL Developer, database design
+Adobe Creative Suite (Dreamweaver, Photoshop, Illustrator)
+Web services, API, YouTube API, Google API
+ImageMagick, JPGraph
+DynamicPDF
+SVN, CVS, TortoiseSVN
+Bugzilla, JIRA
+UNIX, LINUX
+Eclipse IDE
+Android SDK
+XCode
+JQuery Mobile 
+Drupal (beginner+), Expression Engine (intermediate)
+Object oriented design
+Project management
+All phases of the software development life cycle
+Technical writing
+Business analyst
+Testing and quality control
+Web design, graphic design, logo design
+Agile, Scrum, Waterfall 
+Mastering native mobile app development (iOS, Android, hybrid)
+Learning design patterns
+
+
+Work Experience
+
+Systems Analyst / Web Applications Developer, University of Kansas (October 2004 to present)
+· KOLAR: Developing web-based database applications for KOLAR, enabling on-line reporting and filing of forms for the Kansas Corporation Commission and other departments. ColdFusion, Oracle, JavaScript, AJAX, Java, Photoshop, Adobe Acrobat Pro, DynamicPDF, CSS, HTML, web services, XML, ImageMagick, TortoiseSVN, SQL Developer. 
+· Walters Digital Library: For the Kansas Geological Society and Library, developed a web-based database application dedicated to the managing, sharing and sale of well data and digital logs and documents. Solely responsible for all aspects of the project. The highly profitable website is utilized by several hundred oil exploration professionals via paid subscriptions. Currently tasked with developing mobile web app and and native mobile app versions. ColdFusion, JavaScript, JQuery, Java, JSP, Oracle, Adobe Creative Suite, CSS3, HTM5, TortoiseSVN.
+· ScienceCareerPath.org: Developed a public website dedicated to mentoring students considering graduate study in the sciences, featuring videos of interviews and a keyword-based online search capability. Developed an administrative side to add and manage videos and keywords. Enhanced and added web pages and web applications for the Office for Diversity in Science Training websites. PHP, JavaScript, AJAX, Flash animation, YouTube API, Oracle, Postgresql, Photoshop, Illustrator, CSS, HTML.
+· KSHS HRI: Contributed to development of Kansas State Historical Society Historical Resources Inventory, a public web-based database application. ColdFusion, Oracle. 
+· Department of Geology: Contributed to development of web-based database applications for the international community of earth scientists. ColdFusion, PHP, JavaScript, Oracle, Postgresql, Photoshop, ImageMagick, JPGraph, CSS, HTML, Google Maps API. 
+· Education administration: Designed, developed and supported web-based database applications for testing, scoring and reporting that were utilized by Kansas public schools. Developed a system for ordering test materials online. Perl, PHP, JavaScript, Postgresql, MySQL, Oracle, Photoshop, HTML, CSS, UNIX, LINUX. 
+Software Engineer, InSEI, Inc.  Idaho Falls, Idaho (2.5 years)
+· Developer and tester on a project for British Nuclear Fuels, LLC that automated the handling of nuclear waste. On a team of 25, worked on all phases of the software development life cycle. Oracle Forms & Reports, Oracle DB, ColdFusion.
+· Project manager and team leader for development of a web-based database application for a local home builder that automated all aspects of that business. ColdFusion, MySQL, HTML, CSS, Photoshop.
+Freelance Web Designer, Web Applications Developer  Idaho Falls, Idaho (5 years)
+Web design, web-based database application development, database administration, technical writing and editing. Working independently, managed all phases of the software life cycle. Developed websites for clients in publishing, travel, television, real estate, home building, education and other fields. Technical writing and editing for the Idaho National Engineering and Environmental Laboratory. As a volunteer, created and managed a publishing center at an elementary school where parent volunteers publish books from students’ writing using a cluster of Macintosh computers. ColdFusion, PHP, MySQL, JavaScript, JQuery, Photoshop, HTML, CSS, Expression Engine, Drupal, Java. 
+ Microcomputer Specialist, Princeton University  Princeton, New Jersey (2.5 years)
+For Information Services, Department of Computing and Information Technology, co-supervised nearly 100 student tech support analysts. Provided technical support, education and training to the university community. Taught workshops in the use of hardware and software systems. Served as liaison to the Music Department. Gathered requirements and performed needs analyses for faculty and staff and wrote recommendations for acquisition of hardware and software products and software development. Served on committee for the Princeton University Microcomputer Purchase Program. Participated in beta testing for Apple, Microsoft and other vendors. Developed documentation and training materials. Attended conferences. 
+Programmer/Analyst, Boeing Computer Services  Wichita, Kansas (3 years)
+Developed microcomputer-based database applications. Responsible for all phases of the software development cycle. Provided site-wide technical support via a hotline. Evaluated commercial hardware and software and made recommendations for adoption of corporate standards. Responsible for site-wide hardware and software recommendations for Macintosh platform.

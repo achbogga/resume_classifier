@@ -1,0 +1,241 @@
+
+ 						           
+
+221 Clarkson Executive Park, Ellisville MO 63011				Web: www.prijbs.com 
+Tel (510) 870-4113 Fax (636) 256-9064					Email: tejwanigulab@gmail.com 
+
+Gulab Tejwani
+Sr Dot Net Developer
+Availability: 2-3 Weeks’ Notice
+Visa Status: H1B from PRI Inc | Relocation: Willing to Relocate anywhere in US
+
+Profile: 
+· IT professional with experience over 6.6 years in Banking and Finance domain
+· Extensive functional and technical experience in Cash flow management and Settlements system
+· 6+ years of experience on wide range of Microsoft Technologies with primary focus on .Net technologies 
+· Experienced in all phases of the SDLC (Software Development Life Cycle) from analysis, design, development, testing, implementation and maintenance with timely delivery against aggressive deadlines
+· Experienced in C# .Net, Agile methodologies, WinForms, WCF, WPF XBAP, Installshield, Infragistics GUI charts, SQL Server, Oracle, XML, HTML, ASP.Net
+· Hands on experience in designing databases, writing & optimizing T-SQL
+· Having good experience in deployment tasks using Installshield, Automated Build Studio
+· Experience in implementing Agile methodologies like continuous build integration, test driven development using MS-Tests 
+· Experience in data driven unit tests 
+· Well versed with OOPS, SOA concepts
+· Expertise on Visual Studio 2008, 2010
+· Good understanding of Finance industry messaging standards like SWIFT
+· Excellent analytical and problem solving skills with strong communication and interpersonal skills
+· Working as individual contributor, completely involved in technical role
+
+TECHNICAL SKILLS 
+· Languages: C#,  PL/SQL 
+· Microsoft Technologies: .Net, WinForms, WPF XBAP, WCF, Web services, SQL Server
+· RDBMS: MS-SQL Server, Oracle
+· Deployment: Installshield, Automated build studio
+· Reporting tools:  Crystal reports
+· IDE Tools: Visual Studio 2008, Visual Studio 2010
+· Unit tests: NUnit, MS-Tests 
+· UI controls: Infragistics
+· Version Control tools: Perforce
+· Issue Tracking System: Serena, Jira
+· Microsoft certification: .Net framework 2.0 – Windows based client development applications
+
+Educational Qualifications:
+· Bachelor of Engineering in Computer Science from Pune University
+
+Employer Summary: 
+· Working with Wipro Technologies (for Barclays) Since Aug 2012 as a Module Leader
+· Worked with SunGard Global Technology as a Sr Software engineer Jul’ 2007  – Jul’ 2012
+
+Work Experience Summary
+
+Employer	:	Wipro Technologies
+Project Title	: 	Cadet and Cashflow matching
+Client		: 	Barclays Capital
+Duration	: 	Aug’ 2012 to till date
+
+Both Cadet and Cashflow Matching are products of the bank. Cadet is a tool for corporate actions and derivative expiries. This tool is for middle office users who manage and adjusts positions, do bookings for corporate actions.  Cashflow Matching (CFM) is a product which is used to match the cashflows with DTCC and provides this information to downstream settlement systems.  CFM also consists of a simple web application which queries various data sources and displays the data in a web page
+
+Technologies used: 	C#, Winforms, Windows Service, Multithreading, Oracle, ASP.Net
+Role: Developer
+
+Responsibilities: 
+· Analysing requirements and preparing high and low level design
+· Implementation/coding of enhancements in Cashflow matching using C# .Net 
+· Creating and enhancing existing stored procedures in Oracle for CFM and CFM web reports
+· Unit testing of implementation using MS-Tests
+· Followed the process of Incident management, change management and release management process.
+
+SunGard Adaptiv Operations                        
+Adaptiv Operations builds on SunGard’s strength and wealth of experience in the operations area, providing back office modules that offer organizations an unprecedented level of proactive operations management and process control from the front through to the back office. Adaptiv Operations provides consistency in trade processing, data management, control and compliance to user-defined standards.
+
+The Adaptiv Settlements module is an automated netting and payment processing module that helps institutions centralize their cash flow management and automatically control multiple payments streams, utilizing flexible user-defined netting rules to produce industry standard and customized payment advices
+
+Project Title		: 	Productization of SunGard Adaptiv Operations Web UI
+Role			: 	Developer
+Technologies used	: 	WPF, XBAP and Click Once deployment, C# .Net
+
+Scope of the Project:  Goal of this project was to enable a different SunGard front office product to make use of some of the backend screens of Adaptiv Operations. A POC was done for hosting Adaptiv Ops UI in WPF. Implement POC done for Ops Web UI and productize the WPF browser application. 
+
+Responsibilities:  
+· Understanding the work done in POC for WPF browser application project
+· Moving the POC code to LIVE production stream. 
+· Code changes to host the existing WinForms screens in WPF GUI 
+· Use click once deployment to deploy the dlls required for a particular WinForm screen
+· Fixed the performance issues related to displaying by Ngen
+
+Project Title		: 	Performance improvement for Adaptiv General Ledger module
+Role			: 	Developer
+Technologies used	: 	Visual Studio 2010 Performance Profiler, SQL Server Execution plans, 
+Database Indexes
+
+Scope of the Project: A perspective client having huge daily trades volume wanted to process at least 100,000 events per day by the General ledger module. Goal was to find performance bottlenecks and fix those, so that expected numbers could be achieved
+
+Responsibilities:  
+· Find out performance bottleneck for General ledger module’s system using VS performance profiler
+· Used VS 2010 Performance profiler to find out bottleneck which turned out to be database queries
+· Using SQL Server query execution plan understood which part of query was taking long and try to find out best database indexes which will help improve performance of queries
+· Analysed and fine-tuned the database indexes which helped achieve the system with expected numbers
+
+Project Title		: 	Continuous linked settlements (CLS) support for SunGard Adaptiv 
+Operations Settlements module
+Role			: 	Developer
+Technologies used	: 	C# .Net, WinForms, Infragistics, Windows Service, Multithreading, 
+MS SQL
+
+Scope of the Project: To reduce the counterparty settlement risk in case of FX deals by enhancing Adaptiv Operations settlements module with CLS support
+
+Responsibilities:  
+· Understanding what is CLS support and how it could reduce the counterparty settlement risk for Adaptiv Ops
+· Follow agile methodology to create and discuss the user stories
+· Enhanced the business logic of the settlements module to implement the workflow for supporting CLS
+· Corresponding changes in database tables, views, stored procedures to support new fields for CLS support
+· Demo the new functionality to business unit stake holders
+
+
+Project Title		: 	Dashboard Phase 2 of SunGard Adaptiv Operations
+Role			: 	Developer
+Technologies used	: 	C# WinForms, Windows Service, Multithreading, WCF, Infragistics chart 
+Controls, MS SQL
+
+Scope of the Project:
+Dashboard phase 1 was a module with which users got the power to visualize current state of system via various charting controls. Phase 1 was there in production but it lacked a feature of alerting. Dashboard phase 2 project required discussion with stake holders regarding how the alerts should look, when they should be raised etc. So the project was to create Alerts system for already existing Dashboard module of SunGard Adaptiv Operations
+
+Responsibilities:  
+· Understand existing workflow of Dashboard module
+· Discuss how the alerts could be defined in existing system using WinForms and Infragistics for the Key performance indicators
+· Implement using C# back end logic for processing of alerts and raise it via on screen display and Email alerts if it is raised
+· Made use of WCF for enhancing call-back channels wherein server informs client about availability of updated alerts data
+· Demo the new functionality to business unit stake holders and amendments upon request
+· Travelled to Philadelphia for implementation of this project
+
+Project Title	:  	Client Issues / Support
+Role		: 	Developer
+
+Scope of the Project: With lowest turnaround for solving the client issues which are showstoppers for their production. 
+
+Responsibilities:
+· Understanding the submitted tickets with the inputs/data from clients
+· Check for missing information required for solving the issue and if any communicate to the client
+· Analysis and code fix for to solve the issues as soon as possible
+· Creating the patch using automated processes and deliver the fix after some deployment testing of the patch
+
+Project Title	:  	Embed Crystal reports’ MSI as a setup prerequisite for Adaptiv Operations 
+Setup installer
+Role		: 	Developer
+
+Scope of the Project: Adaptiv Operations Reporting module used APIs of Crystal reports and these APIs were shipped as merge modules by Business Objects, before it was acquired by SAP. Later, instead of merge modules, APIs of Crystal reports were being provided as MSI installer
+
+Responsibilities:
+· Analysed the change in workflow of Installshield setup project
+· We had to install Crystal reports MSI as a setup prerequisite only if Reporting module was to be installed at end users machine
+· Changes in installer project to embed and execute the Crystal Report MSI as pre-requisite
+· Testing the changes in various possible combinations of setup components
+· Check for missing information required for solving the issue and if any communicate to the client
+
+Project Title	: 	R&D Project on Visual Studio 2010 for SunGard Adaptiv Operations 
+Role		: 	Developer
+
+Scope of the Project: It was kind of feasibility test as well R&D project for Visual studio 2010 before code base of SunGard Adaptiv Operations’ is migrated to latest version of .Net framework/IDE
+
+Responsibilities:
+· Create technical specification and provide an estimation of work
+· Work with developer to perform feasibility tests if all of the third party components are compatible with the new IDE
+· Work with developer for R&D for newer features of Visual Studio 2010/.Net Framework which could be useful for development of SunGard Adaptiv Operations
+· Help fix roadblocks if any during the project
+· Migration of entire code base of Adaptiv Operations to newer version of .Net framework
+· Got Kudos Award for work done during this project
+
+Project Title		: 	SunGard Adaptiv Operations Settlements SSI Effectiveness
+Role			: 	Developer
+Technologies used	: 	C# WinForms, Windows Service, Multithreading, MS SQL
+
+Scope of the Project: Enhance Adaptiv Operations settlements module with capability of ensuring that the settlement instructions assigned to settlements are valid and effective before releasing the payment for any settlement.
+
+Responsibilities:  
+· Understand existing workflow of settlements module related to use of settlement instructions in settlements and thus analyse the changes required in system by preparing user stories
+· Understand the workflow for releasing of payment advices for the settlements
+· Implement changes in settlements windows service and settlements processor, required and specified as in technical specifications for this project
+· Demo the new functionality to business unit stake holders
+
+Project Title	: 	R&D Project on Visual Studio 2008 for SunGard Adaptiv Operations
+Role		: 	Developer
+
+Scope of the Project: It was kind of feasibility test as well R& D project for Visual studio 2008 before code base of SunGard Adaptiv Operations’ code base is migrated to newer version of IDE
+
+Responsibilities:  
+· Analyse the use of third party development components by SunGard Adaptiv Operations code base
+· Perform feasibility tests if all of the third party components are compatible with the new IDE
+· R&D for newer features of Visual Studio 2008 which could be useful for development of SunGard Adaptiv Operations
+· Fix roadblocks if any during the project
+
+Project Title		: 	SunGard Adaptiv Operations Settlements Manual Netting
+Role			: 	Developer
+Technologies used	: 	C# WinForms, Windows Service, Multithreading, MS SQL
+
+Scope of the Project: Enhance Adaptiv Operations settlements module with capability of manually netting cashflows to create manual settlements.
+
+Responsibilities:  
+· Understand existing workflow of settlements module which automatically creates settlements according to user selected business rules and treatments
+· Provide a way to the users of manually netting the cashflows to create manual settlements
+· Implement changes using C# in settlements windows service and processor, required and specified as in technical specifications for this project
+· Changes in database to create new table, views, stored procedures
+· Changes in workflow for different way of handling manual settlements
+· Demo the new functionality to business unit stake holders and teammates
+· Work was appreciated by the client for this project
+
+Project Title		: 	SunGard Adaptiv Operation’s look and feel like MS Office 2007 
+Role			: 	Analyst, Developer
+Technologies used	:	C# WinForms, Infragistics Win Explorer Bar, Installshield
+
+Scope of the Project: Change the look and feel of Adaptiv Operations similar to Microsoft Office 2007
+
+Responsibilities:  
+· Make use of Infragistics control for look  and feel of Office 2007
+· Responsible for making change using C# to replace the existing tree like structure for navigation in Adaptiv Operations with Infragistics Win Explorer UI control
+· Make use of Infragistics Style sheet for the look of Office 2007
+· Include the newly referenced artifacts in installer project
+· Demo the work done to team mates and to the business unit stake holders
+
+Project Title	: 	Adaptiv Operations Autobuild and NUnit unit tests framework
+Role		: 	Developer
+
+Scope of the Project: Create in house utilities for continuous build infrastructure of Adaptiv Operations
+
+Responsibilities:
+· Understanding how MS Build could be used in command line
+· Create a utility called as Autobuild which will be used building of all of the .csprojs of Adaptiv Operations codebase
+· Autobuild would make use of MSBUILD for building of projects
+· Creation of unit tests framework. Made use of NUnit in command line mode for execution of unit tests suite
+· Unit test framework will uninstall existing version of Adaptiv Operations product, install latest version and execute the unit test suite against the latest version
+· Scheduling of utilities created on nightly basis
+· Demo the work done to team mates and to the business unit stake holders
+
+Project Title	: 	SunGard Adaptiv Operations support on Windows Vista
+Role		: 	Developer
+
+Scope of the Project: Provide support for Adaptiv Operations on Windows Vista
+
+Responsibilities:
+· Understanding the new technology like UAC, Virtualizations in Windows Vista
+· Implement changes in Adaptiv Operations projects like embedding user account information in executable manifest
+· Automate the process of embedding the manifest information into executable during build process
+· Demo the work done to team mates and to the business unit stake holders

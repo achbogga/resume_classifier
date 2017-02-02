@@ -1,0 +1,255 @@
+                                                            Karunakar Goud
+                                                         SAP Basis Consultant
+ckarubasis@gmail.com
+
+
+
+
+
+      Mobile:+91-8686577426
+Professional Summary
+
+            Having 8 plus yrs experience in the Information Technology industry with 7 plus years of experience in SAP BASIS Administration, Installation, Monitoring, Troubleshooting experience with SAP platforms from  ECC 5.0/6.0 and SAP Netweaver on Unix/Linux and Windows NT. Having good knowledge on UNIX and Oracle Administration and strong Oracle database skills, required to troubleshoot in SAP R/3 environment.
+Experience Summary
+
+· Involved in complete life cycle implementation of SAP System Landscapes that include Installations, User Administration, Client Administration, Operation Modes, Transports, Applying Support packages, troubleshooting and Basis support for Netweaver 2004 /2004s and Evaluation & Sizing of hardware based on Users and Database for Windows and UNIX environments.
+· Expertise in applying support packages i.e. SPAM/SAINT, Upgrade of Kernel patches and applying add-ons.
+
+· Extensive experience in configuring Transport management system (TMS) for the system  landscape using STMS.
+
+· Releasing and importing change requests in the landscape.
+
+· Hands on all aspects like System Copy/Refresh, Background Jobs, workload Analysis, Performed online and offline backups, verifying backups and monitoring DBA operation logs.
+· Expertise in all administration activities including BR* Tools.
+
+· Excellent Skills in SAP Support with strong experience in SAP ECC 5.0/6.0.
+
+· Experience in Basic Administration, Alert Monitors and User administration.
+
+· Expertise in problem solving and tracking Problems using SAP Reports & Logs.
+
+· Good experience in Client Administration, Client copy (Local, Remote)/ Import/Export.
+· Good at Profiles, Operation modes & performance monitoring at various levels like OS, DB and R/3 Application.
+· Monitoring the systems for system logs, verification ABAP Short Dumps, database growth, process overview, Background Jobs, updates, lock entries, alerts, and missing indexes.
+· Work process overview Monitoring and Define operation modes and distribute workload among available application servers.
+
+· Performance Analysis - System memory and performance monitoring.
+· Dedicated team player with good communication and written skills, Innovative with proven ability to identify, analyze, and solve problems to increase customer satisfaction and control costs.
+Academic Profile
+
+Bachelor Of Technology (C.S.E) From J.N.T.U, Hyderabad.
+Technical skills
+ERP
+
+
+: SAP R/3 4.7, ECC 5.0/6.0, SAP netweaver 2004s/04.
+
+Operating system
+: Windows 2000/2003 servers, XP/NT, Unix/Linux.
+
+RDBMS
+
+: Oracle 9i/10g, MSSQL Server 2003
+Languages                      : C, C++, Java
+Professional Experience - SAP
+Project 3:-
+
+	Organization
+	KPIT Cummins , Pune
+
+	Client    
+	Praj Industries
+
+	Role
+	SAP BASIS Consultant
+
+	Duration
+	 Aug 2012 To Till Date
+
+	Environment
+	SAP ECC 6.0, EP 7.0, BI 7.0, CRM 7.0 and Solution Manager 7.0 On Windows with Oracle 10g
+
+
+Description:
+
+Praj is a global Indian company that offers innovative solutions to significantly add value in bio-ethanol, alcohol, brewery plants, process equipment and water distillation and wastewater treatment systems for customers, worldwide. Praj is a knowledge based company with expertise and experience in Bioprocesses, yeast products and engineering. It has one of the largest resource bases in the industry with over 500 references across all five continents. Led by an accomplished and caring leadership, Praj is a socially responsible corporate citizen. Praj, which is the founding member of Global Growth Companies (part of World Economic Forum), is listed on the Bombay and National Stock Exchanges of India.
+Roles and Responsibilities:
+
+· Performed System refresh activities for the landscape.
+· Handling Transports from one System to another System. (DEV, QAS & PRD)
+
+· Client Administration including client copy / export / import / delete
+· Background Job administration and troubleshooting.
+· Configuration and Setup of TMS. Releasing and Importing of Transport change requests in both the ABAP and JAVA stacks.
+· Monitoring Operating system for the file system growth and monitored available memory and page in- page out, swapping and disk performance.
+
+· Monitored update errors and analyzed system logs and ABAP/4 dumps.
+
+· Monitoring Background jobs, re-scheduling, canceling long running jobs.
+· Performed support packs application activities such as SPAM/SAINT updates, applying support packs, SPAU and SPDD resolutions, add-ons/plug-ins installation etc.
+
+· Configuring and maintaining RFC connection between the systems.
+· Short dump analysis, managing lock entries, lock/unlock transaction codes, displaying and monitoring of Database and Application servers, managing user sessions.
+· Configured Operation Modes and Profile parameters maintenance.
+
+· Configuring logon load balancing.
+· Supporting to all systems in 24*7 environment in client environment
+· Spool & print management, Trouble shooting and monitoring with printers and system hardware.
+· Contribute to the documentation for the various tasks that we perform for daily monitoring.
+· Configured smsy,mopz and EWA for solution manager 7.0
+Project 2:-
+	Organization
+	Tech Mahindra , Bangalore
+
+	Client    
+	Hostess Brands
+
+	Role
+	SAP BASIS Consultant
+
+	Duration
+	Sept 2010 To July 2012
+
+	Environment
+	SAP ECC 6.0, BI 7.0 and Solution Manager 7.0 On Windows/Unix with Oracle 10g
+
+
+Description:
+
+Within Food and Beverages Industry, Hostess Brands Corporation is one of the largest wholesale bakers and distributors of fresh delivered bread and snack cakes in the United States. The company operates 39 bakeries throughout the United States, Known for their outstanding brands and product quality Hostess Brands Headquarters is based in Dallas, Texas, and with an operations center in Kansas City, MO (Missouri).
+Roles and Responsibilities:
+· Implementation of sap ecc 6.0 including hardware sizing with quick sizer
+· Configured sap router on solution manager .
+· Configured Transport Domain Controller for the 3-System Landscape.
+
+· Performing local, remote, import & export client copies.
+
+· Configuration and maintained RFC connection between the systems.
+
+· System Health Activities: Response time, memory utilization, CPU utilization, space utilization, and dialog process utilization, background process utilization, monitoring expensive programs, reports, transactions and users. Monitoring updates, enqueues.
+
+· Scheduling standard housekeeping jobs.
+
+· Maintaining of transports between development, Quality, and Production system using STMS.
+
+· Importing change requests between the systems in the landscape.
+
+· Applying support packages and patches using SPAM.
+
+· Upgrading SPAM/SAINT and KERNEL versions.
+· Configured logon groups for better performance of the systems.
+
+· Analyzing the missing authorizations for end users using su53.
+
+· Monitored the system time to time and involving troubleshooting problems like resetting passwords, clearing lock entries, unlock users.
+
+· Analysis & Monitoring – System Logs, Background Jobs, ABAP Dump Analysis.
+· Installation of SAP GUI for the end-user’s and solving related problems.
+· Worked on Solution manager Activities
+· Printer’s configuration and troubleshooting issues on Printers.
+
+· Extend the table spaces using BR*tools.
+Project#3:
+
+	Organization
+	Bristol-Myers Squibb
+
+	Client    
+	Mphasis BFL Software Ltd
+
+	Role
+	SAP BASIS Consultant
+
+	Duration
+	June 2006 To Aug 2010 
+
+	Environment
+	SAP ECC 6.0, BI 7.0 and Solution Manager On Windows/Unix with Oracle 10g
+
+
+Roles & Responsibilities:
+
+· Supporting to all systems in 24*7 environment in client environment
+
+· System Health checks and daily monitoring.
+
+· User and Role administration 
+
+· Working in Central User Administration (CUA) for maintaining the users.
+
+· Assigning roles to users depending on the requests.
+
+· Mass user creation and mass role assignment.
+
+· Analyze all business roles and map roles to transaction code (t-codes) according to business process.
+
+· Security Administration activities like Creation, Modification of roles and profiles based on business needs and transportation of roles from Dev to Qua to PRD.
+
+· Trouble shoot R/3 security problems by using different scenario such as system trace (ST01), SU53, and SU56.
+
+· Maintain standard naming conventions for security profiles and authorization objects.
+
+· Performed pre and post system refresh activities as per security aspect.
+
+· Documented old and new roles and created Security Matrix for tracking user’s access. 
+
+· Performing Client Copies and Post check activities
+
+· Patch administration, Kernel upgrades and System and Oracle profile maintenance.
+
+· Configuring RFC communications
+
+· STMS Configuration in 3 system landscape environment.
+
+· Transporting user requests through STMS.
+
+· Spool/ Output administration – Maintenance of output devices, deletion of old spool requests.  
+
+· Ticketing Tool (Remedy): Handling all Problem Management, Change Management and Incident Management tickets.
+
+· Analyzing the Early Watch Report.
+
+· Prepared the Work Instructions as per the Standard Procedures.
+
+· Did Index Reorganization.
+
+· Worked on Solution manager Activities
+
+Project#4:
+	Organization
+	Digiknots Pvt Ltd
+
+	Client    
+	MBDL
+
+	Duration
+	Feb 2005 to May 2006
+
+	Role
+	System Administrator
+
+
+Description:
+
+   Mohan breweries and distilleries limited (MBDL) is one of the leading manufacturers of Indian made foreign liquor and beer products in India. MBDL’s corporate office is located at Chennai, India. MBDL has also power generation units and glass container manufacturing units across south India. 
+Roles and Responsibilities:
+· Installing and configuring Terminal server and clients to manage server from professional or workstations. Configuring domain, forest domain, child domain with Active directory services.
+
+· TCP/IP configuration and utilities. Configuration of Print server. 
+
+· Installation, configuration and maintenance of Database servers on windows 2000 server.
+
+· Configured the Routers and Assigned the IP addresses.
+
+· Maintaining and trouble shoot the Network problems.
+
+· Remotely supported system integration department engineers to troubleshoot the network. 
+
+· Designed customized Internet/ Intranet LAN and WAN-based applications that provided secure real-time company and departmental information.
+
+· Up gradation of anti-virus software’s.
+
+· Troubleshooting the Network problems.
+
+· Configuring and maintaining the networks and Servers.. 
+

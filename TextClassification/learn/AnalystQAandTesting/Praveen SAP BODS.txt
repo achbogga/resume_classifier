@@ -1,0 +1,322 @@
+Name       : Praveen
+
+Employer : Rasheed@infotechspectrum.com
+Number   : 408-400-3790
+
+SUMMARY
+
+· 7 years of IT experience which includes 4 years in BODS/BODI  and 2 years in BI/BW
+· Experience working with BODS, BODI, SAP BO,SAP BW in both SAP and non-SAP environments
+
+· Expertise in extraction of source data, data profiling, cleansing and transforming data from both SAP and non SAP data sources to a data warehouse 
+· Extracted Data from heterogeneous data sources using SAP BODS
+· Experience with Data Quality, Data Integrator and Platform transforms
+· Experience working with BO reports and universes
+
+· Good understanding of BW Extractors and Data sources
+· Worked on LO Cockpit to populate logistics data sources 
+· Worked on activating BW standard business content
+
+· Experience in designing/creating InfoObjects, custom InfoCubes and custom DSO’s
+· Created process chains and infopackages to load data master and transaction data.
+
+· Good understanding of SD, PP, MM modules
+· Experience in data modeling using BW extended star schema and entity relationship model
+· Developed input schedules and reports using BPC 10.0
+· Experience in creating models and dimensions in BPC web client
+· Created and maintained transformation and conversion files in BPC
+· Integrated BODS with SAP BW 7.3 and ECC 6.0
+· Excellent experience in implementing dimensional modeling techniques including star-schema, snow flake schema 
+· Experience in Performance Tuning and Query Optimization of the ETL
+
+· Good understanding of database concepts with experience using Oracle and SQL Server
+· Worked with PL/SQL stored procedures, packages, and triggers.
+
+· Good Knowledge on SAP BO including Web Intelligence and Universe Designer
+
+· Excellent understanding of Agile, Waterfall and ASAP methodologies
+· Excellent teaming and Interpersonal skills, leadership qualities, detail oriented, innovative, self- motivated and quick learner.
+
+PROFESSIONAL EXPERIENCE
+
+ARI Inc., MO
+
+
+
+
+
+                                          Jan 13- Present
+End-to-end mid-market implementation of SAP ECC 6.0 in the Manufacturing and Services industry. Implementation scope included 152 Master Data Conversion categories from the legacy ERP system (Glovia ERP) .
+Sr. BODS Consultant
+
+Responsibilities:
+
+
+· Interacted with business users to get the functional and technical requirements
+· Created documentation standards e.g. change request forms, functional/technical specification documents, naming conventions, etc.
+
+· Extracted the data from the SAP ECC 6.0, SAP BI 7.0 and Flat files to Data Services system and built the custom ETL data flows, work flows and calculated key measures.
+· Extracted data using BODS from various sources including flat files of fixed format, Excel, XML, CSVs and database Oracle 
+
+· Created BODS jobs to enhance the BW related extractors and load it to the target system
+· Involved in Migrating/Exporting the Data Services code from DEV to Quality and Production systems and import and export the System configuration and Substitution Parameters from DEV to QA and PROD systems
+
+· Develop BODS jobs for material, customer, vendor master data loads.
+· Worked on the Data Quality Address cleanse transformations for cleansing the data before loading to the target system
+
+· Validated and executed batch jobs. 
+
+· Tested data flows and scripts and created the initial and delta loading jobs.
+
+· Created Sales Document Item custom DSO to load the net price
+· Created Custom Data Source for BOM explosion
+· Designed and developed the BW InfoCube to load all KPI’s as per the requirement
+· Created custom DSO’s and data sources to load legacy data using DB connect and flat file loading.
+· Activated the BW business content for FI/GL, SD and MM modules
+
+· Created Transformation Routines, Start Routines, End Routines as per the requirement 
+· Worked on POC to load Legacy data flat file into HANA using BODS
+· Created schemas in HANA for BODS targets
+· Responsible for loading master data and transaction data from ECC to BW objects
+· Created the process chains to automate the loading process for master and transactional data
+Environment: ECC 6.0, BW 7.3, BPC 10.0, BODS 4.1, BO 4.0, Oracle9i, SQL Server 2008
+
+Federal Home Loan Bank of Indianapolis, IN
+
+
+          May 11- Dec 12                                          
+
+BODS Consultant
+Responsibilities:
+
+· Worked closely with Bank's Enterprise Reporting team and Business Analyst to translate functional specifications to technical design.
+
+· Worked with Business users and DBA’s to determine and analyze the data sources
+· Attended project planning and sprint sessions and assisted identifying the critical paths and dependencies 
+
+· Attended the Agile/scrum meeting sessions 
+
+· Worked on multiple projects assisting in different phases of development life cycle
+
+· Responsible for creating the ETL mappings and high level technical design documents
+
+· Administering and maintaining BO Data Services management console and repository management.
+
+· Extensively used BODS Designer to migrate from heterogeneous source systems including Oracle, SQL Server, Teradata, and flat files
+
+· Worked with Data Integrator and Platform transforms for implementing CDC and developing ETL jobs creating datamarts
+
+· Developed ETL jobs by calling Stored functions/Procedures in Data Services
+
+· Used custom SQL inside SQL transform and database functions
+
+· Performed Debugging using breakpoints, trace, monitor, error logs and debug mode
+
+· Used Aggregate, String, Database and Lookup functions to implement required business requirement
+
+· Created Data Services/Data Quality workflow to clean and standardize names and address using Data Quality transforms
+· Responsible for writing and executing the  test cases for ETL Validation
+· Performed the Unit testing, Regression Testing and Integration Testing for the new ETL code 
+· Scheduled ETL jobs using Data Services scheduler and Tidal Web Client
+
+· Worked on performance tuning techniques by identifying the bottle necks
+
+· Worked with QA for data reconciliation  by identifying the data discrepancies
+
+· Created the DDL scripts and migration documents for deploying in Test and Prod environments
+
+· Created Tickets and Work orders for the issues and new code deployment
+
+· Provided support for troubleshooting and resolving issues for data anomalies or technical issues
+
+· Created Web I reports with multiple data providers and synchronized the data using merge dimension option in BO XIR3.
+
+· Created reports using Business Objects functionalities such as Drill down reporting, Slice/Dice, Master Detail reporting using Hyperlinks, Alerter, Sorting, Ranking, Breaks, Sections, Cross tabs, complex Formulae, etc.
+
+· Developed complex reports using combinational charts, graphs, Pie charts Etc.
+
+· Worked on SQL performance tuning to fix slow running reports.
+
+· Tested business objects reports for data validation and compared results and query run time in bank-end i.e., Teradata SQL Assistant and Business Objects.
+
+· Conducted training sessions to get business users familiar with Business Objects
+
+· Supported end users during UAT phase and worked on tracking fixing the bugs during this phase
+       Environment: BOXI 3.2, Business Objects XI 3.1, SQL Server 2008/2005, Oracle 10g/9i, Tidal Web Client  
+Client:
+Welspun Tubular LLC, AR
+
+
+
+
+
+Feb 2010- Apr 2011
+
+Role: BI Analyst
+
+Responsibilities:
+
+· Enhancement of Logistics data sources and info providers which includes sales order item and billing item.
+· Responsible for data modeling of the Sales and Distribution(SD) Module, and Master data (Customer and Material Master), for the SAP Business Information Warehouse (BW)
+
+· Analyzed the info cubes and maintained the aggregates to improve the reporting performance for BEx reporting. 
+
+· Built formula variables and also processing variables using replacement path and customers exit. 
+
+· Created, Scheduled and monitored Info Packages and creating process chains to load data from R/3 and flat files, perform aggregate rollups, index maintenance, master data and ODS data activation. 
+
+· Improved and optimized query performance by Info cube maintenance involving aggregate, rollups, Compression/collapse, partitioning the info cubes. 
+
+· Participated in the end user discussions to get a thorough understanding of the front end reporting requirements.
+
+ Environment: ECC 6.0, BW 7.1, BOXI 3.2, Business Objects XI 3.1, SQL Server 2008/2005, Oracle 10g/9 
+
+Anderson Merchandisers, TX 
+
+
+
+   
+
+      Mar 09 to Dec 09
+Sr. BOBJ/BODI Developer
+
+Responsibilities:
+
+· Worked with business users to define and analyze problems, create conceptual and logical data model, implement physical data model, and considers the implications of business solutions to the current and future environment; effort estimation for change requests.
+
+· Involved in database design, implemented the ETL processes and jobs using Data Integrator.
+
+· Monitor all aspects of organizational business engagements, both internal as well external, to ensure that the interfaces are developed and delivered to meet ETL standards and best practices
+
+· Created ETL Jobs in BODI to load monthly, weekly, daily data, to track issues and resolve them based on the priority. 
+
+· Extracted the data using BODI from the flat files and other RDBMS databases like SQL Server and Oracle into staging area and populated onto Data Warehouse. 
+
+· Collaborated with Database Administrators, Developers, and Analysts on all aspects of data management.
+
+· Used error handling strategy for trapping errors by defining error handling in all crucial steps of ETL transformations and sending errors to an error table.
+
+· Monitor and troubleshoot batches and sessions for weekly and Monthly extracts from various data sources across all platforms to the target database. 
+
+· Involved in performance tuning at source, target, mappings, sessions, and system levels. 
+
+· Tested the data and data integrity among various sources and targets. Associated with Production support team in various performances related issues. 
+
+· Involved in Installation of all Components of Business Objects XI R2.
+
+· Imported Users/Groups, documents (Web I and Desk I), Universe, Document, folders, categories and objects using Import Wizard.
+
+· Involved in the design/development of Universes, Classes, Objects and Conditioned Objects for Business Analysis and Report Generation.
+
+· Created Shortcut Joins and Aggregate tables in Universe Designer to improve the performance. 
+
+· Created the reports using Business Objects functionalities like Queries, Slice and Dice, Drill Down, Cross Tab, Master Detail and Formulae etc. 
+
+· Created Crystal reports using Business Views and Universes as data providers.
+
+· Responsible for reviewing and analyzing reporting requirements and translating them as per the requirement.
+
+· Developed Stored Procedures Using Oracle PL/SQL programming to improve the performance of the Reports using complex queries.
+
+· Involved in User Acceptance Test (Universes and Reports) throughout the migration process.
+
+· Parameters, special fields, formulae and multiple data sources are used to create the reports.
+
+· Created Sub Reports and custom prompts in crystal
+
+·  Reports.
+
+· Extensively work on scheduling and distributing the documents.
+
+· Tested the reports and modified the relevant Objects in the Universe as per the user specifications.
+
+· Involved in supporting end users in resolving issues related to Business Objects.
+
+Environment: Business Objects XI R2 (CMS, CCM, CMC, Auditor, Web I, Desk I), Oracle 9i, DB2, SQL*PLUS , Windows 2003 Server, Xcelsius, UNIX, Crystal Reports XI/10/9.0.
+
+Sprint, Overland Park, KS
+
+                          
+
+
+        Oct 08 – Mar 09
+
+Business Objects Consultant 
+
+          Responsibilities 
+
+· Created new groups, users and set access privileges for them with Business Objects Supervisor. 
+
+· Documented the creation and maintenance of the Business Objects Universe/Reports and Standard Operating Procedures. 
+
+· Created Cardinalities, Contexts, Joins and Aliases for resolving Loops. 
+
+· Checked the Integrity of the Universes. 
+
+· Created Reports using universe, stored procedure, freehand SQL as the Data providers and writing the complex queries including Sub Queries, Unions, Intersect and Aliases. 
+
+· Created User Prompts, Conditions and Filters to restrict the data as per the specifications.
+
+· Created the reports using Business Objects functionalities like Queries, Slice and Dice, @Functions, Cross Tab, Master Detail and Formula etc. 
+
+· Created Alerts and Implemented Ranking in the reports to highlight critical data.
+
+· Created Master Detail and Cross Tab reports to view the data in an analyzed way.
+
+· Defined Customized Sorts in Universes and Reports Level.
+
+· Created Reports using grouping, sorting, totaling, charts etc., and exported reports into various formats like PDF, txt, xml.
+
+· Resolved Year Ago Variance Calculation, Percentage Calculation in Cross Tab in Web I. 
+
+· Automated document Scheduling, Publishing and Distribution for WebI and Info View clients, using the Broadcast Agent for Web-Part Reports.
+
+· Involved in resolving issues relating to pre implementation of Reports 
+
+· Created reports using Crystal Reports with Standard, Summary, Cross Tabs, SQL, Command Objects, Selection Criteria, grouping, sub reports etc.
+
+· Developed Crystal Reports for Invoices, Notices and Mailing labels.
+
+· Created parameterized dashboard reports (these reports show information from highest level by company and can be drill-down to single product using hyperlinks and drill-down technique), cross-tab, conditional, Top N, Summary, Form, OLAP reports and Sub reports.
+
+Environment: Business Objects 6.5.1(Supervisor, Designer, Reporter), Web Intelligence, BCA, ZABO, Info View, Oracle9i, MS SQL Server 2000, MS Access 200 Windows 2000 Server, Unix, Sun Solaris.
+
+GPMD, Richardson, TX 
+
+  
+
+
+
+
+     Aug 06 – Sep 08
+Business Objects/Crystal Developer                            
+
+Responsibilities:
+
+· As a part of Universe designer team, created Semantic Layer, went through the two different levels of Database.
+
+· Designed, developed complex Universes with multiple Fact Tables , several hundreds of objects as per the Universe design, Joins, Resolving Traps and Loops, @functions, specified hierarchies using Business Objects Developer Suite to perform various tasks specific to every component Experience in Publishing, Scheduling the Documents and setting privileges to the users.
+
+· Developed Universe using Designer module, established users, user groups and assigned user privileges.
+
+· Expert in testing the created reports and modified the relevant Objects in the Universe.
+
+· Created Reports in Web-Intelligence XI R3.1 SP2 using complex functions and supported the deployment of Universes and Reports.
+
+· Designed and developed complex universes with multiple Fact Tables and several hundreds of objects as per the Universe design best practices.
+
+· Created Ad-hoc reports using Webi, Deski and Crystal Reports on a daily, weekly and monthly bases as per the user requirements
+
+· Created Cardinalities, Contexts, Joins and Aliases for resolving Loops and checked the Integrity of the Universes.
+
+· Organized data in reports by using filters, sorting, ranking and highlighted data with Alerts. 
+
+· Created many reports like daily, monthly, yearly Sales report and Space Management reports by product groups.
+
+· Designed and developed technical user documentation and involved in end user training and support.
+
+· Exported the universes to the Repository to making resources available to the users.
+
+Environment: Business Objects 6.0, Universe Designer, Web Intelligence, Desktop Intelligence, Crystal reports, Infoview, Oracle 8.0 and SQL Server 2000.
+ 1 of 6
+

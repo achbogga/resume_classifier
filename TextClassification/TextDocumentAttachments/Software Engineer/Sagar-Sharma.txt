@@ -1,0 +1,201 @@
+SAGAR SHARMA
+                  					    Phone# 6185205457
+                                                         sagarsharma134@gmail.com	      
+
+PROFESSIONAL PROFILE
+· 8+years of experience in software development and maintenance of n-tier distributed object oriented ,client/server applications,  with Java and J2EE technologies that includes requirement analysis, design, Development, testing ,documenting and implementation of web based and database applications
+· Experienced in developing and implementing web applications using Java and J2EE  technologies, includes working with Core Java, JDBC, Servlets, JSP, Java Beans, JMS, JNDI, Logging Framework(Log4j).
+· Proficient in using RDBMS  concepts and worked with Oracle,Mysql server, MS SQL server  and MS Access ,good experience in writing Stored procedures , Functions and queries
+· Strong working experience in designing front end pages using HTML,CSS,DHTML,JAVASCRIPT and XML
+· Worked on web application development using MVC and MVP Framework like Struts, spring and GWT
+· Experienced in using web services for information publishing and consuming 
+· Expertise in managing web and application servers like Web logic,Tomcat,Websphere, Apache
+· Experienced in working with Object /Relational mapping(ORM) tool Hibernate.
+· Experience in using IDE tools like Eclipse, Netbeans and project building tools like Maven and ANT
+· Experienced implementing unit testing(Junit) and  version control (SVN, CVS)
+· Provided system assistance and support after project implementation.
+1. Experience working with business users to analyze and document business requirements and system functional specifications.
+1. Strong Knowledge of SDLC, RUP, XP, SCRUM methodology and project life cycle.
+1. Strong knowledge of UML design tools: RequisitePro, Enterprise Architect and Rational Rose, Agro UML.
+1. Strong knowledge of Use Cases, Sequence Diagrams, Collaboration Diagrams, Activity Diagrams, ER Diagrams, Data Flow Diagrams and Class Diagrams.
+1. Experience in using Unix (Free BSD), Linux (Red Hat Linux,ubantu), Cent OS and windows based operating Systems.
+
+COMPUTER SKILLS
+	Methodologies
+	Agile,RUP,SCRUM,XP
+
+	Data / Business Analysis
+	Data Analysis, Business Analysis, Business Requirements Gathering, Functional Requirements Gathering, Design Document, GAP analysis, User Interviews, JAD, Process & Data Flow Diagrams, Excel, Web Hosting, Backups, Firewalls
+
+	Business Modeling Tools
+	Rational Rose, Microsoft Visio, IRise Studio
+
+	Project Management
+	Microsoft Project, MS Word, MS Excel, MS Power Point, MS Outlook (Microsoft Office).
+
+	Web Technologies
+	JavaScript,Jquery,CSS,HTML,XML,JSON,XSLT,JMS,JNDI,SOAP,Axis,WebServices ,DreamWeaver, Photoshop
+
+	Java Technologies
+	Core java,JSP, Servlets, JDBC, JNDI, Web Services,JSTL,JUnit,log4J,JMS,EJB, Java Mail, Apache Velocity
+
+	Programming Languages
+	C, C++, Java,J2EE, SQL, MATLAB, 
+
+	Databases
+	MySQL, MS SQL server, MS Access,Oracle
+
+	Operating systems
+	Windows, Free BSD (Unix), Red hat Enterprise Linux, ubuntu, Centos(Linux)
+
+	Servers
+	Apache, Tomcat, Web Logic, IBM Websphere
+
+	Framework
+	Struts,  Spring
+
+	ORM Tools
+	Hibernate
+
+	Other tools
+	UML, SOA,Eclipse, IBM RAD, NetBeans, SVN, Apache Axis 2, Ireports, Serena Business Manager, Visual VM, MAT, HP QC. JIRA
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Client: Comcast Media Center, Dry Creek, Colorado                                 	        10/2013 – Present
+Project:  AMS Simulator
+Senior Software Developer
+Description: 
+Comcast is the largest mass media and communication company in the world by revenue. It is the largest cable company and home internet service provider in the United States and the nation's third largest home telephone service provider. This is  a green field design of a Test simulator capable of emulating Comcast network element management interfaces and topology/configurations files in a way that allows a tester to create scripting scenarios for verifying AMS functionality. In doing so, the AMS shall present the configuration , topology and management data to the AMS in a fashion similar to that normally provided by network environment, and to allow for the verification of all the corresponding AMS system requirements as defined in the ALOHA Monitoring System functional specifications.
+Responsibilities:
+· Created and handled project management activities using Rally 
+· Used Maven for dependencies management and build tool.
+· Used Spring 3.1 MVC as a standard for the application architecture.
+· Used three tier development plan: JAVA as the business logic, My SQL as EIS and JSP along with JSTL, CSS, JQuery, JavaScript as the presentation tier 
+· Used Annotation based Validation for server side validation using the hibernate validator and Javax Validation packages.
+· Used Spring AOP for logging and Transaction management.
+· Wrote Stored procedure and Named SQL queries in XML using Hibernate to reduce code complexity and to ease reusability.
+· Used threading with java timers to run scripts and handled SNMP requests from Poller 
+· executed, wrote and validated shell scripts and DB Scripts to run the Cron jobs on the servers and used their logs to debug the issues encountered.
+· Set up Unix machines in various environments to deploy the application for various stake holders
+· Extensively used JUnit testing to test functional components and support continuous build process using Bamboo 
+· Configured the tomcat server, MySQL, SNMP,NTP to configure suitable debugging environment on the local machine and production Environment.
+Environment: JAVA,JSP,JSTL,J2EE,Spring 3.1.0, XML ,Hibernate 4.2, Maven, HTML,CSS, JUnit, Log4j, Eclipse, Apache  Tomcat Server, Shell Scripts, Rally, Putty, Winscp, MySQL, WORD, MS Visio, MS Power Point, Windows 7, Linux, SVN, Mysql work bench, Javascript, Jquery, Bamboo, SNMP, MIBS, OIDS, NTP
+
+Client: Dish Network/Blockbuster, EngleWood, Colorado                                 	        05/2012 – 09/2013
+Project:  Block Buster Data Center Move/Enhancement
+Senior Software Developer
+Description: 
+BlockBuster is largest Entertainment provider for Movies and Games in the US. Headquartered in MCkinney, Texas, BlockBuster is moving all of its datacenter and its resources to Englewood, Colorado under the Dish Network Facility. The Blockbuster Data center move project involved moving all of its application servers, Database servers to  Dish Network facility. The Main Scope of the project was to move the resources with minimal obstruction in the current production. Major responsibilities included the production support during the move and new software enhancements proposed by business.
+Responsibilities:
+· Designed and developed the business requirement by  performing extensive document analysis, requirement analysis including data analysis and gap analysis for new projects and created  Use Cases, Activity Diagrams, Sequence Diagrams to gather understanding of the process flow.
+· Created and handled SCR, RFC using Serena Business manager to track the software changes flow 
+· Used and made changes to  Ant  build files to handle various project related targets
+· Developed and Deployed various SOAP, RESTful web services  on a web logic application server to manage production  issues and support new business requirements related to web services
+· Created and Configured JMS Message Queues/data sources on weblogic server for related web services.
+· Developed RestFul Services and consumed in XML/JSON format in Android application
+· Used Visual VM, MAT, App Dynamics to analyze memory related issues of the JVM. 
+· Used the existing code base to investigate the root cause of the production issue and handled the improvements to avoid the issues for the future use using Eclipse and CVS
+· Used javascript and Jquery for front end application designs.
+· Configured and handled various third party API's like chase payment tech, OAuth, USPS for Application enhancements and support the related production issues.
+· Extensively used the production logs in investigating the cause of the production issues and logged hidden issues using log4j into the log file to make debugging more efficient 
+· Wrote and edited  Stored procedure and Named SQL queries in XML using Hibernate to reduce code complexity and to ease reusability.
+· executed, wrote and validated shell scripts and DB Scripts to run the Cron jobs on the servers and used their logs to debug the issues encountered.
+· Documented the existing issues and changes made to the source code to make production issues more efficient for similar cases in the future.
+· Used JIRA for  creating, handling and updating the status of the issues under consideration.
+· Used HP Quality Center for defect tracking and logging.
+· Migrated  and configured Application servers on Unix machines during Data center move
+· Managed and handled offshore team of developers for coding and trouble shooting.
+· Designed and implemented basic SQL queries for QA testing and report / data validation; performed black box and white box testing extensively to ensure data validation during debugging , logged the bugs during testing and  provided continuous feedback and change requests to the offshore team.
+· Configured the tomcat server, Web Logic server, Oracle DB Server to configure suitable debugging environment on the local machine and production Environment
+· Analyzed research on operational procedures and methods and recommend changes for improvement – with an emphasis on automation and efficiency.
+Environment: JAVA,JSP,JSTL,J2EE,Java Mail, JMS,XML, JSON, Spring 3.1.0, Struts 1.3, XML,Hibernate 3, ANT, HTML,CSS, Web Service, JUnit, Log4j, Axis 1.6, Soap UI, RESTClient, POSTER, Eclipse, Apache  Tomcat Server, Weblogic Server, Web Services, IReports, UML, Shell Scripts, JIRA, Putty, Winscp, FileZilla, Oracle, WORD, MS Visio, MS Power Point, Windows 7, Linux, CVS,SQL Developer, Javascript, Jquery, Sharepoint, Serena business Manager, Visual VM, MAT, App Dynamics, HP QC, Android
+
+
+Client: Locks A 2 Z INC, Maryville, IL                                 	        01/2010 – 04/2012
+Project: LocksA2Z Web Portal 
+IT Manager and Software Developer
+Description: Locks A 2 Z INC. offers a new way for customers to meet all of their locks and security needs. The company backbone is the online ecommerce site but it also serves the customers around the local Saint Louis Metro area with their service calls regarding installation and troubleshooting of locks and securities issues. The company website is designed with lot of features including the front end and robust backend for inventory, user, products, order and seller management and is still under development with new features, ideas and products added everyday to provide customers and suppliers with the ability to easily access and purchase a comprehensive range of security devices and accessories online.
+
+Responsibilities:
+· Designed the business requirement collection approach based on the project scope and SDLC methodology. Followed the agile methodology to implement changing requirements.
+· Conducted Applicants interviews to hire suitable candidates for opening positions.
+· Performed extensive requirement analysis including data analysis and gap analysis.
+· Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, OOD using UML.
+· Developed Software requirement specification documents as well as high-level project plan.
+· Developed wire frames for testers and web designers  using IRise Studio
+· Implemented the designed System following the Java Spring MVC framework.
+· Used Spring Security for authorization and authentication process.
+· Used three tier development plan: JAVA as the business logic, My SQL as EIS and JSP along with JSTL, CSS, JQuery, JavaScript as the presentation tier.
+· Used Annotation based Validation for server side validation using the hibernate validator and Javax Validation packages.
+· Used Java mail API for mail services for the application and Apache velocity as templating engine 
+· Developed store front end for online shopping and robust backend for order, inventory, users, Sellers, products management
+· Used Ant Builder to build the project and Maven for project Management
+· Junit,  log4j were used for unit testing and as logging frameworks
+· Used Hibernate as a persistence mapping technology which acts as a wrapper around the hibernate eliminating the mappings and configurations by annotating the POJO classes with database tables.
+· Wrote Stored procedure and Named SQL queries in XML using Hibernate to reduce code complexity and to ease reusability.
+· Used Authrorize.net and UPS web services client API's to handle  payment gateways, shipping Process to be implemented into the system and produced web services using SOAP and Axis to provide locksmith information.
+· Prepared and executed DB Scripts for Cron Jobs to be executed to process records at certain times.
+· Used IReports as reporting tool to generate reports based on sales, orders and inventory .
+· Managed and handled offshore team of developers and programmers for coding and trouble shooting.
+· Designed and implemented basic SQL queries for QA testing and report / data validation; performed black box and white box testing extensively to ensure data validation during coding , logged the bugs during testing and  provided continuous feedback and change requests to the offshore team.
+· Used rsync and cron tab to handle schedule incremental backup every day.
+· Used IP tables, mod_jk, Rinetd to forward ports and write firewall rules for security.
+· Configured the tomcat server, MYSQL Server to provide suitable hosting environment to the developers
+· Helped in securing website by configuring SSL on the server.
+· Used tools like Google Adwords, Google places to advertise the company goals and business to the targeted areas.
+· Used google analytics to view network traffic to come up with better and more robust marketing tactics.
+· Designed and implemented new ideas with daily research on other popular online portals to improve the website and create friendly shopping experience to customers and vendors
+· Prepared user manual for the client to operate the system efficiently and conducted training for system consumer.
+· Used Mod_jk with apache as a connector and load balancer to Tomcat server to run multiple instances of the applications and enable load sharing.
+· Assist the President and VP in setting realistic project expectations and in evaluating the impact of changes on the organization and plans accordingly and conducted project related presentations.
+· Assisted with user testing of systems (UAT), developing and maintaining quality procedures, and ensuring that appropriate documentation is in place.
+· Analyzed research on operational procedures and methods and recommend changes for improvement – with an emphasis on automation and efficiency.
+Environment: JAVA,JSP,JSTL,J2EE,Java Mail, Apache Velocity, Spring 3.1.0,XML,Hibernate 3, ANT, HTML,CSS, Web Service, JUnit, Log4j, Axis 1.6, Soap UI, Eclipse, RAD, Apache  Tomcat Server, Apache Server, Mod_jk IBM Websphere Application Server, Web Services, IReports, UML, RineTD, Google Adwords, Google Analytics, SSL Certificates, IP tables, firewalls, Putty, Winscp, FileZilla, MYSQL, WORD, MS Visio, MS Power Point, Windows 7, Cent OS Linux, Sub version
+
+Client: FOCUSONE NEPAL PVT. LTD, Lalitpur, NEPAL                                           03/2007-01/2008                  
+Project Title: Time and Attendance System	
+Software Developer		           
+The purpose of this project was to automate the manual activities regarding the attendance system and the report generation based on the employees attendance record. The system is intended to track the Personnel’s activities regarding their entry into and exit from the office, their total working hours, leave handling, managing administrator’s role, overtime calculation and finally their reports based on their attendance period. The system generates reports at different levels as per the system users need. The system was designed to perform the attendance using smart card or biometric reader.
+Responsibilities:
+· Designed the business requirement collection approach based on the project scope and SDLC methodology.
+· Facilitated and managed meeting sessions with Customers and hardware vendors from various business areas and performed requirement analysis including data analysis and gap analysis
+· Developed  and designed Software requirement specification documents as well as other project document templates based on SDLC methodology
+·    Designed and developed Use Cases, Activity Diagrams, Sequence Diagrams, OOD using UML.
+· Implemented the designed System using three tier development plan: JAVA as the business logic, My SQL as EIS and JSP as the presentation tier.
+· Used web services to provide weather information during greetings to the user
+· Designed and implemented basic SQL queries for QA testing and report / data validation; performed black box and white box testing extensively to ensure data validation during coding.
+· Developed and delivered the product using the Agile system of software development to collect continuous feedback from the clients to ensure the product components is being developed as per the requirements
+· Collaborated with the clients to observe the client site for the system installation and conducted project related presentations
+· Assisted with user testing of systems (UAT), developing and maintaining quality procedures, and ensuring that appropriate documentation is in place.
+
+Environment: MYSQL, WORD, MS Visio, MS Power Point, Windows XP, JAVA,JSP, JUnit, J2EE,Netbeans 5.5, Tomcat Server, Agro UML,Putty, Winscp, FileZilla, Web services, Axis, SOAP UI, 
+
+SoftNEP PVT. LTD, Kathmandu, Nepal	                                                          01/2006-02/2007   
+Intern Software Developer						          
+Experienced in Requirements gathering, minor coding, debugging and testing with strong base knowledge of relevant systems/applications as it related to workflow, process, and problem resolution. 
+Responsibilities:
+· Involved in various projects parts mostly for requirements gathering and analysis, System design, SRS preparation, user manual preparation and minor coding, debugging and testing
+· Worked with major business areas including customer service and support
+1. Facilitated and attended meeting sessions with committee of co-developers, managers and clients
+1. Performed extensive requirement analysis including data analysis and gap analysis. 
+1. Developed and designed Software requirement specification and other project document templates based on SDLC Methodology
+1. Established a business analysis methodology around the RUP (Rational Unified Process).
+1. Designed and developed all Use Cases and UML models using MS Visio and Agro UML
+1. Designed and implemented basic SQL queries for QA testing and report / data validation.
+1. Set up definitions and process for test phases including Product test, integration test, system test and user acceptance test (UAT).
+Environment: MYSQL, WORD, MS Visio, MS Power Point, Windows XP, JAVA, JSP, J2EE,Netbeans 5.5, Tomcat Server, Agro UML, Putty, Winscp
+
+EDUCATION AND TECHNICAL TRAININGS
+1. Southern Illinois University Edwardsville, Illinois --- MS in Electrical Engineering
+1. Institute of Engineering, Advanced College of Engineering and Management, Tribhuvan University --- B.E. in Computer Engineering.
+NIIT Certified - Advanced java (JSP, Servlets, XML & EJB); Kathmandu, Nepal
+IID - Red Hat Enterprise Linux-4; Kathmandu, Nepal             
+Key Words:   Network Engineering, Internet, Intranet, Router, Switches, NAT, Firewall, Netscreen 5XP, VPN, LAN,  VLAN, WAN, OSPF, BGP, RIP, VRRP, NAT, DNS, Bash Script,  Netbeans,  Eclipse, Linux, Unix, JAVA, JSP, Struts, Spring, Hibernate, JDBC, SQL, web services, SOAP, Axis Software, Database, Agile, RUP,SRS,BRD, UML, UAT, Requirement gathering, Back UP,SSL, web Hosting, Cent OS, VPS, IP tables, Port forwarding.
+Page 3 of 5
+

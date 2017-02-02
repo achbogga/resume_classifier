@@ -1,0 +1,435 @@
+ Gautam Konar (PMP) Certified through Project Management Institute (PMI), 2010
+Certified Project Manager with expertise in Information Technology . 
+      Summary of Qualifications 
+· Expert in information systems technology, project planning, strategic planning, systems analysis and troubleshooting, quality control, forecasting, scheduling and planning, WBS, Process Mapping, Change Management, Transition, migration and tracking of results.
+· In-depth knowledge and experience in cost management, time management, risk management, and integration management.
+· Highly knowledgeable in Application development, requirements gathering, and database design.
+· Excel at creating and implementing technical and operational plans and strategies.
+
+· Competent liaison between management, clients, and personnel.  
+
+· Strong communication, presentation, analytical and problem solving skills.
+Key Acheivements 
+· Reduced the number of Customer Calls Per Day  from 100 to 50.A 50% reduction in number of calls was achieved by automating Password Expiry part
+· Reduced the team size of Peoplesoft Admins  from 3 to 1 by using Customizing Integration Brokers across instances. 
+· Reduced the Size of EPM team from 4 to Zero by Using Peoplesoft Delivered  Analytic Calculation Engine.
+· Awarded best team by reducing the number of Clicks by Using Peoplesoft Portal. 
+. 
+Current 
+
+Organization:                     PWC
+Designation:                        Principal Consultant
+Location:                             Flat No 108, Hemanth Avocados, 
+
+Near Gandhi Circle, Horamavu, Bangalore 43 
+(Currently Deputed to Lucknow
+Email Address:               g_konar@rediffmail.com
+Personal:
+
+Name: Gautam Konar 
+
+Date of Birth: 21st May 1978  
+
+Nationality: Indian
+
+Passport No: J6534957
+
+Cell:91-9741420569
+Email-id            :  g_konar@rediffmail.com gautam.konar@gmail.cm
+
+Work Experience 
+
+	Organization
+	Location 
+	Date Of Joining 
+	Last Day Worked 
+	Areas Worked Upon
+	Additional Information 
+
+	PWC
+	Bangalore
+	Feb 2013
+	Currently Working
+	ERP(People soft)
+	
+
+	ITC INFOTECH
+	Bangalore
+	Nov  2006
+	Feb 2013
+	ERP(People soft)
+	
+
+	Kanbay 
+	Hyderabad 
+	June 2005 
+	Oct 2006
+	People soft Upgrade
+	
+
+	Satyam Computers 
+	Hyderabad 
+	Jan 2004
+	April 2005 
+	HRMS (Peoplesoft)
+	
+
+	GAP
+	Kolkata
+	Jul 2002
+	Jan 2004
+	Preparing for CAT,GRE ,TOEFEL
+	(unemployed for this Period)
+
+	CMC
+	Kolkata 
+	Jul2000
+	Jul2002
+	Hardware
+	
+
+
+Academic Qualification:
+
+	Degree/Diploma
+	Year of Passing
+	Board/University
+	College/Institute
+	Percentage
+
+	PGDIT
+	2009
+	SYMBIOSIS
+	SYMBIOSIS CENTRE FOR DISTANCE LEARNING
+	
+
+	BE(Electrical Enginnering) 
+	2000
+	Burdawan University
+	REC Durgapur
+	64.3%
+
+	H.S.C. (12th)
+	1996
+	CBSE
+	Kendriya Vidyalaya Brajrajnagar
+	75%
+
+	SSC. (10th)
+	1994
+	CBSE
+	Kendriya Vidyalaya Brajrajnagar
+	 82%
+
+
+Certificates
+	PMP  Certified 
+
+	ITIL V3 Foundation
+
+
+
+	Peoplesoft Technology  Certified  Professional (Peopletools  1 and 2)
+
+
+PROJECTS EXPERIENCE
+
+Period
+
+:Feb 2013 – Till date 
+Industry
+: IIM Lucknow
+Project Name
+: Peoplesoft Implementation
+Project Type
+: Portal Imlementation
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Individual Contributor
+Responsible for: Peoplesoft Portal Implementation
+Brief description of the project & role: 
+
+· Responsible for peoplesoft Portal Implementation in IIML
+
+Period
+
+:Jan 2013 – 2013 Feb
+Industry
+: ITC
+Project Name
+: One Point  
+Project Type
+: Peoplesoft Automation
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Individual Contributor
+Responsible for: Peoplesoft Automation
+Brief description of the project & role: 
+
+· Designed and developed and interface for PMO team to automate the project creation and authorization (addition of project into tree, giving requisite permissions to project managers).
+
+· This reduced Peoplesoft Admin tasks by a large extent. Awarded achiever of the month for the same.
+
+Period
+
+:Feb 2012 – 2012 Oct
+Industry
+: ITC
+Project Name
+: One Point  
+Project Type
+: Peoplesoft Upgrade (9.0 Ver to 9.1 Ver)
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Project Manager
+Responsible for: Peoplesoft Upgrade (9.0 Ver to 9.1 Ver)
+Brief description of the project & role: 
+
+· Responsible for driving the Peoplesoft Upgrade across ITC. on time within budget .
+
+· Responsible  for doing Fit gap Analysis and bringing value to organization by enabling additional features available in higher versions.
+· Additional Responsibilities included Status Meeting, Performance Reporting, Task Distribution, and People Management. 
+Period
+
+:Mar 2011 – 2011Dec
+Industry
+: ITC
+Project Name
+: One Point  
+Project Type
+: Payroll Interface to Third Party
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Individual Contributer
+Responsible for: Payroll Interface to Third Party
+Brief description of the project & role: 
+
+· Architected and developed Payroll Interface to Third Party which used to sync employee data
+From Peoplesoft System to third party system.Used appengine and  for the same.
+Period
+
+:Oct  2010 –Jan 2011
+Industry
+: ITC
+Project Name
+: One Point  
+Project Type
+: PRIMAVERA Implementation
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Project Manager 
+Responsible for: PRIMAVERA Implementation
+Brief description of the project & role: 
+
+· Responsible for driving the Management, Deployment Primavera across ITC. on time within budget .
+
+· Collecting Requirement from PMO Team , Planning ,Executing ,Monitoring and Controlling the entire Implementation. 
+
+· Additional Responsibilities included Status Meeting, Performance Reporting, Task Distribution, and People Management. 
+
+· Streamlining  PMO process and optimizing the same.
+
+Period
+
+:Aug   2010 –Oct 2010
+Industry
+: ITC
+Project Name
+: One Point  
+Project Type
+: Portal Implementation
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Project Manager 
+Responsible for: Portal Implementation
+Brief description of the project & role : 
+
+· Championed the cause of  Peoplesoft One Click in which any panel or print out is achieved in one click.
+
+· Responsible for development and management of Project Budget, Project Costing , determining project scope, liaising between clients and staff throughout project lifecycle, and ensuring objectives were met.
+Period
+
+:Mar  2009  –Aug 2010 
+Industry
+: ITC
+Project Name
+: One Point  
+Project Type
+: CRM Implementation
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Project Manager
+Responsible for: CRM Implemetation 
+Brief description of the project & role : 
+
+· Responsible for Project Management, Deployment of CRM Sales Module Implementation across ITC on time within budget.
+
+· Collecting Requirement from Sales Team , Planning ,Executing ,Monitoring and Controlling the entire Implementation. Additional Responsibilities included Status Meeting, Performance Reporting, Task Distribution, and People Management.
+
+· Responsible for implementing Proposal –Quote Integration between CRM –FSCM. 
+
+Period
+
+: Sep  2008 –Mar 09  
+Industry
+: ITC
+Project Name
+: One Point  
+Project Type
+: Implementation
+Environment
+: Windows , Peoplesoft  9.0
+Role
+
+: Project Lead
+Responsible for: Peoplesoft Time and Labour Implemetation 
+Brief description of the project: 
+
+Time and Labor Implementation  in ITC 
+
+ 
+
+Successfully implemented time and labor in ITC . ARS system collects  our IN and Out time. We use the same along with peoplesoft time and labor module for the purpose of attendance tracking. A notification mail is triggered for Late Comers , Early Goers and absentees with prior information. My responsibilities included setting up the entire thing . Developing interface between ARS and One Point. Creating time reporters. Integrating time and labor with Absence management. 
+
+Customer
+: Danske Bank  
+Period
+
+: Nov  2006 –Sept 2008 
+Industry
+: Banking
+Project Name
+: Danske HRMS 
+Project Type
+: Development & Maintenance
+Environment
+: Windows , Peoplesoft 
+Role
+
+: Techno Functional Lead 
+Responsible for: Peoplesoft HRMS Support and Enhancement  
+Brief description of the project:
+Modified  PS –Queries as per requirement.
+Generated a report which contains birthday of the employees falling under a certain period.
+Automated removal of deputy roles when the supervisors are transferred or  terminated.
+Analysed and proposed solutions for purging of worklists.
+June 20 05 Till  Oct 2006
+
+Project Name                                         :                 HSBC UPGRADE  
+Client                                                      :                 HSBC 
+Hardware                                                :                 Mainframe 
+Software                                                 :                  PeopleSoft HRMS 
+Role 
+
+
+
+
+:
+      Team Lead
+Analyzed the customized objects before upgrading them from 8.3 version to 8.9 version. 
+Estimated the cost and time required for recreating the same.
+ Changes in the person model in between version 8.3 and 8.9 version  were explored.Fit gap analysis of the same was done. 
+Led a team  for upgrading the sqr’s and AE from 8.3 to 8.9 ver. 
+Aug20 04  till April 2005 
+
+Project Name                                         :                 Employee Profile Change 
+Client                                                      :                 Glaxo Simth Klime (GSK)
+Hardware                                                :                 Sun Solaris 
+Software                                                 :                  PeopleSoft HRMS 8.3
+Role 
+
+
+
+
+:
+      Team Member 
+
+Employee Profile Change is  customization of Manager Self Service Module. This application automates the process of raisnig a requisition (such as Transfer, Salary Change)  and sending the requests to subsequent approvers  till it gets approved.Approvers worklist are populated along with a intimation mail that requisition is awaiting approval . After final approval, originator and Hris Admin are intimated. 
+
+Role : Team Member
+Responsibilities –
+
+As a Techno-functional Consultant, I was responsible for designing the Records,Panels,Components.Working out the entire flow of the mails and workflow. Implementing the buisness logic whenever and wherever required. 
+
+
+Apr2004  To Aug 2004
+
+Project Name
+
+
+
+:            Satyam Human and Resource on Peoplesoft
+Client
+
+
+
+
+: 
+Satyam Computers (Internal Project )
+Hardware 
+
+
+
+: 
+Pentium, Windows NT
+Software
+
+
+
+: 
+PeopleSoft HRMS 8.8
+Role
+
+
+
+
+:
+Team Lead
+Lead a team of four members to implement  Time and Labour and Global Payroll  module  for Satyam .Played an active role in the implementation of Core HRMS , Recruiting , Workforce Administration in Peopleosft Hrms (vanilla Version) . 
+Responsibilities –
+As a Functional Consultant, I was responsible for gathering of the requirements. Analyzing the organizational hierarchy of the organization and setting up the organizational tables in the HRMS .I had also played the lead role in implementing Time and Labour. Setting up taskgroups , workgroups , trcs , time reporting  templates . Played a major role in setting up the Global Payroll and running the payroll.
+Jan 2004 to Till Apr 2004
+
+
+:            GPEP (Global Peoplesoft Expansion Project )
+Client
+
+
+
+
+: 
+Caterpillar 
+Hardware 
+
+
+
+: 
+Pentium, Windows NT
+Software
+
+
+
+: 
+PeopleSoft HRMS 8.0
+Our Client  is a MNC having operations directly in more than 20 countries. They  are implementing PeopleSoft throughout the countries. GPEP Project consists of three segments Data conversion, Reports and Production Support. Our team is into development and customization of SQR reports.
+Role
+
+
+
+
+:
+Team Member

@@ -1,0 +1,578 @@
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 1 / 9 
+
+B.on Consultant LCP-02-2014 
+Date of birth: 8/15/1977 
+
+7 years of experience 
+
+SUMMARY OF EXPERIENCE 
+  
+Degree in computer engineering and computing-Instituto Superior Técnico, with academic Experience in 
+
+Java, held by the option limit work in the area of Domotics – control application interface X 
+10/DomoBus in .net technologies, which catapulted the consolidation of your professional Experience in 
+
+various areas of business, particularly in the areas of real estate, catering, banking, marketing, justice, 
+
+electronic invoicing and others, mostly using .net development technologies.  
+
+ 
+
+Involved in all processes of software lifecycle, from its design, coding, testing, entry into production and 
+
+maintenance, has a taste for exploring new technologies and interacts well with his colleagues 
+
+demonstrating being a consultant that quickly conveys gains with your experience, ethics and with the 
+
+acquired knowledge. 
+
+AREA OF COMPETENCE 
+
+Caption:  
+
+Level 1: Beginner – for example: theoretical knowledge, academics, training, ...  
+
+Level 2: Intermediate-Level 1 + small projects, internships + experience [0; 2 years] 
+
+Level 3: Professional-Level 2 + professional experience in various projects + experience [2; 4 years] 
+Level 4: Senior: 3 + Level Experience [4; 6 years] 
+Level 5: Expert 
+
+  
+
+Note: Please fill the frame entirely according to the example. If necessary add the content. Please keep the format. 
+
+  
+
+Languages Level Years of 
+exp. 
+
+Comments about the domain of 
+
+competences 
+
+C # 5 7 Professional Experience 
+
+ASP.NET 5 7 Professional Experience 
+
+Javascript 4 7 Professional Experience 
+
+HTML 4 7 Professional Experience 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 2 / 9 
+
+CSS 3 7 Professional Experience 
+
+JQuery 3 4 Professional Experience 
+
+XML 4 7 Professional Experience 
+
+Java 2 1 Professional Experience 
+
+XSLT 3 4 Professional Experience 
+
+Management system databases 
+
+SQL Server 2008 5 5 Professional Experience 
+
+Oracle 3 2 Professional Experience 
+
+Tools 
+
+Visual Studio 2003 3 2 Professional Experience 
+
+Visual Studio 2005 4 3 Professional Experience 
+
+Visual Studio 2008 4 3 Professional Experience 
+
+Visual Studio 2010 4 2 Professional Experience 
+
+Visual Studio 2012 3 2 Professional Experience 
+
+AJAX 3 7 Professional Experience 
+
+WIN 32 API 2 1 Academic Experience 
+
+Struts 2 1 Academic Experience 
+
+Eclipse 2 2 Professional Experience 
+
+MS Office Tools 3 4 Professional Experience 
+
+Infragistics 3 3 Professional Experience 
+
+Subgurim 3 1 Professional Experience 
+
+CVS 3 4 Academic and professional experience 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 3 / 9 
+
+Team Foundation Server 3 1 Professional Experience 
+
+SourceSafe 3 3 Professional Experience 
+
+SVN 3 4 Professional Experience 
+
+IIS 3 7 Professional Experience 
+
+Scriptor 3 1 Professional Experience 
+
+Umbraco 3 1 Professional Experience 
+
+Operating Systems 
+
+Windows (95, 98, Me, 
+
+2000, XP, NT, Server2003) 
+
+3 7 Professional Experience 
+
+UNIX 2 7 Academic Experience 
+
+Linux 2 1 Professional Experience 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 4 / 9 
+
+Projects 
+
+(Name of company/client) 
+Period: January 2012 to date 
+
+Context: ASP.NET Web Development in SaphetyDoc v4 and v5.  
+Development of XSLT Makro EDIFact with C # web Editor. 
+Development of Batch XLST/C # Notifications.  
+Development of C # REST WebServices.  
+Development of C # Multiple Drag & Drop File Upload Control 
+
+(Cross-Browsing).  
+Development of Multiple selection and action under the Infragistics 
+
+grid control.  
+FacturaE 3.2 XSLT Mapping. 
+
+Team size: 5 
+Level of 
+
+intervention: 
+Programmer/Analyst 
+
+Technologies: ASP.NET 3.5, 4.0 ORACLE SQL, xslt, xml, jQuery, javascript, IIS, 
+svn, Infragistics NetAdvantage ASP.NET, Redmine, Scrum ALM. 
+
+  
+
+(Name of company/client) 
+Period: August 2011 until Dezember 2011 
+
+Context: Developments in ASP.NET portals: 
+-Inter IKEA Centre Group Mobile Backoffice,  
+-Jeronimo Martins (phase 1 and Phase 2). 
+
+Team size: 3 
+Level of 
+
+intervention: 
+Programmer/Analyst 
+
+Technologies: ASP.NET 2.0/3.5/4.0, SQL 2008, javascript, jQuery, svn, Spring.NET, 
+WCF 4.0, Umbraco CMS, EntityFramework, Subgurim, Redmine. 
+
+  
+
+  
+
+(Name of company/client) 
+Period: October 2010 until July 2011 
+
+Context: Developments in web application used by the Department of 
+Informatization of the Courts (dit.net):  
+-Human resources costs; 
+-Data Access Layer; 
+-Print model D-10.5 (bulletin route); 
+-Graphic costs; 
+-Maps; 
+-Itineraries;  
+-Forum. 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 5 / 9 
+
+Team size: 3 
+
+Level of intervention: Programmer/Analyst 
+
+Technologies: ASP.NET 2.0, SQL 2005, javascript, ajax, VB.net, Team Foundation 
+Server, Infragistics ASP.NET Controls, Telerik Rad Controls, 
+
+Subgurim, jQuery, EntityFramework, Team Foundation Server. 
+
+  
+
+  
+(Name of company/client) 
+
+Period: July 2010 until September 2010 
+
+Context: Development in packages 2, 3, 4, 5, 6 Epop portal (Operational Portal 
+of Barclays) with COBOL transactions central invocation through WS, 
+
+following the workflow shared with the Ultimus system. 
+Support for the international test team from UK Sogeti. 
+
+Team size: 8 
+
+Level of intervention: Programmer/Analyst 
+
+Technologies: ASP, ASP.NET 2.0, Javascript, VBScript, C #, VB, SourceSafe, HP 
+Quality Center, Ultimus 
+
+  
+
+(Name of company/client) 
+Period: March 2010 until June 2010 
+
+Context: Kanguru Site-Development and testing in the area of Account 
+Management at the level of layout and use of WS Billing Tibco. 
+
+Team size: 3 
+Level of intervention: Programmer/Analyst 
+
+Technologies: ASP.net 1.1, 2.0, C #, HTML, ajax, SOAP WebServices, Scriptor. net 
+1.1, 2.0, javascript, jQuery, XML, XSLT, SourceSafe. 
+
+  
+
+(Name of company/client) 
+Period: June 2009 until February 2010 
+
+Context: Development in different portals: Multicare, Pension Fund 
+CaixaAgricola, DGTF, Inatel, Naturlink, ACP Rally of Portugal. 
+Development of HTTP handler for address translation (URL Rewriter) 
+
+for the ICM CM (content management). 
+Design and development of lojaACP E-commerce portal with SSO. 
+
+Team size: 5 
+
+Level of intervention: Programmer/Analyst 
+Technologies: ASP.net 2.0, C #, IIS, SOAP WebServices. net 1.1, 2.0, 3.5, Javascript, 
+
+SQL Server 2003/2005, Ajax, HTML, JavaScript, jQuery, XML, NOP 
+
+Commerce, Analytics, SVN, Windows Server 2008. 
+
+  
+
+(Name of company/client) 
+Period: February 2009 until May 2009 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 6 / 9 
+
+Context: Optimus Website-Development and testing in the area of Account 
+Management at the level of the layout and level of consumption of WS 
+
+Billing Tibco. 
+ContinenteMobile-Web Site Development and testing in the area of 
+
+Account Management at the level of the layout and level of 
+
+consumption of WS Billing Tibco. 
+
+Team size: 5 
+
+Level of intervention: Programmer/Analyst 
+
+Technologies: ASP.net 2.0, C #, .net, WebServices SOAP Scriptor 1.1, 2.0, HTML, 
+JavaScript, jQuery, XML, XSLT, SourceSafe. 
+
+  
+
+(Name of company/client) 
+Period: December 2008 until February 2009 
+
+Context: Object drawing model, development and application testing is 
+RedBoxcallCenter, an application that supports service in Call Centers, 
+
+helping to monitor and manage inbound and outbound calls in a call 
+
+center, supervised by Asterisk VOIP system via WS. 
+
+Team size: 6 
+Level of intervention: Programmer/Analyst 
+
+Technologies: ASP.NET 2.0, C #, HTML, Javascript, Asterisk, Team Foundation 
+Server. 
+
+  
+
+(Name of company/client) 
+Period: February 2008 until November 2008 
+
+Context: Development and monitoring of various applications to the Department 
+of Planning and Management Control-billing, profitability, inflation, 
+
+human resources, inventory of the park. 
+Technical advice in the area of estimation results, analysis of operating 
+
+accounts, using EXCEL spreadsheets and with the support of the SAP 
+
+system. 
+Support in catering units in the informatics area, both hardware and 
+
+software. 
+
+Team size: 3 
+
+Level of intervention: Programmer/Analyst 
+
+Technologies: ASP.NET 3.5, C #, Javascript, SQL 2005, Excel, SVN. Windows Server 
+2003. 
+
+  
+(Name of company/client) 
+
+Period: January 2007 until February 2008 
+
+Context: Development and monitoring of applications IMOGUIA CRM, CRM 
+sledgehammer (HTTP handler for HTML content of web pages). 
+Development and monitoring of applications for export of content to 
+
+external Web servers (BPINet, Habinet, BESCasa, BCP House and IOL). 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 7 / 9 
+
+Responsible for the development and delivery of newsletters and 
+
+mailshots. 
+
+Team size: 5 
+
+Level of intervention: Programmer/Analyst 
+
+Technologies: ASP.NET 1.1, 2.0, C #, SQL Server 2003/2005, XSD, HTML, Javascript, 
+IIS, vbscript, MachMailer, SourceSafe, SVN, Windows Server 2003. 
+
+  
+
+ 
+
+ 
+
+(Name of company/client) 
+Period: October 2005 to January 2006-November 2006 to December 2006 
+Context: Development of an application, given an "open source" capable of read 
+
+music playlists defined in xml files and based on content available in the 
+
+file system, to reproduce such content mp3. 
+Developing of a Java client/server application for content sharing, mp3 
+
+contents, music playlists, xml between systems, using the protocol 
+
+developed over TCP sockets. 
+Development of Java application on Linux systems for installation of 
+
+various modules and their settings required to operate the system. 
+Development of C # WinForms application for editing an XML playlist 
+
+format created in xls format. 
+Development of the C # application on Windows systems for installation 
+
+of various modules and their settings required to operate the system. 
+Maintenance and installation of computer facilities of the company and 
+
+administration of Linux and Windows 2003. 
+Creating and maintaining the CVS development repository. 
+
+Team size: 3 
+
+Level of intervention: Programmer/Analyst 
+
+Technologies: Java, Eclipse, XML, Visual Studio 2003, C #, Linux, Windows 2003, 
+CVS. 
+
+  
+
+(Name of company/client) 
+Period: November 2001 until December 2007 
+
+Context: Supervisor for the local computer network. 
+Planning and design of TCP/IP and related installations and configuration, 
+
+planning and organization of Access databases, site planning and user 
+
+support. 
+
+Team size: 1 
+Level of intervention: System Administrator/Computer Analyst 
+
+Technologies: Windows NT 4.0, TCP/IP, MSAccess. 
+
+  
+
+(Name of company/client) 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 8 / 9 
+
+Period: June 1998 to February 2000 
+
+Context: Contacts with youth associations and other entities, management and 
+organization of databases, support in the area of programs and support the 
+
+dispatch of correspondence, among others. 
+Service and providing information to young people, young and card issuing 
+
+their accounts as well as contacts with youth organizations and other 
+
+entities. 
+Coordinator of Volunteer human resources in the areas of entertainment 
+
+and sport at the World Festival of Youth 1998. 
+Team size: 4 
+
+Level of intervention: Head of the Information Office of Juvenile Area in Regional Delegation of 
+the Portuguese Youth Institute 
+
+Technologies: Windows NT 4.0, MSAccess. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRAINING 
+
+ 
+
+  
+Academic Formation 
+
+Degree Course Institution 
+Year of 
+
+Completion 
+Degree (Pre-
+
+Bologna) 
+Informatics and computers 
+
+engineering 
+Instituto Superior Técnico 2006 
+
+  
+
+Additional Training 
+Degree Designation Institution Year of 
+
+
+
+ 
+COMPETENCE PROFILE 
+ 
+
+B.ON Engineering Confidential  pág. 9 / 9 
+
+Completion 
+Approved 38 training course in ethics 
+
+and professional ethics 
+The southern region of the order 
+
+of engineers-Lisbon 
+2011 
+
+Approved Integrated data processing 
+course 
+
+International Drug Control 1991 
+
+Approved Admission course German school of Lisbon 1987 
+
+  
+
+Languages 
+Mother Tongue: Portuguesa 
+
+Language Writing Oral 
+English 4 3 
+Spanish 3 3 
+French 2 2 
+German 1 1 
+
+  
+
+ 
+
+
