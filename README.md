@@ -1,16 +1,24 @@
 # resume_classifier
 An NLP based document classifier java project given the class labels as folder names.
 Hi,
-This is a java eclipse project implementation zip of Document Classifier (Coded by me from scratch) which can can classify any type of text documents into the following classes:
-1. Research and Development
-2. Software Engineering
-3. Design and Engineering
-4. Analyst QA and Testing
-5. Letters or Essays
-6. Management
-7. Spam or Advertisements.
+This is a java eclipse project implementation zip of Document Classifier (Coded by me from scratch) which can can classify any type of text documents directly from your email attachments into the following classes:
+
+Research and Development
+Software Engineering
+Design and Engineering
+Analyst QA and Testing
+Letters or Essays
+Management
+Spam or Advertisements.
+
+Testing:
+
+Enter the email server details in the main.java program and call the test function.
 
 All you have to do is delete the classified files folder and put the documents required to be classified into the test folder and run the main from eclipse. You can find the results in the classified files folder as well as on the console of Eclipse.
+
+Training:
+Add the labelled folders and documents to the learn folder and call the train function and watch the magic happen.
 
 Few notes:
 This software is distributed under Apache License. Please request me before redistributing it. I am not liable for any consequences of using this software. Use it by citing this repository along with my email achyutsarmaboggaram@gmail.com and full name Achyut Sarma Boggaram.
